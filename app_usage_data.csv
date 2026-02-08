@@ -1,0 +1,2001 @@
+Session_ID,Session_Date,App_ID,App_Category,Platform,User_Type,Region,Session_Duration_Minutes,Data_Usage_MB,Engagement_Score
+SESS000001,2024-04-24,App_7,Entertainment,iOS,Premium,Europe,18.48,488.69,44
+SESS000002,2024-01-26,App_3,Gaming,Android,Free,North America,74.54,307.12,16
+SESS000003,2024-10-08,App_13,Social Media,Android,Free,North America,6.9,265.12,80
+SESS000004,2024-09-07,App_3,Health & Fitness,iOS,Premium,North America,14.62,365.32,5
+SESS000005,2024-08-16,App_13,Social Media,iOS,Free,Asia,5.58,366.41,82
+SESS000006,2024-05-22,App_11,Productivity,Android,Free,Europe,82.45,124.78,41
+SESS000007,2024-04-14,App_12,Health & Fitness,Android,Premium,Asia,103.41,300.96,32
+SESS000008,2024-03-30,App_11,Health & Fitness,iOS,Free,South America,70.01,379.53,40
+SESS000009,2025-03-08,App_7,Entertainment,Android,Free,Asia,5.99,90.08,69
+SESS000010,2024-02-02,App_6,Social Media,iOS,Free,Africa,86.37,91.03,55
+SESS000011,2024-01-31,App_15,Entertainment,iOS,Premium,North America,8.24,324.88,38
+SESS000012,2024-04-05,App_7,Gaming,Android,Free,South America,86.03,247.74,5
+SESS000013,2024-08-11,App_8,Health & Fitness,Android,Free,Europe,31.83,60.19,14
+SESS000014,2024-08-26,App_14,Entertainment,iOS,Premium,Asia,31.64,45.01,8
+SESS000015,2025-06-01,App_15,Gaming,Android,Free,South America,81.73,473.1,39
+SESS000016,2024-01-28,App_15,Social Media,iOS,Premium,Asia,103.04,287.21,86
+SESS000017,2024-07-22,App_7,Social Media,Android,Free,Asia,43.05,474.54,18
+SESS000018,2025-03-05,App_7,Productivity,iOS,Premium,Asia,86.48,194.03,90
+SESS000019,2024-08-13,App_2,Gaming,Android,Free,North America,72.47,204.08,34
+SESS000020,2025-04-04,App_11,Gaming,iOS,Premium,North America,42.62,348.36,49
+SESS000021,2024-10-11,App_11,Entertainment,iOS,Premium,North America,10.22,69.69,20
+SESS000022,2024-01-07,App_14,Health & Fitness,Android,Free,Africa,53.81,171.98,36
+SESS000023,2024-06-12,App_9,Health & Fitness,Android,Premium,Europe,61.81,48.38,44
+SESS000024,2025-03-08,App_3,Productivity,Android,Free,Asia,29.2,177.9,53
+SESS000025,2024-12-14,App_11,Productivity,Android,Free,Asia,39.77,353.78,10
+SESS000026,2024-10-11,App_14,Productivity,iOS,Free,Asia,45.19,439.59,68
+SESS000027,2024-06-08,App_6,Gaming,iOS,Premium,Africa,98.9,250.09,47
+SESS000028,2024-08-08,App_2,Social Media,iOS,Premium,Africa,50.5,92.69,10
+SESS000029,2024-12-10,App_3,Social Media,Android,Premium,Africa,77.38,201.01,64
+SESS000030,2024-04-14,App_9,Entertainment,iOS,Premium,Asia,105.23,113.71,40
+SESS000031,2024-04-04,App_7,Health & Fitness,Android,Free,Europe,18.03,492.83,95
+SESS000032,2025-01-24,App_9,Health & Fitness,iOS,Premium,Asia,39.86,316.69,39
+SESS000033,2024-04-09,App_3,Entertainment,Android,Free,Europe,94.79,170.19,53
+SESS000034,2025-01-02,App_12,Gaming,iOS,Premium,Africa,40.86,376.03,3
+SESS000035,2024-12-18,App_4,Social Media,Android,Premium,South America,49.57,262.17,4
+SESS000036,2024-09-27,App_14,Productivity,iOS,Free,North America,78.59,10.69,37
+SESS000037,2024-02-14,App_1,Social Media,iOS,Free,North America,57.01,303.28,42
+SESS000038,2025-04-15,App_13,Entertainment,iOS,Free,Europe,116.85,491.01,24
+SESS000039,2024-05-07,App_1,Social Media,Android,Premium,Africa,75.01,30.04,92
+SESS000040,2025-01-22,App_5,Productivity,Android,Premium,North America,20.08,186.89,12
+SESS000041,2024-03-21,App_8,Health & Fitness,iOS,Free,North America,6.31,84.67,18
+SESS000042,2024-10-27,App_11,Entertainment,iOS,Free,Africa,111.71,481.82,68
+SESS000043,2025-01-05,App_12,Gaming,Android,Premium,Europe,109.51,264.8,78
+SESS000044,2024-07-15,App_9,Social Media,Android,Free,Europe,4.04,2.83,77
+SESS000045,2024-03-12,App_7,Social Media,Android,Premium,South America,73.48,192.68,13
+SESS000046,2024-02-16,App_9,Gaming,iOS,Premium,North America,97.16,14.31,47
+SESS000047,2024-08-21,App_7,Gaming,iOS,Free,North America,61.78,452.62,15
+SESS000048,2024-10-23,App_14,Productivity,Android,Free,Africa,93.92,281.9,13
+SESS000049,2024-03-22,App_4,Social Media,iOS,Premium,Africa,61.47,429.75,34
+SESS000050,2024-08-26,App_4,Entertainment,Android,Free,Asia,70.2,477.88,99
+SESS000051,2024-04-13,App_8,Social Media,iOS,Free,Asia,41.94,94.65,43
+SESS000052,2025-01-24,App_6,Productivity,Android,Free,South America,26.57,310.63,41
+SESS000053,2024-10-11,App_3,Entertainment,Android,Free,Europe,99.86,91.3,16
+SESS000054,2025-04-09,App_5,Entertainment,iOS,Premium,Africa,4.88,109.58,24
+SESS000055,2025-01-08,App_4,Entertainment,Android,Premium,Europe,87.42,172.95,74
+SESS000056,2024-06-15,App_15,Productivity,Android,Premium,North America,46.35,436.11,28
+SESS000057,2025-01-14,App_15,Social Media,iOS,Free,Europe,119.74,456.35,75
+SESS000058,2024-12-29,App_12,Health & Fitness,iOS,Free,Europe,10.33,300.06,11
+SESS000059,2024-08-02,App_13,Entertainment,Android,Premium,South America,10.2,287.21,30
+SESS000060,2024-09-30,App_2,Gaming,iOS,Premium,Africa,112.33,445.77,7
+SESS000061,2024-03-14,App_1,Productivity,Android,Premium,Asia,27.73,353.33,36
+SESS000062,2024-06-24,App_13,Entertainment,Android,Premium,Africa,60.92,439.9,40
+SESS000063,2024-09-07,App_11,Productivity,iOS,Free,Asia,69.36,89.16,98
+SESS000064,2024-06-16,App_7,Gaming,iOS,Premium,Asia,66.24,74.85,71
+SESS000065,2025-04-18,App_10,Entertainment,iOS,Free,South America,50.75,409.59,97
+SESS000066,2025-01-23,App_13,Social Media,iOS,Premium,North America,88.23,15.66,70
+SESS000067,2024-10-03,App_15,Productivity,Android,Free,South America,101.86,19.87,11
+SESS000068,2024-08-12,App_15,Entertainment,Android,Premium,North America,63.8,269.03,92
+SESS000069,2024-11-28,App_15,Entertainment,Android,Premium,South America,7.12,479.04,71
+SESS000070,2024-02-27,App_1,Productivity,iOS,Premium,South America,57.21,470.38,74
+SESS000071,2024-08-22,App_4,Gaming,iOS,Premium,Africa,63.41,403.7,89
+SESS000072,2024-02-02,App_4,Productivity,Android,Premium,Africa,53.48,156.18,70
+SESS000073,2024-11-19,App_2,Health & Fitness,Android,Premium,North America,33.03,146.07,39
+SESS000074,2025-02-14,App_2,Social Media,Android,Free,Europe,100.49,174.85,71
+SESS000075,2024-10-01,App_10,Gaming,Android,Premium,Africa,35.87,90.62,85
+SESS000076,2024-03-08,App_1,Social Media,iOS,Premium,Asia,30.04,259.49,39
+SESS000077,2024-08-04,App_8,Social Media,Android,Free,Europe,29.93,450.17,13
+SESS000078,2024-11-18,App_10,Productivity,Android,Premium,Asia,92.35,249.08,52
+SESS000079,2024-08-05,App_11,Health & Fitness,iOS,Premium,North America,44.07,301.95,97
+SESS000080,2025-05-26,App_12,Entertainment,Android,Free,Africa,55.24,498.67,6
+SESS000081,2025-02-09,App_14,Health & Fitness,iOS,Free,North America,90.03,460.04,40
+SESS000082,2025-04-14,App_1,Gaming,Android,Premium,Europe,14.73,468.94,54
+SESS000083,2024-05-26,App_4,Health & Fitness,Android,Premium,South America,29.68,464.34,12
+SESS000084,2024-09-28,App_12,Social Media,iOS,Free,South America,88.2,274.22,85
+SESS000085,2024-05-22,App_1,Entertainment,Android,Free,Africa,105.75,194.73,43
+SESS000086,2024-09-09,App_7,Health & Fitness,iOS,Premium,Africa,44.06,224.24,35
+SESS000087,2024-09-26,App_8,Entertainment,iOS,Free,North America,42.89,58.63,95
+SESS000088,2025-03-14,App_4,Health & Fitness,iOS,Premium,Europe,61.17,277.45,7
+SESS000089,2025-02-12,App_9,Entertainment,Android,Premium,South America,109.84,169.5,18
+SESS000090,2025-01-05,App_4,Health & Fitness,iOS,Premium,Africa,78.75,183.16,9
+SESS000091,2024-08-12,App_13,Gaming,iOS,Free,South America,73.02,120.11,13
+SESS000092,2024-05-21,App_14,Entertainment,iOS,Premium,Africa,54.43,408.88,76
+SESS000093,2025-06-05,App_13,Productivity,iOS,Premium,South America,50.84,94.58,1
+SESS000094,2025-05-20,App_1,Social Media,iOS,Free,South America,68.75,202.44,14
+SESS000095,2024-04-03,App_3,Entertainment,iOS,Free,Africa,99.39,179.48,62
+SESS000096,2024-02-18,App_9,Social Media,Android,Premium,Asia,15.91,458.35,6
+SESS000097,2024-04-22,App_5,Health & Fitness,iOS,Free,Europe,64.98,460.6,61
+SESS000098,2024-06-05,App_4,Health & Fitness,Android,Premium,Europe,93.4,405.55,47
+SESS000099,2024-06-12,App_14,Health & Fitness,iOS,Premium,North America,49.51,454.88,52
+SESS000100,2025-03-08,App_15,Health & Fitness,Android,Free,Europe,70.59,353.96,70
+SESS000101,2024-03-06,App_12,Health & Fitness,Android,Free,Africa,17.44,419.61,14
+SESS000102,2025-01-29,App_10,Gaming,Android,Free,Europe,31.97,49.84,34
+SESS000103,2025-01-25,App_6,Social Media,iOS,Free,Africa,35.14,260.16,21
+SESS000104,2025-04-24,App_10,Entertainment,Android,Premium,North America,38.35,331.92,76
+SESS000105,2024-09-14,App_10,Gaming,iOS,Premium,Africa,10.7,160.62,72
+SESS000106,2024-01-12,App_13,Gaming,iOS,Free,South America,51.1,263.91,32
+SESS000107,2024-04-27,App_11,Gaming,iOS,Premium,Africa,118.01,287.76,11
+SESS000108,2024-09-30,App_14,Gaming,Android,Premium,Africa,69.55,266.2,43
+SESS000109,2024-12-14,App_6,Gaming,Android,Premium,Asia,76.28,197.4,22
+SESS000110,2024-04-24,App_4,Social Media,iOS,Premium,Asia,92.94,273.42,24
+SESS000111,2024-10-27,App_5,Entertainment,iOS,Free,Europe,108.08,100.87,84
+SESS000112,2025-03-21,App_15,Social Media,Android,Free,Asia,105.29,160.5,73
+SESS000113,2024-06-10,App_3,Entertainment,iOS,Free,Asia,2.85,224.23,90
+SESS000114,2025-04-09,App_11,Gaming,Android,Premium,Africa,15.37,99.42,14
+SESS000115,2024-01-04,App_9,Gaming,iOS,Free,North America,32.34,472.15,81
+SESS000116,2024-09-26,App_4,Health & Fitness,iOS,Free,Europe,66.99,213.45,3
+SESS000117,2025-05-27,App_7,Productivity,Android,Premium,Europe,111.68,217.85,61
+SESS000118,2024-07-01,App_5,Productivity,iOS,Free,North America,89.4,41.65,28
+SESS000119,2025-06-03,App_5,Social Media,Android,Free,Africa,16.04,12.41,94
+SESS000120,2024-04-18,App_1,Social Media,iOS,Premium,Europe,5.06,52.61,91
+SESS000121,2024-11-01,App_9,Entertainment,Android,Premium,Asia,52.34,280.85,17
+SESS000122,2025-06-03,App_10,Health & Fitness,iOS,Premium,North America,83.12,305.03,22
+SESS000123,2024-07-22,App_15,Entertainment,iOS,Premium,Europe,118.8,153.3,95
+SESS000124,2024-06-05,App_12,Health & Fitness,Android,Premium,Asia,16.75,496.15,88
+SESS000125,2025-01-17,App_15,Productivity,Android,Premium,Europe,104.16,385.49,66
+SESS000126,2024-06-14,App_3,Productivity,Android,Premium,Asia,110.32,385.54,31
+SESS000127,2024-01-01,App_11,Health & Fitness,iOS,Free,North America,108.61,349.6,53
+SESS000128,2024-11-27,App_11,Entertainment,iOS,Free,Europe,43.17,264.01,1
+SESS000129,2025-05-15,App_7,Social Media,Android,Free,Europe,48.88,21.3,88
+SESS000130,2024-01-20,App_9,Health & Fitness,Android,Free,Africa,67.28,473.42,67
+SESS000131,2024-04-24,App_8,Health & Fitness,iOS,Premium,North America,85.73,153.91,35
+SESS000132,2025-01-06,App_1,Health & Fitness,Android,Free,North America,15.16,293.94,74
+SESS000133,2024-11-10,App_6,Entertainment,iOS,Premium,Asia,107.79,450.19,94
+SESS000134,2024-09-02,App_11,Social Media,Android,Free,Africa,107.9,271.62,100
+SESS000135,2024-02-29,App_11,Entertainment,Android,Free,Asia,71.39,320.65,25
+SESS000136,2024-09-03,App_7,Gaming,iOS,Premium,Asia,74.38,369.76,64
+SESS000137,2024-03-21,App_13,Gaming,iOS,Free,North America,119.3,267.38,71
+SESS000138,2024-03-28,App_9,Health & Fitness,iOS,Free,Africa,6.38,24.08,31
+SESS000139,2025-05-12,App_6,Health & Fitness,Android,Free,Asia,88.91,151.82,8
+SESS000140,2024-03-11,App_12,Health & Fitness,iOS,Premium,Europe,43.24,94.53,56
+SESS000141,2024-05-08,App_7,Social Media,iOS,Premium,South America,54.42,482.11,28
+SESS000142,2024-05-11,App_7,Social Media,iOS,Premium,Africa,49.66,26.69,79
+SESS000143,2025-05-01,App_3,Health & Fitness,Android,Premium,Asia,54.52,412.78,86
+SESS000144,2024-06-18,App_5,Social Media,Android,Premium,Asia,100.34,436.92,50
+SESS000145,2024-09-28,App_7,Productivity,Android,Premium,North America,35.43,369.4,25
+SESS000146,2025-03-09,App_3,Health & Fitness,Android,Premium,North America,57.78,262.23,68
+SESS000147,2024-08-04,App_13,Productivity,iOS,Premium,Asia,17.02,89.56,38
+SESS000148,2024-07-24,App_9,Entertainment,iOS,Free,Europe,22.83,185.73,45
+SESS000149,2024-11-15,App_8,Productivity,Android,Free,Asia,92.15,349.74,18
+SESS000150,2025-02-12,App_4,Entertainment,Android,Free,Europe,110.04,455.38,52
+SESS000151,2025-01-17,App_14,Entertainment,Android,Free,Asia,112.46,49.78,76
+SESS000152,2025-03-24,App_4,Health & Fitness,Android,Free,North America,10.97,475.01,53
+SESS000153,2025-06-13,App_5,Health & Fitness,iOS,Free,Africa,107.58,446.23,75
+SESS000154,2025-04-07,App_14,Entertainment,Android,Free,Africa,71.63,356.35,37
+SESS000155,2024-05-03,App_12,Social Media,iOS,Free,North America,45.01,36.95,35
+SESS000156,2024-09-10,App_3,Gaming,Android,Free,South America,78.28,102.2,32
+SESS000157,2024-08-18,App_13,Productivity,Android,Free,Asia,46.15,103.77,79
+SESS000158,2024-03-06,App_8,Entertainment,iOS,Premium,Africa,53.19,320.39,16
+SESS000159,2024-12-12,App_15,Gaming,Android,Free,Africa,61.53,8.29,91
+SESS000160,2024-01-22,App_1,Health & Fitness,iOS,Free,Europe,70.98,461.08,54
+SESS000161,2024-08-23,App_9,Health & Fitness,iOS,Premium,South America,113.43,103.41,33
+SESS000162,2024-08-13,App_7,Entertainment,Android,Free,Europe,12.53,344.85,83
+SESS000163,2024-01-08,App_7,Social Media,Android,Free,Asia,36.38,462.19,78
+SESS000164,2024-03-13,App_9,Entertainment,iOS,Premium,Asia,41.59,2.87,64
+SESS000165,2024-03-01,App_9,Productivity,iOS,Premium,Europe,68.13,120.57,1
+SESS000166,2024-08-22,App_3,Gaming,Android,Free,Africa,107.78,406.91,15
+SESS000167,2024-03-10,App_7,Social Media,iOS,Premium,South America,70.0,415.74,52
+SESS000168,2024-02-02,App_4,Entertainment,Android,Premium,Europe,101.44,492.21,76
+SESS000169,2024-12-04,App_5,Productivity,iOS,Free,South America,51.78,493.55,25
+SESS000170,2024-03-13,App_4,Productivity,iOS,Free,Europe,39.41,413.37,96
+SESS000171,2025-06-10,App_6,Social Media,Android,Free,South America,38.91,186.21,33
+SESS000172,2024-08-31,App_11,Productivity,Android,Free,Asia,22.23,418.97,89
+SESS000173,2024-10-12,App_2,Productivity,Android,Premium,Europe,18.04,22.86,17
+SESS000174,2025-05-12,App_15,Productivity,Android,Premium,South America,97.86,71.26,74
+SESS000175,2024-08-07,App_8,Productivity,iOS,Premium,North America,88.42,123.46,24
+SESS000176,2024-05-15,App_14,Entertainment,iOS,Free,South America,118.72,334.43,83
+SESS000177,2025-04-29,App_6,Social Media,iOS,Premium,Europe,26.07,441.03,75
+SESS000178,2024-09-05,App_2,Gaming,iOS,Free,South America,62.78,211.71,16
+SESS000179,2025-04-29,App_9,Gaming,iOS,Free,Europe,69.44,285.48,86
+SESS000180,2025-02-20,App_12,Productivity,Android,Premium,Europe,74.24,431.94,32
+SESS000181,2024-07-13,App_14,Entertainment,iOS,Premium,Europe,12.84,313.28,17
+SESS000182,2024-04-06,App_4,Productivity,Android,Free,Africa,34.89,102.84,92
+SESS000183,2024-04-09,App_1,Productivity,iOS,Premium,South America,15.11,439.4,6
+SESS000184,2025-03-17,App_5,Entertainment,iOS,Free,Europe,33.59,368.45,30
+SESS000185,2024-12-28,App_7,Health & Fitness,Android,Free,Asia,53.23,136.67,32
+SESS000186,2025-03-09,App_11,Social Media,iOS,Premium,North America,106.36,345.3,96
+SESS000187,2025-02-24,App_10,Gaming,iOS,Premium,Asia,35.33,208.24,6
+SESS000188,2025-04-23,App_10,Entertainment,iOS,Premium,Europe,110.21,207.11,94
+SESS000189,2024-02-25,App_1,Gaming,Android,Premium,Europe,118.67,139.4,10
+SESS000190,2024-04-10,App_14,Entertainment,iOS,Free,South America,90.66,450.59,88
+SESS000191,2024-03-03,App_2,Entertainment,iOS,Premium,Africa,111.02,408.45,51
+SESS000192,2025-02-16,App_4,Health & Fitness,Android,Premium,Europe,80.31,244.36,18
+SESS000193,2024-12-13,App_13,Productivity,Android,Premium,North America,17.78,300.26,28
+SESS000194,2024-04-21,App_13,Social Media,Android,Premium,Europe,25.61,313.46,36
+SESS000195,2024-09-11,App_10,Health & Fitness,Android,Free,North America,100.82,198.04,15
+SESS000196,2024-07-15,App_12,Gaming,Android,Free,South America,90.83,348.15,74
+SESS000197,2024-07-13,App_11,Social Media,Android,Free,Europe,4.25,224.84,1
+SESS000198,2025-04-04,App_9,Productivity,iOS,Premium,South America,108.4,331.65,84
+SESS000199,2024-05-23,App_4,Health & Fitness,iOS,Premium,South America,115.22,111.88,27
+SESS000200,2025-03-08,App_8,Entertainment,iOS,Free,North America,65.24,318.98,92
+SESS000201,2024-07-06,App_4,Gaming,iOS,Premium,Africa,96.08,58.08,15
+SESS000202,2024-10-12,App_14,Health & Fitness,iOS,Premium,Europe,1.79,451.16,90
+SESS000203,2025-04-18,App_15,Health & Fitness,iOS,Premium,North America,100.07,244.52,2
+SESS000204,2024-09-12,App_6,Social Media,Android,Free,Africa,4.07,92.09,53
+SESS000205,2024-03-18,App_5,Gaming,iOS,Premium,North America,25.17,164.03,14
+SESS000206,2025-03-29,App_15,Gaming,iOS,Premium,South America,113.07,471.78,44
+SESS000207,2024-04-10,App_1,Gaming,iOS,Premium,South America,68.97,128.62,27
+SESS000208,2024-02-21,App_4,Social Media,iOS,Premium,North America,88.12,340.61,58
+SESS000209,2024-01-16,App_15,Gaming,Android,Free,North America,62.99,465.34,19
+SESS000210,2024-04-05,App_4,Social Media,iOS,Free,North America,99.89,199.4,19
+SESS000211,2024-08-30,App_12,Entertainment,Android,Premium,North America,36.1,268.36,93
+SESS000212,2024-06-19,App_2,Social Media,iOS,Free,Europe,14.04,142.71,83
+SESS000213,2025-02-20,App_12,Productivity,Android,Premium,Europe,85.05,285.27,16
+SESS000214,2025-05-12,App_13,Gaming,Android,Premium,North America,101.52,54.69,48
+SESS000215,2025-05-07,App_8,Productivity,iOS,Premium,Asia,53.88,60.14,42
+SESS000216,2024-08-06,App_15,Productivity,Android,Free,Europe,52.44,411.53,53
+SESS000217,2025-02-14,App_4,Entertainment,Android,Free,Africa,32.3,442.07,49
+SESS000218,2024-03-01,App_12,Health & Fitness,Android,Premium,North America,103.88,475.13,85
+SESS000219,2024-06-17,App_10,Entertainment,iOS,Premium,North America,119.18,277.6,67
+SESS000220,2025-01-23,App_12,Social Media,iOS,Free,North America,88.06,249.23,88
+SESS000221,2024-01-03,App_4,Social Media,iOS,Premium,Africa,14.86,63.99,36
+SESS000222,2025-02-03,App_7,Gaming,iOS,Premium,Asia,43.09,497.78,57
+SESS000223,2024-09-28,App_15,Productivity,iOS,Premium,North America,10.41,234.74,85
+SESS000224,2025-04-10,App_4,Entertainment,Android,Premium,Europe,95.41,55.12,26
+SESS000225,2024-10-19,App_9,Health & Fitness,iOS,Premium,Europe,87.56,114.71,82
+SESS000226,2025-03-09,App_6,Entertainment,Android,Free,South America,39.93,416.63,19
+SESS000227,2025-05-13,App_13,Gaming,Android,Free,Africa,61.34,92.65,27
+SESS000228,2024-06-07,App_5,Entertainment,iOS,Premium,South America,33.86,381.39,50
+SESS000229,2024-07-13,App_7,Health & Fitness,iOS,Free,Europe,76.04,403.3,46
+SESS000230,2024-10-30,App_8,Health & Fitness,iOS,Premium,Asia,62.03,121.26,25
+SESS000231,2024-08-10,App_9,Productivity,iOS,Free,Asia,93.47,307.85,86
+SESS000232,2024-02-29,App_11,Productivity,iOS,Free,South America,85.11,219.34,85
+SESS000233,2024-03-03,App_6,Gaming,Android,Free,Europe,38.46,71.81,32
+SESS000234,2024-11-17,App_5,Productivity,Android,Free,Europe,111.04,298.7,63
+SESS000235,2024-02-28,App_5,Social Media,Android,Premium,North America,52.57,21.01,63
+SESS000236,2024-02-21,App_6,Productivity,Android,Free,Africa,111.95,466.84,36
+SESS000237,2025-05-03,App_9,Social Media,iOS,Premium,Asia,95.51,383.51,56
+SESS000238,2025-05-29,App_15,Entertainment,Android,Premium,Africa,38.79,94.89,7
+SESS000239,2024-06-10,App_8,Social Media,Android,Premium,North America,101.13,105.61,33
+SESS000240,2024-02-28,App_8,Gaming,iOS,Free,North America,79.67,159.3,1
+SESS000241,2025-06-04,App_2,Health & Fitness,Android,Free,North America,105.43,284.62,56
+SESS000242,2024-03-23,App_13,Gaming,Android,Free,North America,5.24,474.32,60
+SESS000243,2024-07-09,App_12,Gaming,Android,Free,Africa,76.51,171.0,21
+SESS000244,2024-03-11,App_8,Gaming,iOS,Premium,Asia,1.95,475.23,8
+SESS000245,2024-03-10,App_13,Gaming,iOS,Premium,North America,17.29,460.96,8
+SESS000246,2024-08-28,App_14,Productivity,Android,Premium,Africa,45.77,175.38,96
+SESS000247,2025-02-17,App_6,Entertainment,Android,Free,South America,113.24,100.72,59
+SESS000248,2024-05-02,App_15,Health & Fitness,iOS,Free,Europe,81.13,322.25,68
+SESS000249,2024-09-09,App_4,Social Media,iOS,Free,North America,32.57,195.96,38
+SESS000250,2024-02-10,App_6,Social Media,Android,Free,Europe,19.02,76.97,27
+SESS000251,2024-03-24,App_6,Entertainment,iOS,Premium,North America,97.85,146.26,53
+SESS000252,2025-03-05,App_7,Gaming,Android,Premium,Europe,88.29,32.29,15
+SESS000253,2024-11-19,App_1,Gaming,iOS,Free,South America,34.63,92.39,37
+SESS000254,2024-09-24,App_10,Health & Fitness,iOS,Free,South America,24.63,97.57,19
+SESS000255,2024-07-28,App_14,Social Media,Android,Free,Europe,105.23,329.18,37
+SESS000256,2024-11-17,App_4,Gaming,Android,Free,Asia,114.15,219.72,36
+SESS000257,2024-09-01,App_12,Productivity,Android,Premium,Asia,103.0,435.73,23
+SESS000258,2024-09-28,App_3,Health & Fitness,Android,Premium,Europe,90.18,35.16,55
+SESS000259,2025-02-09,App_1,Productivity,Android,Premium,South America,1.38,123.27,99
+SESS000260,2024-05-14,App_5,Productivity,Android,Premium,North America,9.0,264.51,2
+SESS000261,2024-11-03,App_9,Entertainment,iOS,Free,South America,67.37,278.65,61
+SESS000262,2025-04-13,App_15,Entertainment,Android,Premium,Europe,25.82,72.11,98
+SESS000263,2024-11-19,App_10,Productivity,Android,Free,North America,22.2,482.11,68
+SESS000264,2024-03-15,App_10,Entertainment,iOS,Free,Europe,50.76,28.83,9
+SESS000265,2024-01-10,App_12,Productivity,iOS,Free,North America,32.31,342.54,76
+SESS000266,2025-04-14,App_7,Gaming,Android,Premium,Asia,46.25,205.26,59
+SESS000267,2024-04-12,App_5,Entertainment,Android,Premium,Asia,70.48,267.37,45
+SESS000268,2024-03-16,App_3,Productivity,iOS,Free,North America,76.89,309.48,39
+SESS000269,2024-08-06,App_4,Health & Fitness,iOS,Free,Africa,58.62,85.37,83
+SESS000270,2025-06-02,App_6,Health & Fitness,iOS,Free,Asia,79.18,466.43,29
+SESS000271,2024-09-28,App_4,Entertainment,iOS,Free,North America,22.43,185.5,58
+SESS000272,2024-05-15,App_7,Health & Fitness,Android,Free,Asia,36.71,72.17,26
+SESS000273,2024-12-23,App_10,Social Media,Android,Free,North America,28.6,52.34,89
+SESS000274,2024-03-11,App_14,Social Media,Android,Free,North America,35.76,117.21,36
+SESS000275,2024-09-07,App_4,Health & Fitness,Android,Free,Africa,58.72,190.92,62
+SESS000276,2025-01-13,App_8,Productivity,iOS,Premium,Europe,95.81,281.57,50
+SESS000277,2024-10-18,App_9,Health & Fitness,iOS,Free,Europe,47.67,406.95,35
+SESS000278,2024-06-10,App_11,Health & Fitness,Android,Premium,South America,43.5,384.46,21
+SESS000279,2025-03-24,App_11,Health & Fitness,iOS,Premium,Africa,58.23,60.26,62
+SESS000280,2024-11-05,App_6,Productivity,Android,Premium,Asia,12.49,112.65,29
+SESS000281,2024-01-09,App_5,Productivity,iOS,Free,Africa,14.37,314.33,57
+SESS000282,2024-11-02,App_13,Social Media,Android,Free,Europe,105.83,282.04,18
+SESS000283,2024-04-16,App_14,Entertainment,Android,Premium,South America,90.84,37.43,3
+SESS000284,2024-05-17,App_8,Social Media,iOS,Premium,Europe,35.19,324.61,100
+SESS000285,2024-09-27,App_12,Productivity,iOS,Free,Asia,116.35,455.45,31
+SESS000286,2024-04-28,App_11,Productivity,iOS,Free,Africa,39.72,468.64,83
+SESS000287,2024-04-19,App_12,Productivity,iOS,Free,Asia,79.83,322.57,63
+SESS000288,2024-06-08,App_8,Productivity,Android,Premium,Asia,14.78,141.59,50
+SESS000289,2024-10-05,App_8,Productivity,Android,Premium,North America,56.3,308.22,29
+SESS000290,2024-10-15,App_3,Productivity,iOS,Free,Asia,38.95,225.11,71
+SESS000291,2024-08-03,App_12,Gaming,Android,Free,South America,14.51,374.16,66
+SESS000292,2024-12-17,App_13,Gaming,iOS,Premium,Asia,83.94,341.6,83
+SESS000293,2024-07-27,App_6,Health & Fitness,Android,Premium,Asia,84.87,306.5,19
+SESS000294,2024-09-27,App_3,Gaming,Android,Premium,North America,93.07,172.9,15
+SESS000295,2025-06-01,App_3,Social Media,iOS,Free,North America,58.56,493.99,35
+SESS000296,2025-05-15,App_12,Health & Fitness,iOS,Free,Europe,96.76,227.76,93
+SESS000297,2024-09-14,App_9,Entertainment,Android,Premium,Europe,59.21,459.75,48
+SESS000298,2024-02-22,App_8,Productivity,iOS,Premium,Asia,50.03,76.99,67
+SESS000299,2024-04-04,App_3,Gaming,iOS,Premium,Europe,28.95,268.46,33
+SESS000300,2025-03-09,App_15,Social Media,iOS,Premium,South America,35.62,180.39,89
+SESS000301,2024-10-10,App_15,Entertainment,iOS,Free,South America,61.39,72.63,13
+SESS000302,2024-02-15,App_9,Productivity,iOS,Free,South America,106.89,318.73,35
+SESS000303,2024-01-04,App_11,Productivity,Android,Premium,North America,94.16,87.59,85
+SESS000304,2024-12-07,App_1,Entertainment,Android,Free,North America,8.24,483.7,67
+SESS000305,2024-05-13,App_9,Entertainment,Android,Free,Africa,92.84,499.57,40
+SESS000306,2024-09-25,App_1,Entertainment,Android,Premium,South America,32.13,441.03,96
+SESS000307,2024-06-14,App_14,Social Media,Android,Premium,Asia,38.8,184.36,52
+SESS000308,2025-03-28,App_14,Health & Fitness,iOS,Premium,Europe,47.57,10.96,3
+SESS000309,2025-03-13,App_2,Health & Fitness,iOS,Premium,North America,53.59,402.82,9
+SESS000310,2024-01-10,App_14,Gaming,iOS,Premium,Asia,48.44,72.42,73
+SESS000311,2024-04-24,App_11,Productivity,iOS,Free,Europe,109.57,230.24,14
+SESS000312,2024-03-18,App_1,Gaming,iOS,Premium,Europe,32.93,355.49,31
+SESS000313,2024-06-01,App_13,Health & Fitness,Android,Free,South America,87.65,270.98,37
+SESS000314,2024-02-06,App_1,Entertainment,iOS,Free,Asia,41.44,113.88,33
+SESS000315,2025-01-13,App_7,Productivity,Android,Free,Asia,98.4,201.41,32
+SESS000316,2024-05-31,App_3,Health & Fitness,Android,Free,South America,37.71,420.15,97
+SESS000317,2025-03-16,App_14,Productivity,Android,Premium,South America,49.77,176.79,86
+SESS000318,2024-05-10,App_11,Gaming,iOS,Premium,South America,69.13,470.97,72
+SESS000319,2024-02-12,App_4,Health & Fitness,Android,Premium,South America,20.82,210.86,79
+SESS000320,2024-11-11,App_2,Gaming,iOS,Free,Africa,25.54,209.15,74
+SESS000321,2025-01-08,App_12,Productivity,iOS,Premium,Asia,75.41,366.86,68
+SESS000322,2024-02-10,App_3,Social Media,Android,Free,Europe,113.8,222.22,24
+SESS000323,2025-01-01,App_1,Entertainment,Android,Premium,Europe,73.98,194.53,81
+SESS000324,2024-08-03,App_4,Gaming,Android,Free,South America,40.23,182.1,64
+SESS000325,2024-09-12,App_9,Productivity,Android,Free,South America,72.99,163.34,68
+SESS000326,2024-04-15,App_8,Health & Fitness,iOS,Free,Africa,3.37,199.74,1
+SESS000327,2024-12-28,App_6,Gaming,iOS,Premium,South America,86.95,361.79,20
+SESS000328,2025-02-20,App_1,Productivity,iOS,Premium,Africa,96.49,103.35,3
+SESS000329,2024-06-07,App_10,Social Media,Android,Premium,Africa,11.74,108.87,42
+SESS000330,2024-08-30,App_11,Gaming,iOS,Premium,South America,84.86,95.89,99
+SESS000331,2024-06-15,App_11,Productivity,iOS,Premium,Africa,109.56,97.7,89
+SESS000332,2024-06-30,App_15,Gaming,iOS,Premium,Africa,92.25,436.87,99
+SESS000333,2025-02-26,App_10,Productivity,iOS,Free,Europe,66.79,329.83,71
+SESS000334,2024-01-26,App_15,Entertainment,iOS,Premium,South America,78.94,309.63,54
+SESS000335,2024-07-02,App_8,Productivity,Android,Free,North America,62.72,450.23,73
+SESS000336,2024-12-06,App_11,Productivity,iOS,Premium,Africa,44.09,274.33,44
+SESS000337,2025-02-25,App_8,Productivity,iOS,Premium,South America,24.61,382.11,1
+SESS000338,2024-09-11,App_1,Health & Fitness,iOS,Free,Africa,19.68,204.4,62
+SESS000339,2024-09-30,App_1,Productivity,Android,Premium,Africa,64.75,322.18,25
+SESS000340,2024-06-12,App_9,Entertainment,Android,Premium,Europe,103.31,107.15,24
+SESS000341,2024-04-20,App_9,Social Media,iOS,Premium,North America,28.29,71.1,14
+SESS000342,2025-01-26,App_7,Entertainment,iOS,Free,Europe,96.35,54.77,94
+SESS000343,2024-02-09,App_1,Social Media,iOS,Premium,Asia,109.37,326.29,40
+SESS000344,2025-04-26,App_1,Health & Fitness,Android,Free,North America,40.45,150.51,93
+SESS000345,2024-08-15,App_9,Health & Fitness,iOS,Free,Europe,26.66,416.53,98
+SESS000346,2024-07-23,App_12,Health & Fitness,iOS,Premium,North America,88.27,387.4,55
+SESS000347,2025-04-16,App_5,Social Media,Android,Premium,Asia,112.86,311.99,33
+SESS000348,2024-12-24,App_9,Entertainment,iOS,Free,Africa,5.29,25.92,90
+SESS000349,2024-11-08,App_5,Gaming,Android,Premium,South America,3.38,108.98,35
+SESS000350,2024-08-21,App_1,Health & Fitness,Android,Free,Europe,112.9,276.07,76
+SESS000351,2024-08-16,App_9,Social Media,iOS,Free,North America,13.2,78.78,26
+SESS000352,2024-01-25,App_14,Entertainment,iOS,Premium,North America,48.35,192.45,81
+SESS000353,2024-07-16,App_12,Health & Fitness,Android,Premium,Asia,58.7,258.99,52
+SESS000354,2025-02-12,App_11,Productivity,Android,Free,Asia,19.68,90.57,86
+SESS000355,2024-12-02,App_7,Entertainment,Android,Free,Europe,36.87,221.77,78
+SESS000356,2024-10-12,App_13,Social Media,Android,Free,Asia,28.37,347.14,73
+SESS000357,2024-03-12,App_15,Gaming,iOS,Premium,South America,92.92,193.29,73
+SESS000358,2024-10-12,App_3,Gaming,Android,Free,Europe,30.43,333.66,46
+SESS000359,2024-12-25,App_2,Gaming,iOS,Premium,Africa,33.42,137.02,13
+SESS000360,2025-06-05,App_15,Productivity,Android,Premium,South America,15.71,373.11,49
+SESS000361,2025-02-13,App_2,Entertainment,Android,Free,Europe,94.3,281.9,61
+SESS000362,2024-12-05,App_9,Health & Fitness,iOS,Free,Europe,78.98,78.35,80
+SESS000363,2024-01-29,App_3,Entertainment,iOS,Premium,Europe,16.61,201.24,26
+SESS000364,2024-04-28,App_4,Gaming,Android,Premium,North America,89.12,391.04,32
+SESS000365,2024-09-24,App_4,Productivity,Android,Premium,Europe,33.13,99.31,42
+SESS000366,2024-07-01,App_10,Gaming,Android,Free,North America,11.11,205.94,6
+SESS000367,2024-09-28,App_9,Social Media,iOS,Free,Europe,9.79,234.56,44
+SESS000368,2024-02-09,App_5,Entertainment,iOS,Free,South America,86.93,434.08,46
+SESS000369,2024-04-21,App_14,Productivity,iOS,Premium,North America,91.72,65.71,61
+SESS000370,2025-03-20,App_6,Gaming,iOS,Premium,South America,50.43,465.66,98
+SESS000371,2024-12-19,App_5,Productivity,iOS,Free,Asia,2.75,158.45,31
+SESS000372,2024-11-17,App_13,Social Media,Android,Premium,North America,99.8,466.54,69
+SESS000373,2025-03-22,App_7,Social Media,Android,Premium,North America,72.98,306.36,43
+SESS000374,2025-06-07,App_2,Entertainment,Android,Free,Africa,19.07,367.79,64
+SESS000375,2024-04-28,App_6,Productivity,Android,Free,North America,88.57,438.02,30
+SESS000376,2025-01-29,App_7,Gaming,Android,Premium,South America,95.32,338.26,56
+SESS000377,2024-07-13,App_8,Gaming,Android,Premium,Africa,24.12,393.59,72
+SESS000378,2024-09-17,App_10,Health & Fitness,iOS,Premium,Europe,73.08,43.33,3
+SESS000379,2024-02-15,App_4,Gaming,Android,Free,North America,38.15,4.83,89
+SESS000380,2025-03-22,App_12,Entertainment,Android,Premium,Europe,39.52,431.19,10
+SESS000381,2024-01-02,App_4,Social Media,Android,Free,Asia,61.97,26.85,14
+SESS000382,2024-07-20,App_5,Gaming,iOS,Free,Europe,3.79,426.37,73
+SESS000383,2025-01-07,App_11,Health & Fitness,iOS,Premium,North America,33.61,156.99,18
+SESS000384,2025-03-17,App_14,Entertainment,Android,Free,Europe,25.12,450.95,30
+SESS000385,2024-03-12,App_14,Entertainment,iOS,Premium,North America,32.45,101.9,53
+SESS000386,2024-12-04,App_2,Entertainment,iOS,Premium,North America,79.07,75.73,6
+SESS000387,2024-11-17,App_11,Entertainment,iOS,Free,Africa,57.1,106.9,27
+SESS000388,2024-05-07,App_14,Entertainment,iOS,Free,South America,35.66,420.42,60
+SESS000389,2024-11-03,App_11,Entertainment,Android,Premium,Europe,12.07,181.79,53
+SESS000390,2025-06-03,App_13,Social Media,iOS,Premium,Europe,116.06,454.67,69
+SESS000391,2024-11-12,App_1,Social Media,iOS,Free,South America,67.76,291.93,95
+SESS000392,2025-02-22,App_2,Health & Fitness,Android,Free,Europe,58.52,414.21,10
+SESS000393,2024-11-30,App_7,Gaming,Android,Free,Africa,109.01,237.81,14
+SESS000394,2025-02-16,App_7,Productivity,iOS,Premium,Asia,64.45,351.95,88
+SESS000395,2024-10-29,App_7,Social Media,Android,Free,South America,30.11,145.23,71
+SESS000396,2024-05-10,App_9,Productivity,Android,Premium,South America,3.05,51.2,57
+SESS000397,2024-07-15,App_8,Health & Fitness,iOS,Free,Asia,60.15,281.16,92
+SESS000398,2025-03-06,App_1,Gaming,iOS,Premium,South America,47.84,450.46,18
+SESS000399,2025-01-23,App_11,Social Media,iOS,Free,North America,45.36,76.43,29
+SESS000400,2024-06-27,App_1,Social Media,Android,Premium,Asia,66.04,207.89,95
+SESS000401,2024-11-04,App_12,Gaming,Android,Premium,North America,13.89,266.39,28
+SESS000402,2025-02-19,App_3,Gaming,iOS,Premium,Europe,27.66,309.34,28
+SESS000403,2024-01-01,App_2,Productivity,Android,Premium,North America,117.05,79.56,48
+SESS000404,2024-11-07,App_8,Productivity,Android,Premium,North America,48.28,276.38,13
+SESS000405,2024-10-20,App_14,Gaming,Android,Premium,Africa,28.62,235.05,5
+SESS000406,2024-08-03,App_7,Social Media,iOS,Premium,Europe,45.01,491.66,33
+SESS000407,2025-03-16,App_11,Entertainment,iOS,Premium,Africa,68.02,345.14,2
+SESS000408,2024-11-25,App_13,Health & Fitness,Android,Premium,Europe,77.5,451.87,76
+SESS000409,2025-04-21,App_6,Health & Fitness,Android,Free,North America,40.56,488.07,53
+SESS000410,2025-03-28,App_10,Productivity,Android,Free,South America,97.35,332.1,16
+SESS000411,2025-03-28,App_14,Gaming,iOS,Free,South America,117.12,73.75,36
+SESS000412,2024-08-06,App_2,Social Media,iOS,Premium,South America,12.35,222.73,83
+SESS000413,2025-06-07,App_15,Social Media,iOS,Premium,Africa,21.14,377.96,76
+SESS000414,2025-04-29,App_9,Productivity,Android,Free,Asia,103.91,68.23,58
+SESS000415,2024-06-22,App_15,Productivity,Android,Free,Africa,59.29,190.78,27
+SESS000416,2024-03-27,App_1,Entertainment,Android,Free,Africa,30.75,190.0,12
+SESS000417,2024-10-17,App_4,Health & Fitness,Android,Premium,Asia,17.82,85.64,44
+SESS000418,2025-06-11,App_4,Health & Fitness,iOS,Premium,Europe,74.36,10.47,31
+SESS000419,2024-12-09,App_15,Health & Fitness,iOS,Free,South America,57.35,344.22,79
+SESS000420,2024-04-05,App_14,Productivity,Android,Free,Europe,87.04,409.07,16
+SESS000421,2024-08-28,App_12,Entertainment,iOS,Premium,Asia,68.43,465.51,12
+SESS000422,2024-11-13,App_15,Gaming,Android,Free,North America,28.66,292.65,33
+SESS000423,2024-08-18,App_10,Productivity,Android,Premium,Africa,92.32,91.33,77
+SESS000424,2024-07-22,App_8,Entertainment,Android,Free,South America,30.99,447.05,69
+SESS000425,2024-05-30,App_5,Productivity,Android,Free,Europe,38.06,485.16,96
+SESS000426,2024-01-26,App_1,Gaming,iOS,Premium,Europe,41.21,473.33,81
+SESS000427,2024-02-17,App_15,Gaming,Android,Premium,South America,18.92,283.61,98
+SESS000428,2024-09-07,App_2,Entertainment,Android,Free,Africa,39.25,442.86,31
+SESS000429,2025-05-01,App_11,Social Media,iOS,Free,North America,68.27,493.91,6
+SESS000430,2024-03-15,App_15,Gaming,iOS,Free,Europe,49.38,443.3,61
+SESS000431,2025-04-11,App_5,Gaming,Android,Premium,South America,1.66,34.91,89
+SESS000432,2025-02-28,App_15,Gaming,Android,Premium,Europe,83.16,67.9,36
+SESS000433,2024-07-18,App_9,Gaming,iOS,Premium,Africa,90.85,150.4,70
+SESS000434,2025-01-28,App_10,Social Media,iOS,Premium,Africa,95.57,197.11,22
+SESS000435,2025-05-21,App_11,Health & Fitness,Android,Premium,North America,65.93,75.17,85
+SESS000436,2025-02-13,App_1,Health & Fitness,iOS,Premium,South America,38.25,496.45,97
+SESS000437,2024-09-06,App_3,Gaming,Android,Free,South America,78.59,395.59,90
+SESS000438,2024-05-31,App_15,Social Media,Android,Free,Asia,39.3,334.62,94
+SESS000439,2024-01-06,App_14,Productivity,iOS,Free,South America,85.36,480.81,1
+SESS000440,2024-04-19,App_6,Social Media,Android,Premium,South America,62.22,160.69,63
+SESS000441,2025-03-11,App_1,Entertainment,iOS,Free,Europe,103.18,355.85,28
+SESS000442,2024-08-12,App_4,Productivity,iOS,Premium,North America,119.14,474.41,53
+SESS000443,2024-06-29,App_10,Health & Fitness,Android,Premium,Asia,10.69,41.99,43
+SESS000444,2025-06-14,App_3,Health & Fitness,Android,Free,South America,13.5,301.6,13
+SESS000445,2025-04-20,App_13,Social Media,iOS,Free,Europe,84.21,399.76,12
+SESS000446,2024-02-21,App_14,Health & Fitness,Android,Premium,Asia,45.71,8.47,65
+SESS000447,2024-09-12,App_12,Social Media,Android,Free,North America,91.07,445.58,75
+SESS000448,2024-05-04,App_14,Social Media,iOS,Free,North America,20.29,209.16,30
+SESS000449,2025-04-12,App_7,Social Media,Android,Premium,North America,90.03,84.95,74
+SESS000450,2024-05-16,App_15,Social Media,iOS,Free,Asia,20.78,425.7,36
+SESS000451,2025-04-20,App_2,Social Media,Android,Free,Africa,53.07,96.42,1
+SESS000452,2024-11-20,App_5,Entertainment,Android,Premium,Asia,116.66,140.48,55
+SESS000453,2025-03-29,App_3,Entertainment,Android,Premium,North America,5.65,260.46,90
+SESS000454,2025-05-31,App_10,Entertainment,iOS,Premium,Europe,51.48,458.0,45
+SESS000455,2025-03-12,App_4,Social Media,Android,Premium,Asia,21.32,245.06,46
+SESS000456,2025-04-01,App_10,Health & Fitness,iOS,Premium,Europe,96.58,452.96,97
+SESS000457,2024-06-11,App_14,Productivity,iOS,Premium,Africa,58.98,26.48,58
+SESS000458,2025-05-01,App_14,Entertainment,Android,Premium,North America,90.13,119.78,72
+SESS000459,2025-04-05,App_7,Gaming,iOS,Free,North America,66.1,153.66,90
+SESS000460,2024-09-22,App_11,Gaming,iOS,Free,Europe,48.53,224.74,22
+SESS000461,2024-09-10,App_15,Social Media,iOS,Premium,Africa,36.31,216.76,4
+SESS000462,2024-10-10,App_9,Productivity,Android,Premium,North America,52.82,20.71,95
+SESS000463,2025-05-11,App_6,Entertainment,iOS,Premium,Asia,36.01,375.12,13
+SESS000464,2024-09-01,App_7,Social Media,Android,Free,Europe,110.71,380.0,81
+SESS000465,2024-10-08,App_13,Health & Fitness,iOS,Premium,Africa,81.53,229.31,74
+SESS000466,2025-03-26,App_12,Productivity,iOS,Free,Europe,63.18,40.58,3
+SESS000467,2024-03-20,App_3,Health & Fitness,Android,Premium,North America,74.2,275.86,86
+SESS000468,2024-10-19,App_13,Health & Fitness,Android,Premium,Europe,45.22,65.76,36
+SESS000469,2024-08-28,App_12,Gaming,Android,Free,Asia,78.38,489.14,25
+SESS000470,2024-10-05,App_12,Entertainment,Android,Premium,North America,17.84,312.27,23
+SESS000471,2024-12-09,App_2,Social Media,iOS,Premium,Africa,63.27,367.45,21
+SESS000472,2024-11-23,App_9,Health & Fitness,iOS,Free,Africa,25.33,10.1,30
+SESS000473,2024-03-23,App_12,Health & Fitness,iOS,Premium,North America,74.07,190.65,95
+SESS000474,2024-05-21,App_6,Social Media,iOS,Premium,Africa,86.02,452.32,6
+SESS000475,2024-06-03,App_1,Productivity,iOS,Free,South America,62.81,190.32,94
+SESS000476,2024-08-24,App_2,Social Media,Android,Free,North America,30.9,18.47,23
+SESS000477,2025-01-27,App_7,Social Media,Android,Free,North America,56.08,336.12,26
+SESS000478,2024-06-05,App_4,Entertainment,iOS,Premium,Asia,112.41,348.58,27
+SESS000479,2024-08-07,App_14,Gaming,iOS,Free,North America,111.32,168.15,26
+SESS000480,2024-03-06,App_2,Health & Fitness,Android,Free,Asia,86.7,401.67,17
+SESS000481,2025-02-28,App_6,Gaming,iOS,Free,North America,102.44,426.89,38
+SESS000482,2025-02-21,App_10,Productivity,iOS,Free,Asia,17.11,392.17,59
+SESS000483,2024-12-04,App_13,Health & Fitness,Android,Free,Asia,63.4,203.89,8
+SESS000484,2025-04-22,App_10,Gaming,Android,Premium,South America,99.7,171.39,85
+SESS000485,2025-03-01,App_10,Productivity,iOS,Free,Africa,2.17,471.48,58
+SESS000486,2024-03-04,App_7,Entertainment,iOS,Free,Europe,50.54,359.7,29
+SESS000487,2024-07-30,App_13,Productivity,Android,Free,Asia,18.89,276.42,80
+SESS000488,2025-03-06,App_6,Gaming,iOS,Free,South America,8.98,244.67,18
+SESS000489,2025-02-02,App_1,Social Media,Android,Premium,Asia,117.26,133.7,5
+SESS000490,2024-01-21,App_11,Health & Fitness,iOS,Free,Europe,38.11,456.72,16
+SESS000491,2025-01-24,App_5,Entertainment,Android,Free,North America,23.33,459.43,93
+SESS000492,2025-05-03,App_13,Gaming,iOS,Premium,Asia,83.59,42.86,93
+SESS000493,2024-01-07,App_8,Entertainment,iOS,Free,South America,64.99,333.28,27
+SESS000494,2024-12-26,App_8,Productivity,Android,Premium,Africa,40.39,159.65,47
+SESS000495,2024-11-01,App_4,Gaming,Android,Premium,North America,8.27,254.64,81
+SESS000496,2025-02-03,App_6,Social Media,Android,Free,Africa,56.77,57.21,97
+SESS000497,2025-03-05,App_9,Social Media,Android,Premium,Europe,19.62,405.47,98
+SESS000498,2024-08-13,App_7,Social Media,iOS,Free,North America,42.7,403.21,39
+SESS000499,2025-05-14,App_7,Social Media,Android,Premium,Africa,67.54,53.97,88
+SESS000500,2024-08-12,App_3,Health & Fitness,iOS,Premium,South America,27.9,37.67,56
+SESS000501,2024-10-06,App_11,Entertainment,iOS,Free,South America,75.83,187.01,20
+SESS000502,2025-03-22,App_10,Gaming,Android,Premium,Africa,111.42,77.43,89
+SESS000503,2025-05-12,App_11,Social Media,iOS,Free,North America,33.68,400.83,9
+SESS000504,2024-01-30,App_7,Health & Fitness,iOS,Premium,Asia,98.67,389.55,21
+SESS000505,2025-02-02,App_2,Social Media,iOS,Premium,Europe,104.3,431.91,61
+SESS000506,2024-12-10,App_13,Social Media,iOS,Premium,Europe,70.55,5.32,49
+SESS000507,2025-02-18,App_10,Productivity,Android,Free,South America,37.38,7.22,1
+SESS000508,2024-06-18,App_5,Gaming,Android,Free,North America,75.32,403.59,22
+SESS000509,2025-04-23,App_13,Entertainment,Android,Free,North America,48.99,435.14,48
+SESS000510,2024-05-10,App_4,Productivity,iOS,Free,Europe,31.32,308.92,5
+SESS000511,2024-01-28,App_12,Productivity,Android,Premium,Europe,65.38,78.54,69
+SESS000512,2025-02-07,App_2,Entertainment,iOS,Free,Europe,79.46,313.25,23
+SESS000513,2024-01-28,App_2,Social Media,iOS,Free,Europe,10.22,435.74,88
+SESS000514,2024-03-26,App_5,Social Media,iOS,Premium,Africa,19.14,230.65,54
+SESS000515,2025-03-14,App_3,Gaming,Android,Free,Africa,87.95,436.76,14
+SESS000516,2024-05-18,App_7,Social Media,Android,Free,Africa,34.32,393.17,11
+SESS000517,2025-04-17,App_12,Productivity,Android,Premium,Africa,32.29,53.36,98
+SESS000518,2024-07-05,App_13,Productivity,iOS,Premium,Asia,13.18,61.43,21
+SESS000519,2024-02-21,App_11,Productivity,iOS,Free,South America,95.83,352.22,28
+SESS000520,2024-09-23,App_3,Entertainment,iOS,Free,Europe,70.89,100.16,10
+SESS000521,2025-01-23,App_12,Social Media,Android,Premium,Asia,92.16,373.16,20
+SESS000522,2024-12-01,App_7,Social Media,iOS,Free,Asia,40.29,41.04,54
+SESS000523,2024-08-04,App_6,Social Media,iOS,Free,Asia,92.87,46.31,14
+SESS000524,2025-04-10,App_6,Social Media,Android,Free,Africa,71.47,475.72,56
+SESS000525,2024-11-30,App_2,Gaming,iOS,Premium,South America,33.99,2.42,30
+SESS000526,2024-12-11,App_2,Gaming,iOS,Premium,North America,97.07,395.9,90
+SESS000527,2025-01-23,App_1,Productivity,Android,Free,South America,104.69,116.92,22
+SESS000528,2024-10-11,App_5,Productivity,Android,Premium,Europe,80.55,25.47,35
+SESS000529,2025-03-07,App_8,Entertainment,iOS,Free,Europe,57.34,40.17,92
+SESS000530,2024-09-15,App_6,Health & Fitness,Android,Premium,Africa,21.0,160.54,67
+SESS000531,2024-03-24,App_13,Productivity,Android,Premium,Africa,94.22,264.9,92
+SESS000532,2025-04-26,App_5,Social Media,Android,Premium,North America,118.7,238.28,72
+SESS000533,2024-01-20,App_2,Productivity,Android,Premium,Europe,11.87,99.05,87
+SESS000534,2024-02-23,App_3,Productivity,iOS,Free,Africa,96.6,493.97,68
+SESS000535,2024-12-24,App_2,Gaming,iOS,Free,South America,18.43,302.93,76
+SESS000536,2024-08-17,App_3,Social Media,Android,Free,North America,20.61,93.44,75
+SESS000537,2024-03-11,App_7,Entertainment,iOS,Free,North America,105.08,144.39,43
+SESS000538,2024-02-11,App_8,Entertainment,iOS,Free,Europe,39.48,338.24,58
+SESS000539,2024-02-01,App_9,Entertainment,Android,Premium,Asia,107.62,432.57,21
+SESS000540,2024-09-10,App_9,Productivity,iOS,Premium,Africa,7.21,31.1,77
+SESS000541,2024-07-23,App_9,Entertainment,Android,Free,North America,61.89,92.87,69
+SESS000542,2024-01-21,App_7,Entertainment,Android,Premium,South America,53.32,3.65,85
+SESS000543,2024-06-05,App_2,Entertainment,Android,Free,North America,80.12,88.34,73
+SESS000544,2024-09-01,App_1,Gaming,Android,Premium,South America,39.92,99.26,28
+SESS000545,2024-05-09,App_2,Social Media,iOS,Premium,Asia,60.54,72.37,58
+SESS000546,2025-04-29,App_6,Gaming,iOS,Premium,Europe,14.96,271.23,55
+SESS000547,2024-04-27,App_9,Social Media,iOS,Free,Asia,67.66,486.38,23
+SESS000548,2024-08-11,App_2,Gaming,Android,Premium,Europe,45.9,350.13,79
+SESS000549,2025-04-21,App_10,Social Media,Android,Free,North America,46.88,351.58,57
+SESS000550,2024-09-19,App_10,Entertainment,Android,Premium,Asia,57.46,38.35,36
+SESS000551,2025-01-12,App_13,Health & Fitness,iOS,Free,Africa,38.1,93.93,41
+SESS000552,2024-06-20,App_6,Entertainment,Android,Free,Asia,63.12,161.04,34
+SESS000553,2024-04-27,App_14,Health & Fitness,Android,Premium,Asia,64.15,495.99,78
+SESS000554,2024-06-16,App_7,Entertainment,Android,Free,North America,106.11,81.63,28
+SESS000555,2024-11-14,App_1,Gaming,Android,Free,North America,101.22,317.83,94
+SESS000556,2024-04-20,App_5,Health & Fitness,iOS,Free,Europe,114.69,296.36,99
+SESS000557,2024-01-27,App_7,Entertainment,iOS,Premium,South America,113.51,300.98,3
+SESS000558,2024-11-15,App_7,Productivity,Android,Premium,Asia,100.2,253.57,26
+SESS000559,2025-01-19,App_13,Health & Fitness,iOS,Premium,South America,85.65,143.06,52
+SESS000560,2025-02-10,App_2,Social Media,Android,Free,Asia,100.95,213.55,38
+SESS000561,2024-07-22,App_12,Gaming,Android,Free,South America,67.7,412.32,49
+SESS000562,2024-03-18,App_15,Entertainment,Android,Free,Europe,59.32,367.85,99
+SESS000563,2024-09-05,App_9,Entertainment,iOS,Premium,North America,94.89,265.51,69
+SESS000564,2024-04-14,App_15,Social Media,Android,Free,Africa,82.56,327.59,60
+SESS000565,2024-11-04,App_4,Entertainment,Android,Free,South America,67.39,484.09,12
+SESS000566,2024-05-03,App_10,Entertainment,iOS,Premium,North America,52.81,126.21,75
+SESS000567,2024-02-12,App_9,Social Media,iOS,Premium,Asia,42.43,377.27,15
+SESS000568,2024-12-21,App_3,Social Media,Android,Free,Asia,4.01,32.79,89
+SESS000569,2025-03-14,App_11,Productivity,iOS,Free,South America,44.52,31.86,17
+SESS000570,2025-01-14,App_7,Productivity,Android,Premium,South America,56.46,172.44,7
+SESS000571,2024-03-11,App_3,Social Media,iOS,Premium,Africa,80.73,366.59,30
+SESS000572,2025-06-02,App_3,Health & Fitness,Android,Free,Europe,87.69,310.11,95
+SESS000573,2024-12-15,App_5,Health & Fitness,Android,Free,South America,26.44,408.94,90
+SESS000574,2024-01-13,App_5,Health & Fitness,Android,Free,Asia,67.62,40.44,69
+SESS000575,2025-03-06,App_5,Gaming,Android,Premium,Africa,119.75,382.33,15
+SESS000576,2025-05-16,App_8,Productivity,iOS,Premium,Africa,112.79,358.2,72
+SESS000577,2024-04-18,App_3,Health & Fitness,iOS,Premium,Asia,46.51,6.49,62
+SESS000578,2025-03-19,App_2,Health & Fitness,iOS,Premium,Asia,22.3,372.26,51
+SESS000579,2025-01-05,App_3,Health & Fitness,Android,Premium,North America,89.97,44.57,84
+SESS000580,2025-04-15,App_7,Social Media,Android,Free,South America,2.27,294.28,75
+SESS000581,2024-06-05,App_5,Entertainment,iOS,Premium,Africa,53.61,458.21,92
+SESS000582,2025-03-21,App_7,Gaming,Android,Free,South America,63.59,181.06,95
+SESS000583,2024-06-29,App_5,Entertainment,iOS,Free,Asia,1.67,340.7,18
+SESS000584,2024-10-03,App_8,Productivity,Android,Free,North America,37.94,339.26,7
+SESS000585,2025-05-10,App_13,Entertainment,Android,Premium,Africa,12.2,33.41,67
+SESS000586,2025-04-21,App_2,Gaming,Android,Free,North America,44.9,131.59,24
+SESS000587,2025-03-22,App_6,Health & Fitness,iOS,Premium,Europe,31.2,419.94,69
+SESS000588,2024-10-01,App_5,Health & Fitness,iOS,Free,Africa,110.67,225.67,30
+SESS000589,2024-11-26,App_4,Social Media,iOS,Free,North America,73.21,371.23,17
+SESS000590,2024-09-08,App_12,Social Media,Android,Premium,Europe,4.99,240.48,31
+SESS000591,2024-03-29,App_11,Gaming,iOS,Premium,North America,33.72,250.1,7
+SESS000592,2024-10-12,App_8,Health & Fitness,Android,Free,Asia,57.97,381.82,66
+SESS000593,2025-04-06,App_10,Entertainment,Android,Premium,South America,6.23,157.08,78
+SESS000594,2024-09-06,App_10,Entertainment,iOS,Premium,Europe,83.76,499.55,70
+SESS000595,2025-04-20,App_4,Gaming,Android,Premium,Africa,31.11,95.55,10
+SESS000596,2025-01-23,App_8,Social Media,iOS,Premium,South America,75.41,293.82,31
+SESS000597,2024-12-10,App_2,Entertainment,Android,Premium,North America,116.57,21.83,69
+SESS000598,2024-01-30,App_3,Productivity,Android,Free,Europe,98.98,176.77,71
+SESS000599,2025-05-21,App_5,Gaming,iOS,Premium,South America,103.72,232.74,11
+SESS000600,2024-11-28,App_1,Productivity,iOS,Premium,South America,111.38,231.09,44
+SESS000601,2024-07-05,App_7,Productivity,Android,Free,North America,119.67,461.76,68
+SESS000602,2025-05-14,App_6,Social Media,Android,Premium,Asia,76.24,423.32,69
+SESS000603,2024-08-05,App_14,Health & Fitness,Android,Premium,South America,59.35,486.15,12
+SESS000604,2024-12-29,App_10,Gaming,iOS,Free,South America,57.34,232.08,34
+SESS000605,2024-09-21,App_7,Health & Fitness,iOS,Free,Africa,105.12,449.6,34
+SESS000606,2024-12-14,App_13,Entertainment,iOS,Free,South America,90.32,226.36,43
+SESS000607,2024-10-13,App_14,Entertainment,iOS,Premium,North America,97.08,71.47,71
+SESS000608,2024-10-09,App_6,Gaming,iOS,Free,North America,5.55,375.4,18
+SESS000609,2024-01-11,App_8,Social Media,iOS,Free,Europe,4.43,210.09,23
+SESS000610,2025-06-13,App_6,Entertainment,iOS,Free,North America,107.42,12.73,6
+SESS000611,2024-07-14,App_7,Entertainment,Android,Premium,South America,19.23,70.15,55
+SESS000612,2024-03-28,App_14,Health & Fitness,Android,Premium,South America,88.61,158.7,63
+SESS000613,2024-09-04,App_14,Entertainment,Android,Premium,Europe,104.64,494.89,27
+SESS000614,2025-02-20,App_14,Social Media,Android,Free,South America,16.67,316.28,18
+SESS000615,2025-05-15,App_11,Entertainment,iOS,Free,Asia,50.93,200.01,29
+SESS000616,2024-09-03,App_10,Entertainment,iOS,Free,North America,101.65,7.47,90
+SESS000617,2025-05-02,App_3,Productivity,Android,Premium,Asia,7.67,395.79,82
+SESS000618,2025-05-17,App_5,Social Media,Android,Free,Asia,76.86,331.06,12
+SESS000619,2025-04-03,App_6,Entertainment,Android,Premium,Africa,8.42,86.8,67
+SESS000620,2024-01-18,App_10,Social Media,Android,Premium,South America,12.6,296.67,19
+SESS000621,2024-04-05,App_12,Social Media,Android,Premium,Europe,65.75,92.36,80
+SESS000622,2024-10-28,App_4,Entertainment,iOS,Premium,South America,118.03,47.88,57
+SESS000623,2024-08-14,App_8,Entertainment,iOS,Free,North America,24.11,195.95,10
+SESS000624,2025-02-18,App_6,Social Media,Android,Free,Asia,74.07,75.37,55
+SESS000625,2024-09-06,App_3,Health & Fitness,iOS,Free,South America,2.98,168.99,93
+SESS000626,2024-11-09,App_7,Health & Fitness,Android,Premium,North America,100.64,11.33,82
+SESS000627,2025-01-12,App_6,Social Media,iOS,Premium,Africa,101.94,196.42,70
+SESS000628,2025-04-29,App_5,Social Media,Android,Free,Europe,38.66,152.11,11
+SESS000629,2024-12-18,App_12,Health & Fitness,iOS,Premium,South America,85.41,477.62,95
+SESS000630,2025-03-11,App_12,Health & Fitness,iOS,Free,Europe,108.78,274.89,98
+SESS000631,2024-12-04,App_11,Productivity,Android,Free,Europe,70.83,114.26,42
+SESS000632,2024-12-26,App_8,Health & Fitness,iOS,Free,Asia,113.37,243.52,59
+SESS000633,2025-04-09,App_10,Health & Fitness,Android,Premium,Africa,62.44,362.0,22
+SESS000634,2024-10-04,App_13,Gaming,iOS,Premium,North America,112.92,216.71,88
+SESS000635,2024-11-09,App_4,Entertainment,iOS,Free,Africa,48.98,473.69,36
+SESS000636,2024-09-14,App_6,Productivity,Android,Free,South America,100.69,80.33,44
+SESS000637,2024-08-24,App_7,Productivity,Android,Premium,North America,80.69,484.57,4
+SESS000638,2024-05-03,App_5,Social Media,Android,Free,Asia,8.73,30.35,5
+SESS000639,2024-07-16,App_14,Gaming,Android,Free,South America,99.18,480.74,98
+SESS000640,2024-11-19,App_13,Entertainment,Android,Premium,South America,60.68,33.92,2
+SESS000641,2024-05-02,App_7,Productivity,Android,Premium,Europe,87.75,161.98,100
+SESS000642,2024-07-08,App_6,Health & Fitness,Android,Free,North America,10.99,238.61,4
+SESS000643,2024-07-15,App_2,Health & Fitness,iOS,Premium,Europe,53.76,145.02,100
+SESS000644,2024-08-09,App_15,Health & Fitness,iOS,Premium,North America,33.79,117.96,86
+SESS000645,2025-05-10,App_10,Entertainment,Android,Free,South America,24.64,471.7,89
+SESS000646,2024-10-10,App_4,Productivity,iOS,Free,Asia,61.15,401.91,4
+SESS000647,2024-10-16,App_10,Entertainment,iOS,Free,Asia,21.58,208.46,93
+SESS000648,2024-04-12,App_9,Social Media,Android,Premium,Europe,89.87,6.98,4
+SESS000649,2024-07-17,App_3,Social Media,Android,Free,North America,100.71,154.35,11
+SESS000650,2024-10-30,App_11,Gaming,Android,Premium,Europe,1.38,79.72,42
+SESS000651,2024-08-20,App_13,Social Media,iOS,Premium,North America,33.58,315.41,22
+SESS000652,2025-01-04,App_9,Productivity,Android,Free,Asia,42.73,342.19,97
+SESS000653,2024-07-02,App_1,Productivity,iOS,Free,South America,41.63,214.78,96
+SESS000654,2024-11-05,App_12,Productivity,iOS,Free,North America,68.61,61.36,82
+SESS000655,2024-01-15,App_8,Health & Fitness,iOS,Free,Asia,83.86,65.15,75
+SESS000656,2024-05-09,App_12,Health & Fitness,iOS,Free,South America,68.38,141.31,11
+SESS000657,2024-10-07,App_4,Productivity,iOS,Free,South America,56.1,362.52,11
+SESS000658,2024-02-16,App_8,Social Media,iOS,Free,Africa,14.84,403.66,89
+SESS000659,2024-02-25,App_13,Social Media,Android,Premium,Europe,11.78,432.12,25
+SESS000660,2024-10-26,App_5,Gaming,Android,Free,Asia,87.82,185.1,62
+SESS000661,2024-05-09,App_14,Entertainment,iOS,Premium,Europe,23.09,485.23,13
+SESS000662,2025-05-17,App_12,Gaming,iOS,Free,North America,71.35,32.03,57
+SESS000663,2024-04-15,App_2,Entertainment,iOS,Free,North America,115.93,223.82,69
+SESS000664,2024-01-13,App_14,Social Media,Android,Premium,South America,92.24,208.79,83
+SESS000665,2024-10-18,App_14,Productivity,Android,Premium,Asia,94.86,105.12,48
+SESS000666,2025-04-25,App_13,Health & Fitness,Android,Free,Asia,26.89,163.44,8
+SESS000667,2025-05-05,App_13,Gaming,iOS,Premium,Europe,45.57,117.1,81
+SESS000668,2025-03-27,App_7,Gaming,Android,Free,Europe,10.67,436.0,96
+SESS000669,2024-12-14,App_11,Social Media,Android,Premium,Asia,87.19,156.61,78
+SESS000670,2024-07-07,App_8,Entertainment,Android,Premium,South America,30.36,457.91,4
+SESS000671,2024-02-22,App_3,Gaming,Android,Premium,South America,100.64,486.28,93
+SESS000672,2024-09-15,App_11,Entertainment,Android,Premium,South America,77.44,393.51,20
+SESS000673,2025-05-04,App_5,Gaming,iOS,Free,Africa,108.28,277.72,46
+SESS000674,2024-04-26,App_4,Productivity,iOS,Premium,Europe,23.74,288.82,41
+SESS000675,2024-03-07,App_5,Social Media,Android,Premium,South America,90.94,165.86,49
+SESS000676,2025-02-14,App_11,Entertainment,iOS,Premium,Asia,16.8,97.59,87
+SESS000677,2025-05-18,App_3,Social Media,Android,Free,Africa,7.35,64.0,15
+SESS000678,2024-03-16,App_12,Health & Fitness,iOS,Free,South America,85.0,161.26,65
+SESS000679,2024-02-24,App_7,Social Media,Android,Free,North America,22.18,316.52,83
+SESS000680,2024-06-04,App_13,Entertainment,Android,Premium,Africa,17.71,485.58,38
+SESS000681,2024-06-01,App_7,Entertainment,Android,Premium,Africa,38.55,114.85,97
+SESS000682,2024-11-07,App_2,Health & Fitness,iOS,Premium,Europe,27.89,296.62,38
+SESS000683,2024-03-28,App_8,Health & Fitness,iOS,Premium,North America,23.4,118.89,34
+SESS000684,2024-09-11,App_10,Gaming,Android,Free,Africa,106.14,409.92,21
+SESS000685,2024-05-01,App_8,Entertainment,Android,Premium,Africa,22.08,244.55,11
+SESS000686,2025-03-02,App_10,Social Media,iOS,Free,Europe,36.1,235.14,70
+SESS000687,2024-08-19,App_7,Health & Fitness,Android,Premium,Asia,84.01,10.19,19
+SESS000688,2025-01-24,App_9,Social Media,iOS,Free,Asia,32.48,255.72,77
+SESS000689,2025-04-06,App_9,Health & Fitness,iOS,Free,North America,59.3,48.24,86
+SESS000690,2025-03-29,App_15,Entertainment,Android,Free,Europe,69.86,375.22,74
+SESS000691,2024-10-31,App_15,Health & Fitness,Android,Premium,South America,42.51,311.99,70
+SESS000692,2025-03-15,App_14,Entertainment,iOS,Free,Europe,77.38,41.11,62
+SESS000693,2024-11-08,App_12,Health & Fitness,iOS,Free,South America,54.51,245.72,37
+SESS000694,2024-03-02,App_7,Gaming,iOS,Free,Asia,76.09,301.5,63
+SESS000695,2024-04-11,App_9,Health & Fitness,Android,Free,North America,99.98,445.51,67
+SESS000696,2024-07-31,App_1,Gaming,iOS,Premium,South America,5.37,479.16,99
+SESS000697,2024-08-04,App_13,Gaming,Android,Premium,Asia,100.33,133.37,10
+SESS000698,2024-09-27,App_6,Social Media,iOS,Free,Africa,46.9,225.02,20
+SESS000699,2024-03-24,App_12,Entertainment,Android,Free,North America,65.02,388.83,23
+SESS000700,2024-06-09,App_15,Health & Fitness,iOS,Free,South America,26.07,395.75,98
+SESS000701,2024-09-02,App_13,Health & Fitness,Android,Premium,Europe,84.56,138.47,37
+SESS000702,2024-06-26,App_9,Productivity,Android,Premium,South America,42.28,71.97,65
+SESS000703,2024-03-17,App_10,Health & Fitness,Android,Free,Africa,97.5,423.96,80
+SESS000704,2024-06-09,App_11,Entertainment,Android,Premium,North America,95.76,29.98,6
+SESS000705,2024-01-03,App_15,Entertainment,Android,Premium,North America,25.69,123.67,41
+SESS000706,2025-02-22,App_2,Health & Fitness,Android,Free,Europe,84.26,316.72,49
+SESS000707,2025-04-06,App_2,Gaming,Android,Free,Europe,60.95,163.94,61
+SESS000708,2025-04-26,App_13,Productivity,Android,Premium,South America,99.75,412.51,6
+SESS000709,2024-10-25,App_4,Entertainment,iOS,Free,Africa,95.52,241.54,65
+SESS000710,2024-02-03,App_11,Productivity,iOS,Premium,Europe,11.8,73.49,56
+SESS000711,2024-08-25,App_11,Productivity,Android,Free,Africa,93.04,136.74,60
+SESS000712,2024-10-22,App_6,Entertainment,Android,Premium,South America,31.73,160.36,4
+SESS000713,2024-10-16,App_3,Gaming,iOS,Free,Europe,56.65,492.65,6
+SESS000714,2025-04-09,App_11,Gaming,Android,Free,Asia,4.74,302.58,77
+SESS000715,2024-03-13,App_10,Entertainment,iOS,Premium,Europe,14.72,268.39,7
+SESS000716,2024-08-27,App_1,Health & Fitness,iOS,Free,Europe,79.34,412.16,1
+SESS000717,2024-09-27,App_10,Health & Fitness,Android,Premium,Africa,23.18,323.1,85
+SESS000718,2024-07-21,App_11,Productivity,iOS,Free,North America,17.64,478.88,34
+SESS000719,2025-03-11,App_11,Health & Fitness,Android,Free,Asia,70.83,298.99,32
+SESS000720,2024-04-27,App_11,Productivity,Android,Free,Asia,45.3,60.62,49
+SESS000721,2024-08-18,App_7,Health & Fitness,iOS,Free,North America,45.97,366.84,45
+SESS000722,2024-06-01,App_13,Gaming,iOS,Premium,Asia,71.02,367.88,82
+SESS000723,2024-09-29,App_6,Gaming,iOS,Premium,Asia,5.03,97.87,44
+SESS000724,2024-05-25,App_13,Gaming,Android,Free,Africa,84.45,399.52,12
+SESS000725,2024-03-14,App_7,Health & Fitness,Android,Free,North America,75.91,141.59,47
+SESS000726,2024-03-02,App_2,Productivity,iOS,Free,South America,104.45,395.46,93
+SESS000727,2024-06-18,App_1,Productivity,Android,Premium,South America,1.94,211.78,67
+SESS000728,2024-11-10,App_2,Gaming,Android,Free,South America,51.15,409.38,36
+SESS000729,2024-10-22,App_5,Gaming,Android,Premium,South America,40.83,5.95,68
+SESS000730,2025-03-25,App_4,Health & Fitness,iOS,Premium,Asia,78.1,130.86,20
+SESS000731,2024-05-07,App_9,Health & Fitness,iOS,Free,Asia,12.92,72.46,52
+SESS000732,2025-04-24,App_12,Productivity,iOS,Free,Africa,109.66,13.13,49
+SESS000733,2024-11-07,App_9,Social Media,iOS,Free,South America,37.45,325.99,73
+SESS000734,2025-02-16,App_9,Productivity,Android,Free,Africa,56.55,381.31,16
+SESS000735,2024-10-05,App_10,Health & Fitness,Android,Premium,Asia,23.15,39.82,31
+SESS000736,2025-05-27,App_12,Entertainment,iOS,Premium,North America,3.59,232.74,53
+SESS000737,2025-05-20,App_10,Health & Fitness,Android,Premium,Europe,97.3,454.95,20
+SESS000738,2025-03-24,App_4,Health & Fitness,iOS,Free,South America,55.32,74.23,35
+SESS000739,2024-03-23,App_8,Entertainment,Android,Premium,South America,69.54,313.13,66
+SESS000740,2024-02-10,App_6,Health & Fitness,iOS,Free,Asia,52.76,277.85,30
+SESS000741,2025-03-18,App_7,Productivity,iOS,Free,Europe,48.52,297.13,42
+SESS000742,2024-11-26,App_8,Entertainment,Android,Premium,Africa,100.26,379.35,48
+SESS000743,2024-09-13,App_13,Social Media,iOS,Premium,Africa,31.06,54.32,85
+SESS000744,2024-01-27,App_11,Health & Fitness,iOS,Premium,Europe,45.41,137.14,7
+SESS000745,2024-04-03,App_10,Social Media,iOS,Premium,Africa,41.21,138.34,47
+SESS000746,2024-08-22,App_12,Social Media,Android,Free,South America,81.75,353.3,40
+SESS000747,2024-01-22,App_9,Entertainment,Android,Premium,South America,36.72,226.94,22
+SESS000748,2024-10-02,App_3,Gaming,Android,Free,Asia,116.52,81.87,74
+SESS000749,2024-02-11,App_6,Social Media,iOS,Premium,South America,105.41,64.7,49
+SESS000750,2024-06-28,App_1,Social Media,Android,Premium,Asia,91.82,478.07,94
+SESS000751,2025-04-26,App_8,Gaming,iOS,Free,Africa,108.2,62.4,6
+SESS000752,2025-03-28,App_2,Productivity,iOS,Free,North America,61.33,433.93,71
+SESS000753,2024-10-11,App_5,Gaming,Android,Free,North America,51.1,276.51,92
+SESS000754,2024-07-04,App_7,Productivity,iOS,Free,North America,93.11,184.73,6
+SESS000755,2025-03-22,App_15,Productivity,Android,Free,North America,114.52,157.98,81
+SESS000756,2025-05-18,App_2,Gaming,iOS,Free,North America,48.69,360.39,61
+SESS000757,2024-04-03,App_2,Social Media,iOS,Free,Africa,4.4,275.29,7
+SESS000758,2025-04-26,App_14,Productivity,iOS,Premium,South America,61.95,314.63,53
+SESS000759,2024-12-22,App_12,Gaming,Android,Premium,North America,110.76,323.34,27
+SESS000760,2025-02-22,App_3,Health & Fitness,Android,Premium,South America,106.5,198.07,31
+SESS000761,2024-12-07,App_6,Social Media,Android,Premium,Africa,115.86,163.64,53
+SESS000762,2024-11-24,App_5,Productivity,Android,Premium,Africa,113.2,418.12,78
+SESS000763,2024-04-17,App_6,Entertainment,Android,Free,North America,24.62,17.75,79
+SESS000764,2024-06-13,App_8,Social Media,iOS,Free,South America,116.72,141.81,72
+SESS000765,2024-12-03,App_13,Health & Fitness,Android,Free,Africa,90.47,283.03,59
+SESS000766,2025-02-25,App_4,Health & Fitness,Android,Free,Africa,16.46,284.48,80
+SESS000767,2025-05-22,App_9,Gaming,Android,Free,North America,40.64,441.69,46
+SESS000768,2024-10-22,App_8,Health & Fitness,Android,Free,Asia,115.23,28.4,3
+SESS000769,2025-02-14,App_6,Entertainment,iOS,Premium,South America,116.47,358.78,99
+SESS000770,2024-02-07,App_8,Gaming,Android,Premium,Europe,37.8,66.37,80
+SESS000771,2025-04-10,App_2,Health & Fitness,iOS,Premium,Europe,92.13,32.41,100
+SESS000772,2024-03-31,App_8,Productivity,Android,Premium,South America,96.38,34.41,82
+SESS000773,2024-11-18,App_12,Social Media,Android,Free,Africa,55.59,76.21,68
+SESS000774,2024-09-15,App_12,Entertainment,Android,Free,South America,20.68,261.63,24
+SESS000775,2024-11-27,App_8,Entertainment,Android,Premium,North America,1.1,470.09,17
+SESS000776,2024-04-28,App_6,Entertainment,iOS,Premium,Europe,18.55,117.89,9
+SESS000777,2025-02-17,App_2,Productivity,iOS,Premium,South America,106.07,377.45,8
+SESS000778,2025-06-10,App_5,Health & Fitness,Android,Premium,North America,36.85,486.17,35
+SESS000779,2024-01-02,App_1,Social Media,Android,Premium,Asia,10.56,169.41,7
+SESS000780,2025-04-18,App_13,Social Media,Android,Free,South America,29.11,206.61,16
+SESS000781,2025-02-27,App_12,Productivity,Android,Free,South America,25.2,375.55,51
+SESS000782,2024-02-25,App_2,Gaming,Android,Free,South America,11.73,246.48,33
+SESS000783,2024-07-11,App_1,Health & Fitness,Android,Free,North America,30.12,272.78,68
+SESS000784,2025-06-14,App_14,Entertainment,iOS,Free,Asia,82.48,262.58,16
+SESS000785,2025-01-05,App_6,Gaming,Android,Premium,Europe,101.63,321.09,72
+SESS000786,2025-05-25,App_11,Productivity,Android,Premium,Africa,45.54,198.3,68
+SESS000787,2025-03-28,App_2,Health & Fitness,Android,Free,Asia,57.8,77.91,95
+SESS000788,2024-02-22,App_11,Health & Fitness,iOS,Free,Asia,42.02,411.51,1
+SESS000789,2024-07-27,App_13,Health & Fitness,iOS,Free,Asia,57.03,407.27,34
+SESS000790,2024-09-30,App_3,Gaming,Android,Free,Asia,82.73,224.52,81
+SESS000791,2024-05-14,App_15,Gaming,iOS,Premium,South America,84.15,58.07,94
+SESS000792,2024-10-21,App_12,Productivity,Android,Free,Europe,109.63,455.76,34
+SESS000793,2025-03-24,App_4,Entertainment,iOS,Premium,North America,80.54,130.75,83
+SESS000794,2025-05-11,App_9,Gaming,iOS,Premium,South America,99.93,120.01,23
+SESS000795,2024-05-04,App_3,Social Media,iOS,Premium,North America,85.04,322.56,71
+SESS000796,2024-01-30,App_9,Gaming,iOS,Premium,North America,91.8,279.06,61
+SESS000797,2024-09-02,App_3,Gaming,Android,Premium,North America,12.4,26.72,64
+SESS000798,2024-06-11,App_6,Health & Fitness,iOS,Premium,Europe,16.29,421.53,32
+SESS000799,2024-11-14,App_9,Social Media,iOS,Premium,Asia,91.8,113.15,67
+SESS000800,2024-01-15,App_7,Entertainment,Android,Free,Africa,16.89,21.68,25
+SESS000801,2025-02-21,App_8,Social Media,Android,Free,Africa,93.02,109.89,49
+SESS000802,2024-04-05,App_4,Entertainment,iOS,Premium,Asia,107.86,116.72,92
+SESS000803,2024-08-18,App_13,Productivity,Android,Free,Asia,98.56,76.74,98
+SESS000804,2024-04-26,App_7,Health & Fitness,Android,Premium,Europe,87.91,435.31,25
+SESS000805,2025-04-17,App_11,Productivity,iOS,Free,Africa,51.53,250.54,68
+SESS000806,2024-04-30,App_3,Gaming,iOS,Free,South America,47.87,161.81,83
+SESS000807,2024-06-06,App_3,Gaming,iOS,Free,Europe,9.53,378.1,9
+SESS000808,2025-05-25,App_11,Health & Fitness,iOS,Free,Africa,59.11,335.3,52
+SESS000809,2024-10-25,App_11,Productivity,iOS,Premium,South America,89.11,10.12,35
+SESS000810,2025-06-05,App_7,Social Media,iOS,Free,Europe,70.79,382.89,32
+SESS000811,2024-10-06,App_7,Productivity,iOS,Free,Africa,27.38,246.37,20
+SESS000812,2025-03-01,App_1,Entertainment,iOS,Premium,South America,73.41,334.99,87
+SESS000813,2025-05-09,App_12,Gaming,iOS,Premium,North America,92.37,348.71,9
+SESS000814,2025-04-28,App_10,Social Media,iOS,Premium,Africa,44.93,275.24,19
+SESS000815,2024-09-06,App_15,Gaming,Android,Free,South America,41.44,20.54,90
+SESS000816,2025-04-12,App_4,Productivity,iOS,Premium,Europe,98.97,295.04,52
+SESS000817,2024-05-28,App_8,Health & Fitness,iOS,Free,South America,73.66,104.81,80
+SESS000818,2025-01-27,App_10,Social Media,iOS,Free,Europe,90.45,291.58,87
+SESS000819,2024-07-14,App_7,Health & Fitness,Android,Premium,South America,109.84,4.07,38
+SESS000820,2025-06-04,App_7,Productivity,Android,Free,Asia,77.82,351.06,93
+SESS000821,2024-05-19,App_1,Entertainment,Android,Free,Africa,17.43,291.0,22
+SESS000822,2024-03-12,App_12,Health & Fitness,iOS,Premium,Europe,23.37,184.38,67
+SESS000823,2024-10-09,App_4,Health & Fitness,Android,Free,South America,26.14,449.34,74
+SESS000824,2025-02-28,App_4,Productivity,Android,Free,Europe,52.81,82.51,83
+SESS000825,2024-12-14,App_5,Social Media,Android,Free,North America,41.41,106.78,86
+SESS000826,2025-06-03,App_13,Productivity,Android,Premium,Europe,78.83,268.35,86
+SESS000827,2024-09-30,App_12,Health & Fitness,Android,Premium,Africa,51.66,457.64,94
+SESS000828,2024-01-03,App_13,Gaming,iOS,Free,North America,34.91,372.25,40
+SESS000829,2024-10-16,App_13,Gaming,iOS,Premium,Africa,47.03,141.07,53
+SESS000830,2024-11-01,App_2,Health & Fitness,Android,Free,South America,98.73,278.35,39
+SESS000831,2025-05-16,App_10,Social Media,iOS,Free,Asia,5.14,255.68,21
+SESS000832,2024-06-01,App_2,Health & Fitness,Android,Free,Africa,115.06,80.35,3
+SESS000833,2025-04-02,App_13,Gaming,Android,Free,Europe,51.19,101.19,32
+SESS000834,2025-05-10,App_14,Entertainment,Android,Premium,Asia,20.46,304.01,54
+SESS000835,2024-12-19,App_9,Health & Fitness,iOS,Free,Europe,82.2,167.58,97
+SESS000836,2024-12-06,App_3,Health & Fitness,Android,Free,North America,100.27,163.87,92
+SESS000837,2025-01-21,App_6,Entertainment,Android,Premium,North America,56.33,130.54,17
+SESS000838,2025-04-11,App_6,Social Media,iOS,Free,North America,10.83,60.02,48
+SESS000839,2024-11-25,App_4,Productivity,Android,Premium,South America,82.64,143.05,93
+SESS000840,2024-07-12,App_8,Gaming,iOS,Free,North America,13.07,14.89,93
+SESS000841,2024-09-01,App_2,Gaming,Android,Free,Africa,103.63,301.88,68
+SESS000842,2025-01-27,App_5,Productivity,iOS,Free,Europe,96.62,325.88,56
+SESS000843,2024-08-27,App_11,Productivity,Android,Free,North America,2.45,256.15,28
+SESS000844,2025-02-24,App_14,Productivity,iOS,Free,Africa,38.96,203.14,14
+SESS000845,2024-02-14,App_8,Productivity,Android,Premium,Africa,69.39,92.82,40
+SESS000846,2024-11-21,App_9,Gaming,iOS,Free,North America,46.69,21.31,100
+SESS000847,2025-04-29,App_11,Health & Fitness,iOS,Free,Africa,55.11,402.42,33
+SESS000848,2025-01-25,App_6,Health & Fitness,Android,Free,South America,58.85,371.54,11
+SESS000849,2025-01-30,App_10,Entertainment,iOS,Premium,North America,115.23,437.18,60
+SESS000850,2024-06-04,App_7,Health & Fitness,iOS,Free,Europe,48.8,100.47,6
+SESS000851,2025-05-22,App_10,Social Media,Android,Premium,South America,92.79,285.32,50
+SESS000852,2024-02-07,App_7,Social Media,Android,Free,Asia,37.05,373.76,38
+SESS000853,2024-05-09,App_10,Productivity,iOS,Premium,Europe,31.78,416.55,81
+SESS000854,2025-05-29,App_2,Entertainment,iOS,Premium,Europe,76.46,337.27,50
+SESS000855,2024-12-05,App_6,Gaming,iOS,Free,Europe,72.83,443.38,21
+SESS000856,2024-04-12,App_6,Health & Fitness,iOS,Premium,Asia,96.49,409.02,46
+SESS000857,2025-03-26,App_14,Health & Fitness,Android,Premium,Europe,54.58,180.79,97
+SESS000858,2024-04-12,App_8,Gaming,Android,Free,Africa,45.37,27.66,48
+SESS000859,2025-04-12,App_10,Social Media,iOS,Premium,Europe,57.35,313.25,97
+SESS000860,2024-01-16,App_3,Productivity,Android,Free,South America,40.87,283.64,38
+SESS000861,2024-05-27,App_14,Entertainment,iOS,Free,Asia,64.67,442.25,6
+SESS000862,2025-02-23,App_11,Social Media,iOS,Free,North America,44.42,126.54,24
+SESS000863,2024-06-07,App_12,Entertainment,iOS,Free,Asia,94.47,255.79,52
+SESS000864,2024-03-17,App_13,Productivity,Android,Free,North America,117.71,155.3,30
+SESS000865,2025-04-25,App_5,Health & Fitness,Android,Free,Europe,64.27,108.6,93
+SESS000866,2024-09-28,App_15,Productivity,iOS,Premium,North America,46.63,90.87,87
+SESS000867,2024-12-12,App_10,Social Media,Android,Premium,Africa,81.29,167.3,48
+SESS000868,2025-02-11,App_10,Health & Fitness,Android,Premium,North America,18.9,250.05,44
+SESS000869,2024-03-23,App_2,Productivity,iOS,Premium,North America,41.12,360.11,70
+SESS000870,2024-12-02,App_11,Health & Fitness,Android,Free,South America,112.17,360.12,88
+SESS000871,2025-01-24,App_3,Health & Fitness,Android,Free,Africa,71.23,229.21,24
+SESS000872,2024-11-20,App_6,Entertainment,Android,Free,North America,24.52,195.68,38
+SESS000873,2025-05-14,App_2,Entertainment,Android,Premium,North America,97.73,377.05,25
+SESS000874,2024-02-06,App_4,Social Media,iOS,Free,Europe,87.59,460.45,94
+SESS000875,2024-03-11,App_5,Productivity,iOS,Premium,Asia,55.14,240.35,3
+SESS000876,2024-08-28,App_2,Gaming,iOS,Free,Asia,6.78,298.57,86
+SESS000877,2024-10-21,App_3,Productivity,Android,Free,Europe,34.52,397.6,11
+SESS000878,2024-08-20,App_6,Health & Fitness,Android,Premium,North America,15.46,333.68,61
+SESS000879,2024-04-02,App_12,Social Media,iOS,Free,North America,59.26,468.94,49
+SESS000880,2025-03-20,App_3,Social Media,Android,Premium,South America,44.69,39.3,40
+SESS000881,2024-04-10,App_9,Gaming,Android,Free,Asia,106.81,54.08,53
+SESS000882,2024-04-12,App_7,Health & Fitness,Android,Free,Europe,82.68,0.64,36
+SESS000883,2025-03-30,App_7,Health & Fitness,Android,Premium,South America,31.03,16.08,38
+SESS000884,2024-06-19,App_10,Social Media,iOS,Free,North America,41.16,25.49,66
+SESS000885,2024-11-02,App_3,Social Media,iOS,Free,South America,36.24,6.1,74
+SESS000886,2024-01-30,App_10,Gaming,Android,Premium,North America,98.48,137.48,68
+SESS000887,2024-02-17,App_7,Gaming,Android,Premium,South America,65.59,0.5,65
+SESS000888,2024-11-28,App_7,Entertainment,iOS,Premium,North America,22.27,222.81,3
+SESS000889,2024-02-27,App_3,Social Media,Android,Premium,South America,43.47,364.51,99
+SESS000890,2024-10-27,App_8,Gaming,Android,Free,North America,3.08,480.62,29
+SESS000891,2025-01-02,App_11,Health & Fitness,iOS,Premium,Europe,39.63,49.07,94
+SESS000892,2025-01-18,App_9,Entertainment,iOS,Premium,South America,76.68,184.34,14
+SESS000893,2025-03-17,App_12,Social Media,iOS,Premium,South America,71.9,323.06,48
+SESS000894,2024-05-29,App_15,Gaming,Android,Premium,Asia,43.51,485.48,31
+SESS000895,2024-09-07,App_11,Social Media,iOS,Premium,South America,5.36,371.05,72
+SESS000896,2025-02-25,App_15,Entertainment,Android,Premium,Europe,88.9,186.72,90
+SESS000897,2024-07-03,App_3,Productivity,Android,Premium,Europe,30.59,140.35,65
+SESS000898,2024-06-23,App_9,Social Media,iOS,Free,Asia,11.0,326.99,67
+SESS000899,2024-06-28,App_3,Social Media,Android,Free,North America,12.25,149.09,23
+SESS000900,2024-03-21,App_8,Social Media,Android,Free,Europe,87.49,17.98,36
+SESS000901,2025-01-26,App_5,Social Media,iOS,Free,Africa,76.32,60.48,43
+SESS000902,2024-09-03,App_3,Gaming,Android,Premium,Africa,52.3,71.35,93
+SESS000903,2025-05-24,App_3,Productivity,iOS,Free,North America,33.69,228.74,18
+SESS000904,2024-05-26,App_6,Health & Fitness,iOS,Premium,North America,116.65,466.16,60
+SESS000905,2024-08-25,App_14,Social Media,iOS,Free,Asia,82.99,491.65,79
+SESS000906,2025-04-17,App_8,Health & Fitness,iOS,Premium,Asia,30.05,457.33,90
+SESS000907,2024-09-17,App_10,Gaming,iOS,Premium,South America,99.24,60.6,8
+SESS000908,2025-04-15,App_1,Productivity,iOS,Premium,Africa,100.36,318.54,87
+SESS000909,2024-09-18,App_14,Entertainment,Android,Free,Africa,88.19,476.24,89
+SESS000910,2024-01-10,App_6,Entertainment,Android,Premium,Africa,63.3,396.48,44
+SESS000911,2025-04-21,App_1,Entertainment,iOS,Premium,North America,55.55,440.21,5
+SESS000912,2024-10-21,App_8,Entertainment,Android,Free,Europe,10.11,466.06,38
+SESS000913,2024-06-10,App_3,Entertainment,Android,Free,Africa,45.36,87.7,88
+SESS000914,2024-03-16,App_4,Productivity,Android,Free,Asia,18.46,56.74,82
+SESS000915,2025-03-28,App_14,Social Media,iOS,Premium,North America,117.24,362.54,8
+SESS000916,2024-12-19,App_7,Entertainment,iOS,Premium,Europe,76.9,227.89,38
+SESS000917,2024-11-02,App_9,Social Media,Android,Premium,Africa,105.96,443.28,31
+SESS000918,2025-03-10,App_9,Health & Fitness,iOS,Free,North America,46.45,347.61,27
+SESS000919,2024-09-13,App_11,Social Media,Android,Free,Africa,117.65,136.93,28
+SESS000920,2025-04-12,App_8,Health & Fitness,iOS,Premium,North America,10.37,11.77,27
+SESS000921,2024-11-05,App_7,Social Media,Android,Premium,Africa,111.37,281.83,98
+SESS000922,2024-07-22,App_11,Health & Fitness,iOS,Premium,Africa,90.16,32.11,46
+SESS000923,2025-01-28,App_8,Social Media,iOS,Premium,Europe,51.28,346.05,25
+SESS000924,2025-05-09,App_7,Social Media,Android,Premium,Europe,3.66,108.13,68
+SESS000925,2024-04-19,App_12,Productivity,iOS,Premium,Asia,114.09,199.07,33
+SESS000926,2024-08-30,App_14,Health & Fitness,iOS,Premium,North America,31.57,189.02,76
+SESS000927,2025-01-25,App_8,Social Media,iOS,Premium,Europe,78.69,19.06,41
+SESS000928,2025-01-02,App_8,Productivity,iOS,Premium,North America,106.07,216.53,91
+SESS000929,2024-10-29,App_3,Productivity,iOS,Premium,Asia,100.59,233.12,16
+SESS000930,2024-10-29,App_2,Health & Fitness,Android,Premium,Europe,52.58,87.92,51
+SESS000931,2024-01-23,App_10,Social Media,iOS,Premium,Europe,14.85,7.13,94
+SESS000932,2025-02-09,App_1,Productivity,Android,Free,North America,23.81,448.76,29
+SESS000933,2024-10-08,App_13,Entertainment,iOS,Free,Europe,32.06,328.48,19
+SESS000934,2024-01-09,App_13,Entertainment,iOS,Premium,Asia,37.08,479.73,14
+SESS000935,2024-02-20,App_4,Entertainment,iOS,Free,Asia,62.17,438.25,12
+SESS000936,2025-05-23,App_5,Social Media,iOS,Premium,South America,102.65,355.1,13
+SESS000937,2024-10-20,App_1,Entertainment,iOS,Free,Europe,30.01,359.58,92
+SESS000938,2024-08-23,App_5,Gaming,iOS,Premium,North America,96.08,101.75,77
+SESS000939,2024-12-26,App_4,Health & Fitness,Android,Free,Asia,45.53,134.01,59
+SESS000940,2024-08-12,App_9,Gaming,iOS,Premium,Africa,57.28,335.79,68
+SESS000941,2024-07-13,App_5,Gaming,Android,Free,Asia,91.53,481.61,60
+SESS000942,2024-09-13,App_3,Entertainment,iOS,Premium,South America,53.0,94.44,93
+SESS000943,2024-05-20,App_13,Health & Fitness,iOS,Free,South America,89.88,344.99,16
+SESS000944,2024-04-09,App_8,Productivity,iOS,Free,South America,93.62,405.27,70
+SESS000945,2024-02-10,App_10,Gaming,iOS,Free,Africa,33.95,497.92,7
+SESS000946,2024-11-12,App_12,Productivity,Android,Free,South America,80.9,22.54,78
+SESS000947,2025-03-27,App_13,Productivity,iOS,Premium,Europe,72.95,281.82,26
+SESS000948,2024-02-04,App_13,Social Media,iOS,Free,Asia,109.26,428.57,31
+SESS000949,2025-01-08,App_8,Health & Fitness,iOS,Free,Europe,81.71,279.69,76
+SESS000950,2024-05-14,App_9,Health & Fitness,Android,Premium,Europe,33.45,351.62,12
+SESS000951,2024-04-02,App_9,Gaming,Android,Free,Asia,49.45,396.09,81
+SESS000952,2024-10-29,App_2,Social Media,Android,Premium,South America,3.23,357.93,87
+SESS000953,2024-11-30,App_10,Social Media,Android,Premium,North America,50.3,371.39,26
+SESS000954,2025-03-01,App_2,Social Media,iOS,Premium,Africa,16.44,143.62,64
+SESS000955,2024-06-28,App_5,Health & Fitness,iOS,Premium,Africa,32.78,44.66,28
+SESS000956,2024-07-24,App_13,Health & Fitness,Android,Free,Asia,72.29,183.96,18
+SESS000957,2024-05-15,App_9,Entertainment,iOS,Free,Europe,117.13,410.45,52
+SESS000958,2025-01-09,App_14,Health & Fitness,iOS,Premium,Europe,38.86,272.52,83
+SESS000959,2025-05-28,App_6,Health & Fitness,iOS,Free,South America,27.34,186.95,42
+SESS000960,2024-10-06,App_9,Social Media,Android,Premium,South America,3.15,450.96,29
+SESS000961,2024-06-17,App_14,Productivity,iOS,Premium,South America,39.63,363.24,6
+SESS000962,2024-09-20,App_13,Gaming,iOS,Premium,South America,8.58,270.61,53
+SESS000963,2025-05-08,App_1,Productivity,Android,Premium,Africa,35.25,160.7,5
+SESS000964,2024-10-29,App_13,Gaming,iOS,Premium,Asia,85.73,319.84,93
+SESS000965,2024-12-12,App_12,Entertainment,Android,Free,Asia,99.41,203.8,10
+SESS000966,2024-04-27,App_8,Health & Fitness,iOS,Premium,Africa,70.96,290.32,11
+SESS000967,2025-04-24,App_9,Gaming,Android,Free,North America,76.54,186.37,97
+SESS000968,2024-03-18,App_4,Gaming,iOS,Premium,Africa,40.12,491.76,79
+SESS000969,2024-05-24,App_7,Gaming,Android,Free,South America,47.3,383.77,98
+SESS000970,2024-08-19,App_2,Gaming,iOS,Free,South America,111.65,74.24,65
+SESS000971,2025-02-10,App_12,Health & Fitness,iOS,Free,Europe,2.5,336.49,64
+SESS000972,2025-01-09,App_14,Productivity,iOS,Premium,Africa,41.53,444.77,98
+SESS000973,2024-04-02,App_11,Gaming,iOS,Free,Asia,42.22,338.02,42
+SESS000974,2025-02-08,App_13,Social Media,Android,Premium,Asia,53.88,204.21,50
+SESS000975,2024-01-15,App_4,Gaming,iOS,Premium,North America,55.97,480.71,13
+SESS000976,2024-09-27,App_5,Health & Fitness,iOS,Premium,South America,89.37,43.68,60
+SESS000977,2024-05-06,App_14,Social Media,Android,Free,Europe,26.07,126.97,65
+SESS000978,2025-04-10,App_1,Health & Fitness,iOS,Premium,North America,84.03,69.25,53
+SESS000979,2025-01-12,App_8,Entertainment,iOS,Free,Africa,81.09,462.4,100
+SESS000980,2024-09-25,App_5,Health & Fitness,iOS,Premium,Asia,31.43,322.91,71
+SESS000981,2025-01-25,App_6,Social Media,iOS,Premium,Africa,4.84,225.66,93
+SESS000982,2025-01-15,App_14,Productivity,iOS,Free,South America,102.42,269.84,68
+SESS000983,2024-04-20,App_14,Social Media,Android,Premium,Asia,116.16,340.33,2
+SESS000984,2024-08-27,App_2,Productivity,Android,Premium,Africa,76.13,444.93,2
+SESS000985,2025-04-27,App_8,Social Media,Android,Free,Africa,67.8,172.06,24
+SESS000986,2024-01-26,App_14,Gaming,iOS,Premium,Asia,42.09,459.19,27
+SESS000987,2024-12-01,App_2,Health & Fitness,iOS,Free,South America,25.7,491.37,4
+SESS000988,2024-08-14,App_13,Entertainment,iOS,Free,North America,118.2,72.95,4
+SESS000989,2024-03-05,App_13,Productivity,Android,Premium,North America,44.93,171.15,76
+SESS000990,2025-04-20,App_4,Productivity,Android,Free,Europe,35.73,316.53,14
+SESS000991,2024-11-05,App_4,Gaming,Android,Premium,Asia,38.53,372.52,43
+SESS000992,2025-02-22,App_13,Gaming,iOS,Premium,South America,81.27,425.62,100
+SESS000993,2024-04-29,App_12,Social Media,iOS,Premium,Europe,4.52,287.06,54
+SESS000994,2024-05-23,App_10,Productivity,iOS,Free,Asia,75.36,488.63,15
+SESS000995,2024-02-16,App_12,Health & Fitness,iOS,Premium,Europe,20.84,396.24,71
+SESS000996,2024-02-08,App_6,Social Media,Android,Premium,North America,42.84,412.43,17
+SESS000997,2024-11-07,App_14,Gaming,iOS,Premium,Europe,52.35,198.48,77
+SESS000998,2025-05-19,App_12,Productivity,Android,Premium,Asia,119.5,411.81,68
+SESS000999,2024-04-28,App_10,Entertainment,Android,Premium,Asia,3.79,440.42,2
+SESS001000,2024-04-09,App_11,Entertainment,Android,Free,Europe,116.83,495.26,32
+SESS001001,2024-08-28,App_7,Productivity,iOS,Free,Asia,67.22,272.23,89
+SESS001002,2024-05-18,App_3,Health & Fitness,iOS,Free,North America,59.4,260.02,49
+SESS001003,2025-02-01,App_10,Productivity,iOS,Free,North America,28.93,287.94,43
+SESS001004,2025-04-09,App_3,Health & Fitness,iOS,Premium,Asia,110.62,127.73,61
+SESS001005,2025-01-14,App_13,Gaming,iOS,Premium,North America,16.67,275.45,82
+SESS001006,2025-03-05,App_4,Health & Fitness,Android,Premium,Asia,73.25,471.17,90
+SESS001007,2024-06-07,App_14,Health & Fitness,iOS,Free,Europe,102.11,369.99,64
+SESS001008,2025-02-28,App_4,Productivity,Android,Premium,South America,12.54,342.16,34
+SESS001009,2024-04-11,App_13,Productivity,iOS,Free,Africa,26.98,393.97,94
+SESS001010,2025-05-16,App_1,Entertainment,Android,Premium,Asia,119.06,244.85,37
+SESS001011,2025-02-21,App_10,Gaming,iOS,Free,Europe,68.92,163.08,77
+SESS001012,2024-10-13,App_6,Social Media,iOS,Premium,Africa,22.26,418.32,16
+SESS001013,2024-02-03,App_9,Productivity,iOS,Free,North America,19.93,186.97,93
+SESS001014,2025-01-14,App_5,Gaming,iOS,Premium,South America,93.53,468.5,54
+SESS001015,2024-08-10,App_10,Gaming,Android,Premium,Asia,88.4,261.8,1
+SESS001016,2025-03-30,App_9,Entertainment,Android,Premium,Africa,48.73,409.77,80
+SESS001017,2025-03-31,App_3,Productivity,iOS,Free,Europe,49.61,109.93,88
+SESS001018,2024-08-29,App_6,Productivity,iOS,Free,Africa,90.4,175.89,28
+SESS001019,2025-01-06,App_12,Gaming,iOS,Free,Europe,50.76,204.3,51
+SESS001020,2024-04-11,App_5,Productivity,iOS,Free,North America,72.31,375.91,48
+SESS001021,2025-01-11,App_5,Entertainment,Android,Free,Africa,39.01,53.66,79
+SESS001022,2025-01-02,App_10,Entertainment,Android,Premium,Asia,44.22,320.41,45
+SESS001023,2024-03-03,App_5,Entertainment,iOS,Free,Africa,13.57,227.1,18
+SESS001024,2025-02-11,App_14,Productivity,Android,Free,North America,106.29,417.26,8
+SESS001025,2024-10-09,App_9,Productivity,Android,Free,Africa,115.27,447.67,10
+SESS001026,2024-07-13,App_15,Entertainment,Android,Free,South America,91.65,94.57,40
+SESS001027,2024-05-05,App_11,Health & Fitness,Android,Premium,South America,38.82,0.8,78
+SESS001028,2025-04-10,App_14,Social Media,iOS,Premium,Asia,64.74,396.9,10
+SESS001029,2024-04-03,App_2,Gaming,iOS,Free,Asia,47.67,252.5,16
+SESS001030,2024-08-05,App_3,Health & Fitness,iOS,Free,Europe,103.23,54.35,68
+SESS001031,2024-01-22,App_13,Social Media,iOS,Premium,Europe,59.89,72.61,82
+SESS001032,2024-02-21,App_13,Productivity,iOS,Free,North America,56.21,36.57,99
+SESS001033,2024-12-07,App_7,Gaming,iOS,Premium,South America,99.31,475.08,74
+SESS001034,2024-09-06,App_15,Health & Fitness,Android,Free,South America,54.49,121.3,37
+SESS001035,2024-05-08,App_1,Gaming,iOS,Premium,North America,110.95,203.36,14
+SESS001036,2024-07-29,App_5,Productivity,iOS,Free,Asia,22.14,412.7,70
+SESS001037,2024-03-11,App_14,Social Media,iOS,Free,South America,35.32,271.21,38
+SESS001038,2024-07-31,App_11,Social Media,Android,Premium,North America,64.39,48.75,29
+SESS001039,2024-08-09,App_3,Social Media,Android,Premium,North America,40.75,407.34,30
+SESS001040,2024-08-26,App_12,Health & Fitness,Android,Premium,South America,56.22,12.24,51
+SESS001041,2024-12-02,App_14,Social Media,iOS,Free,Europe,21.5,16.03,68
+SESS001042,2024-05-31,App_3,Health & Fitness,Android,Free,Africa,108.97,60.98,62
+SESS001043,2024-01-03,App_4,Health & Fitness,iOS,Free,Asia,46.62,93.26,44
+SESS001044,2024-10-10,App_3,Entertainment,iOS,Premium,Africa,78.72,388.15,4
+SESS001045,2024-05-28,App_12,Health & Fitness,Android,Premium,South America,116.94,36.13,76
+SESS001046,2024-05-13,App_6,Gaming,iOS,Free,Europe,49.82,127.09,18
+SESS001047,2024-09-13,App_14,Social Media,iOS,Premium,Africa,76.73,475.53,97
+SESS001048,2024-06-27,App_4,Health & Fitness,iOS,Free,North America,74.65,211.25,53
+SESS001049,2024-04-22,App_13,Productivity,Android,Free,Asia,17.49,179.08,25
+SESS001050,2024-01-27,App_14,Health & Fitness,iOS,Free,North America,74.77,201.8,22
+SESS001051,2024-05-14,App_11,Health & Fitness,Android,Premium,Africa,119.87,349.06,93
+SESS001052,2024-01-16,App_7,Entertainment,iOS,Premium,North America,72.35,150.46,21
+SESS001053,2025-01-01,App_8,Gaming,iOS,Premium,South America,88.13,194.18,28
+SESS001054,2024-08-31,App_3,Productivity,Android,Free,Asia,113.51,104.62,78
+SESS001055,2024-11-27,App_10,Entertainment,Android,Premium,Europe,39.68,214.55,78
+SESS001056,2024-01-17,App_11,Gaming,iOS,Free,South America,30.74,295.05,65
+SESS001057,2024-06-27,App_5,Health & Fitness,Android,Premium,North America,68.75,239.48,19
+SESS001058,2024-09-28,App_11,Productivity,iOS,Premium,Africa,57.16,307.59,10
+SESS001059,2024-02-23,App_7,Gaming,iOS,Free,Africa,11.83,21.42,31
+SESS001060,2024-05-09,App_7,Entertainment,Android,Free,North America,45.07,245.92,58
+SESS001061,2025-03-07,App_8,Health & Fitness,iOS,Free,Asia,89.41,16.24,36
+SESS001062,2024-04-26,App_2,Health & Fitness,Android,Premium,North America,106.14,160.16,43
+SESS001063,2024-03-06,App_11,Social Media,Android,Free,North America,78.84,16.0,44
+SESS001064,2025-05-02,App_13,Entertainment,iOS,Premium,South America,66.69,350.47,54
+SESS001065,2025-04-04,App_15,Productivity,Android,Free,North America,103.75,430.66,10
+SESS001066,2025-01-05,App_13,Health & Fitness,iOS,Premium,South America,102.19,192.19,12
+SESS001067,2025-06-09,App_2,Social Media,Android,Premium,Asia,20.2,269.74,33
+SESS001068,2024-04-21,App_7,Gaming,Android,Premium,Asia,44.92,49.45,5
+SESS001069,2025-04-07,App_9,Health & Fitness,iOS,Premium,Asia,105.08,344.45,90
+SESS001070,2025-05-30,App_12,Gaming,Android,Free,Asia,21.85,310.31,96
+SESS001071,2024-08-14,App_5,Health & Fitness,iOS,Free,South America,112.52,175.85,94
+SESS001072,2024-02-14,App_12,Gaming,iOS,Premium,North America,110.64,485.7,38
+SESS001073,2024-11-04,App_15,Entertainment,iOS,Premium,Africa,39.4,245.41,17
+SESS001074,2025-04-14,App_15,Gaming,Android,Premium,Asia,35.86,14.15,67
+SESS001075,2024-02-01,App_6,Gaming,iOS,Premium,South America,107.44,19.82,69
+SESS001076,2024-03-03,App_8,Health & Fitness,iOS,Premium,Africa,25.63,243.98,53
+SESS001077,2025-05-05,App_8,Health & Fitness,Android,Free,North America,55.88,452.98,96
+SESS001078,2025-02-15,App_6,Gaming,Android,Premium,South America,30.16,237.7,6
+SESS001079,2025-03-12,App_10,Entertainment,Android,Free,Asia,72.79,272.1,47
+SESS001080,2024-04-20,App_1,Productivity,iOS,Free,South America,118.78,41.94,81
+SESS001081,2025-05-17,App_14,Social Media,Android,Premium,South America,95.81,362.28,3
+SESS001082,2025-03-30,App_13,Gaming,iOS,Premium,North America,116.76,357.95,100
+SESS001083,2024-03-16,App_14,Entertainment,Android,Premium,Asia,60.53,461.19,44
+SESS001084,2024-03-23,App_12,Gaming,iOS,Free,Africa,14.23,227.62,31
+SESS001085,2024-11-25,App_2,Social Media,iOS,Free,North America,72.88,374.65,64
+SESS001086,2024-05-31,App_12,Productivity,iOS,Premium,North America,40.42,121.07,51
+SESS001087,2024-03-08,App_8,Productivity,iOS,Free,Europe,110.5,492.01,55
+SESS001088,2024-05-09,App_11,Gaming,Android,Free,North America,19.95,17.65,56
+SESS001089,2024-10-08,App_11,Social Media,Android,Free,North America,56.0,155.25,96
+SESS001090,2024-11-28,App_12,Gaming,iOS,Premium,Europe,115.53,388.69,6
+SESS001091,2025-01-25,App_6,Health & Fitness,Android,Premium,North America,1.82,427.39,67
+SESS001092,2024-10-28,App_14,Productivity,Android,Free,Asia,4.85,108.67,89
+SESS001093,2025-04-09,App_2,Entertainment,Android,Free,South America,81.55,205.6,13
+SESS001094,2025-06-01,App_13,Entertainment,iOS,Premium,Europe,104.18,5.64,15
+SESS001095,2025-03-16,App_9,Entertainment,Android,Premium,Europe,119.47,64.63,96
+SESS001096,2024-04-11,App_7,Social Media,iOS,Free,North America,103.6,431.43,17
+SESS001097,2024-04-27,App_4,Social Media,iOS,Premium,Europe,9.37,390.53,55
+SESS001098,2024-08-08,App_7,Productivity,Android,Free,Asia,50.63,467.8,100
+SESS001099,2025-03-16,App_14,Social Media,Android,Free,Africa,31.94,222.49,3
+SESS001100,2025-04-07,App_4,Health & Fitness,iOS,Premium,North America,86.2,251.29,6
+SESS001101,2024-08-21,App_8,Productivity,iOS,Premium,North America,15.4,231.86,25
+SESS001102,2025-02-27,App_5,Productivity,iOS,Premium,Asia,93.41,348.72,8
+SESS001103,2024-12-13,App_6,Health & Fitness,Android,Free,North America,78.0,194.39,67
+SESS001104,2025-04-09,App_14,Health & Fitness,iOS,Premium,North America,64.57,462.53,27
+SESS001105,2025-02-12,App_5,Health & Fitness,iOS,Free,North America,3.82,327.02,47
+SESS001106,2025-03-01,App_6,Gaming,Android,Free,Asia,58.22,24.83,50
+SESS001107,2024-04-07,App_9,Entertainment,iOS,Premium,North America,87.4,293.04,51
+SESS001108,2024-11-16,App_10,Entertainment,Android,Free,Asia,35.86,349.26,78
+SESS001109,2025-03-13,App_3,Productivity,Android,Free,Asia,48.41,245.8,12
+SESS001110,2024-11-16,App_10,Health & Fitness,Android,Premium,Africa,98.86,451.18,98
+SESS001111,2024-09-18,App_14,Social Media,iOS,Premium,South America,92.48,147.05,4
+SESS001112,2025-01-18,App_8,Health & Fitness,Android,Premium,Asia,44.24,81.79,50
+SESS001113,2024-06-05,App_13,Productivity,Android,Premium,Europe,86.28,145.5,20
+SESS001114,2025-04-30,App_6,Entertainment,iOS,Free,Europe,61.88,166.04,88
+SESS001115,2024-03-09,App_15,Gaming,iOS,Premium,Africa,78.31,55.28,59
+SESS001116,2024-04-03,App_11,Health & Fitness,iOS,Free,South America,52.0,77.82,10
+SESS001117,2024-03-28,App_13,Entertainment,Android,Free,North America,15.76,418.77,42
+SESS001118,2024-04-05,App_1,Productivity,iOS,Premium,Europe,18.37,99.96,96
+SESS001119,2025-03-18,App_1,Productivity,iOS,Free,Asia,32.24,243.38,28
+SESS001120,2024-04-08,App_2,Entertainment,Android,Free,Europe,99.2,3.34,13
+SESS001121,2025-01-16,App_11,Entertainment,Android,Premium,Africa,90.68,387.98,23
+SESS001122,2024-05-13,App_13,Health & Fitness,iOS,Premium,South America,14.3,403.5,99
+SESS001123,2024-03-02,App_14,Social Media,iOS,Premium,South America,21.11,452.75,28
+SESS001124,2024-12-03,App_8,Health & Fitness,iOS,Premium,North America,50.13,386.35,33
+SESS001125,2024-05-05,App_1,Gaming,Android,Free,Africa,41.44,22.42,44
+SESS001126,2025-02-24,App_2,Entertainment,Android,Free,Africa,109.64,91.75,46
+SESS001127,2024-12-28,App_15,Gaming,iOS,Free,Europe,95.67,170.37,7
+SESS001128,2025-03-09,App_14,Gaming,Android,Premium,Africa,26.0,341.68,56
+SESS001129,2024-02-22,App_3,Social Media,iOS,Free,South America,12.56,422.85,66
+SESS001130,2024-10-21,App_8,Health & Fitness,Android,Premium,South America,77.4,114.75,71
+SESS001131,2024-11-15,App_8,Productivity,Android,Premium,Asia,9.81,222.61,24
+SESS001132,2024-12-26,App_1,Gaming,iOS,Free,Asia,108.0,350.54,56
+SESS001133,2024-04-16,App_7,Gaming,Android,Free,South America,59.5,455.87,74
+SESS001134,2025-06-03,App_4,Gaming,iOS,Free,Europe,30.12,51.22,14
+SESS001135,2024-08-05,App_12,Gaming,Android,Free,North America,31.94,70.03,63
+SESS001136,2024-06-07,App_15,Productivity,Android,Free,Asia,36.14,370.31,81
+SESS001137,2025-05-08,App_3,Health & Fitness,iOS,Premium,Asia,53.92,473.36,63
+SESS001138,2024-08-17,App_15,Social Media,iOS,Free,North America,94.7,281.6,55
+SESS001139,2024-04-20,App_11,Gaming,Android,Premium,Asia,84.25,219.33,98
+SESS001140,2024-12-24,App_5,Entertainment,Android,Free,Africa,68.62,183.65,72
+SESS001141,2025-01-11,App_3,Productivity,iOS,Free,Europe,71.74,349.61,83
+SESS001142,2024-04-27,App_14,Social Media,Android,Free,Europe,91.6,10.76,19
+SESS001143,2024-10-12,App_15,Entertainment,Android,Premium,North America,18.61,262.83,80
+SESS001144,2024-08-19,App_15,Entertainment,Android,Free,North America,35.32,347.06,27
+SESS001145,2025-03-15,App_5,Entertainment,iOS,Premium,South America,27.3,317.6,68
+SESS001146,2024-01-27,App_2,Gaming,iOS,Premium,North America,45.13,53.61,34
+SESS001147,2024-09-30,App_11,Health & Fitness,Android,Free,Europe,44.16,237.09,38
+SESS001148,2024-01-30,App_6,Gaming,iOS,Free,North America,35.65,139.81,96
+SESS001149,2024-07-03,App_5,Entertainment,Android,Free,Europe,113.43,278.86,6
+SESS001150,2024-10-06,App_2,Social Media,iOS,Free,South America,19.84,211.42,15
+SESS001151,2024-11-12,App_6,Gaming,iOS,Premium,South America,76.43,33.06,31
+SESS001152,2024-12-13,App_11,Social Media,Android,Free,Europe,57.56,131.76,39
+SESS001153,2024-12-25,App_15,Gaming,Android,Free,South America,53.34,474.36,71
+SESS001154,2024-01-07,App_11,Health & Fitness,Android,Premium,North America,36.09,179.14,1
+SESS001155,2024-07-04,App_3,Health & Fitness,iOS,Premium,Asia,89.5,200.96,68
+SESS001156,2024-05-26,App_1,Gaming,Android,Premium,Europe,83.71,459.68,58
+SESS001157,2025-02-14,App_7,Gaming,Android,Free,Africa,18.44,453.35,100
+SESS001158,2024-03-12,App_11,Health & Fitness,iOS,Free,Africa,35.79,437.83,25
+SESS001159,2024-05-25,App_5,Social Media,iOS,Free,Africa,46.72,60.94,44
+SESS001160,2024-02-01,App_12,Health & Fitness,iOS,Premium,Asia,76.77,81.42,39
+SESS001161,2024-04-03,App_12,Gaming,iOS,Free,Asia,4.33,285.43,31
+SESS001162,2024-08-08,App_13,Social Media,Android,Free,South America,26.19,332.49,62
+SESS001163,2025-01-20,App_4,Gaming,iOS,Premium,Europe,37.05,223.33,86
+SESS001164,2025-03-05,App_7,Productivity,iOS,Free,Africa,70.52,498.26,71
+SESS001165,2025-04-09,App_11,Gaming,Android,Free,North America,31.87,186.97,95
+SESS001166,2024-12-15,App_2,Health & Fitness,iOS,Free,Europe,86.82,131.87,68
+SESS001167,2024-06-10,App_12,Entertainment,iOS,Free,Europe,89.71,33.88,18
+SESS001168,2025-01-13,App_2,Health & Fitness,Android,Premium,Asia,119.54,395.1,53
+SESS001169,2024-11-15,App_1,Health & Fitness,Android,Free,South America,49.3,93.16,6
+SESS001170,2024-11-28,App_4,Social Media,Android,Free,South America,74.6,206.92,28
+SESS001171,2024-03-27,App_8,Productivity,Android,Premium,Africa,21.28,280.05,30
+SESS001172,2024-02-23,App_2,Social Media,Android,Free,Africa,41.96,116.51,83
+SESS001173,2024-06-08,App_3,Gaming,iOS,Free,Europe,19.55,74.12,48
+SESS001174,2024-06-10,App_10,Entertainment,iOS,Free,South America,102.46,67.04,79
+SESS001175,2024-02-20,App_4,Health & Fitness,Android,Free,Europe,38.4,350.89,93
+SESS001176,2024-03-24,App_9,Entertainment,Android,Free,North America,45.55,6.09,16
+SESS001177,2024-10-05,App_11,Entertainment,Android,Free,Asia,103.98,30.47,7
+SESS001178,2025-03-29,App_8,Gaming,Android,Free,South America,58.74,394.15,14
+SESS001179,2025-03-10,App_1,Gaming,iOS,Premium,Europe,21.13,56.82,86
+SESS001180,2025-05-12,App_1,Entertainment,Android,Free,Asia,63.5,333.12,48
+SESS001181,2025-03-28,App_12,Health & Fitness,Android,Premium,Africa,21.87,292.99,58
+SESS001182,2025-02-28,App_6,Gaming,Android,Premium,North America,107.76,4.92,89
+SESS001183,2024-10-06,App_14,Health & Fitness,Android,Free,Europe,2.69,440.25,89
+SESS001184,2024-08-08,App_2,Gaming,iOS,Free,South America,113.69,68.96,3
+SESS001185,2025-06-08,App_14,Health & Fitness,iOS,Premium,North America,41.74,460.41,78
+SESS001186,2024-04-26,App_7,Health & Fitness,Android,Premium,North America,37.81,430.36,7
+SESS001187,2024-12-19,App_12,Productivity,iOS,Free,Europe,27.69,400.71,65
+SESS001188,2025-03-16,App_3,Gaming,iOS,Free,North America,34.12,94.74,48
+SESS001189,2024-04-23,App_8,Productivity,Android,Free,South America,93.58,237.64,73
+SESS001190,2024-10-17,App_2,Entertainment,iOS,Free,Europe,94.92,239.63,75
+SESS001191,2025-05-13,App_4,Health & Fitness,Android,Premium,Asia,78.35,49.97,91
+SESS001192,2024-11-11,App_7,Health & Fitness,iOS,Premium,North America,43.42,194.23,9
+SESS001193,2024-02-16,App_2,Social Media,iOS,Free,South America,55.66,316.88,38
+SESS001194,2024-08-13,App_12,Gaming,iOS,Free,Africa,109.61,270.93,37
+SESS001195,2025-02-08,App_13,Entertainment,Android,Premium,South America,108.85,402.03,74
+SESS001196,2024-02-26,App_2,Entertainment,iOS,Premium,Asia,100.96,73.48,24
+SESS001197,2024-01-08,App_2,Gaming,iOS,Free,Asia,101.64,63.91,3
+SESS001198,2024-07-28,App_6,Social Media,Android,Premium,North America,94.19,255.18,92
+SESS001199,2024-11-04,App_6,Social Media,iOS,Free,Africa,63.37,430.66,58
+SESS001200,2024-08-04,App_15,Gaming,iOS,Premium,North America,28.18,34.46,33
+SESS001201,2024-05-20,App_5,Health & Fitness,iOS,Free,Asia,25.1,256.94,75
+SESS001202,2024-09-18,App_3,Health & Fitness,Android,Free,South America,80.05,493.69,22
+SESS001203,2024-10-23,App_7,Entertainment,Android,Premium,Europe,48.42,283.3,52
+SESS001204,2024-12-01,App_13,Gaming,iOS,Premium,Europe,12.76,123.91,97
+SESS001205,2024-05-02,App_14,Health & Fitness,Android,Free,South America,40.21,376.83,77
+SESS001206,2024-01-08,App_13,Social Media,Android,Free,Africa,9.0,419.97,91
+SESS001207,2025-05-24,App_14,Gaming,Android,Free,South America,66.84,181.18,74
+SESS001208,2025-03-16,App_3,Entertainment,Android,Premium,Africa,64.64,113.06,80
+SESS001209,2024-06-28,App_11,Health & Fitness,iOS,Premium,Asia,89.21,131.6,81
+SESS001210,2024-05-12,App_11,Health & Fitness,Android,Premium,North America,104.84,30.31,54
+SESS001211,2025-01-24,App_3,Social Media,iOS,Free,South America,116.48,216.22,99
+SESS001212,2024-08-23,App_2,Health & Fitness,iOS,Free,Asia,7.66,435.4,80
+SESS001213,2025-05-27,App_9,Health & Fitness,iOS,Premium,Asia,68.44,390.43,74
+SESS001214,2024-12-28,App_10,Social Media,iOS,Free,North America,30.51,14.32,49
+SESS001215,2024-03-14,App_1,Social Media,Android,Premium,North America,31.47,335.99,100
+SESS001216,2025-02-10,App_10,Entertainment,Android,Premium,South America,88.99,465.42,85
+SESS001217,2024-02-13,App_11,Gaming,Android,Free,South America,83.07,195.69,38
+SESS001218,2025-03-22,App_3,Health & Fitness,Android,Premium,Europe,78.45,303.42,71
+SESS001219,2024-01-20,App_8,Health & Fitness,Android,Free,Asia,30.17,433.53,83
+SESS001220,2025-04-15,App_6,Social Media,Android,Premium,Europe,83.07,374.43,78
+SESS001221,2024-03-20,App_12,Entertainment,Android,Premium,South America,55.27,64.1,98
+SESS001222,2024-11-16,App_4,Health & Fitness,Android,Free,Europe,5.79,307.64,77
+SESS001223,2025-03-15,App_11,Entertainment,iOS,Premium,Africa,73.49,395.34,96
+SESS001224,2025-02-18,App_12,Productivity,Android,Free,Asia,66.69,444.43,94
+SESS001225,2025-03-03,App_3,Social Media,iOS,Premium,Africa,11.87,323.2,87
+SESS001226,2024-10-23,App_15,Health & Fitness,Android,Premium,Africa,23.61,377.84,87
+SESS001227,2024-04-27,App_7,Entertainment,iOS,Free,South America,99.85,79.06,98
+SESS001228,2025-02-18,App_10,Gaming,Android,Free,Africa,8.58,299.69,59
+SESS001229,2024-01-22,App_11,Entertainment,Android,Free,South America,108.47,144.17,12
+SESS001230,2024-11-28,App_8,Entertainment,Android,Free,North America,63.18,386.66,67
+SESS001231,2024-06-24,App_14,Productivity,iOS,Free,North America,8.24,216.65,38
+SESS001232,2025-04-16,App_4,Health & Fitness,iOS,Premium,Europe,28.08,15.94,19
+SESS001233,2025-01-05,App_2,Health & Fitness,Android,Free,North America,70.7,33.63,69
+SESS001234,2024-03-31,App_15,Social Media,Android,Premium,Europe,70.17,42.88,47
+SESS001235,2025-03-23,App_2,Entertainment,Android,Free,North America,56.25,445.88,75
+SESS001236,2024-04-18,App_3,Gaming,iOS,Free,North America,64.9,73.21,50
+SESS001237,2024-09-06,App_13,Productivity,iOS,Free,North America,93.99,320.88,82
+SESS001238,2025-03-22,App_2,Entertainment,Android,Free,Africa,38.94,185.08,73
+SESS001239,2025-02-14,App_10,Gaming,iOS,Premium,Asia,76.43,196.94,32
+SESS001240,2024-03-21,App_12,Social Media,iOS,Premium,Europe,24.37,232.52,19
+SESS001241,2025-02-09,App_7,Productivity,iOS,Premium,North America,14.85,403.5,43
+SESS001242,2024-11-13,App_6,Health & Fitness,iOS,Free,Africa,10.92,458.6,73
+SESS001243,2024-12-13,App_7,Health & Fitness,iOS,Free,North America,24.49,152.1,14
+SESS001244,2024-08-14,App_6,Entertainment,iOS,Premium,Asia,65.54,267.88,38
+SESS001245,2024-12-07,App_13,Productivity,iOS,Free,Europe,26.58,163.88,3
+SESS001246,2024-06-21,App_3,Gaming,Android,Free,Africa,58.98,154.42,99
+SESS001247,2024-03-19,App_4,Social Media,iOS,Free,South America,68.75,474.27,65
+SESS001248,2025-06-06,App_5,Social Media,Android,Premium,South America,70.22,255.96,40
+SESS001249,2024-04-26,App_11,Health & Fitness,Android,Premium,South America,103.48,193.35,73
+SESS001250,2025-06-06,App_2,Health & Fitness,Android,Free,North America,14.27,435.64,80
+SESS001251,2024-07-17,App_4,Social Media,iOS,Premium,Europe,106.5,344.38,25
+SESS001252,2024-12-23,App_9,Health & Fitness,iOS,Premium,Asia,93.51,347.78,23
+SESS001253,2024-12-25,App_10,Social Media,iOS,Free,South America,24.18,461.77,25
+SESS001254,2024-05-31,App_10,Entertainment,Android,Premium,Europe,96.89,302.8,14
+SESS001255,2024-08-29,App_12,Gaming,Android,Premium,Europe,74.12,330.67,24
+SESS001256,2024-04-15,App_10,Productivity,iOS,Free,Europe,55.29,287.21,100
+SESS001257,2024-05-29,App_5,Entertainment,Android,Free,Asia,1.06,234.93,29
+SESS001258,2024-09-19,App_13,Productivity,Android,Premium,Asia,90.79,45.95,38
+SESS001259,2024-07-21,App_12,Social Media,iOS,Premium,Africa,72.56,245.09,100
+SESS001260,2024-06-26,App_1,Gaming,Android,Free,Asia,59.62,171.53,19
+SESS001261,2024-06-05,App_14,Entertainment,iOS,Free,North America,22.01,258.74,100
+SESS001262,2024-03-18,App_14,Health & Fitness,iOS,Free,North America,61.37,315.87,56
+SESS001263,2024-06-30,App_11,Productivity,Android,Free,Europe,62.19,126.17,52
+SESS001264,2025-05-20,App_15,Productivity,Android,Free,Africa,114.22,134.47,73
+SESS001265,2025-04-20,App_5,Health & Fitness,iOS,Premium,Africa,36.66,135.99,72
+SESS001266,2025-04-04,App_4,Entertainment,Android,Premium,South America,104.2,144.83,8
+SESS001267,2024-11-26,App_9,Health & Fitness,Android,Free,Asia,30.63,257.0,53
+SESS001268,2024-11-19,App_10,Productivity,iOS,Premium,Europe,33.76,156.87,80
+SESS001269,2024-06-03,App_9,Health & Fitness,iOS,Free,Europe,67.79,452.95,90
+SESS001270,2025-03-26,App_4,Productivity,Android,Free,Asia,37.75,453.66,3
+SESS001271,2024-03-10,App_12,Entertainment,Android,Premium,North America,53.37,283.22,72
+SESS001272,2025-04-25,App_7,Gaming,Android,Free,Europe,117.29,174.58,61
+SESS001273,2025-03-28,App_5,Entertainment,Android,Free,Europe,113.54,153.52,20
+SESS001274,2024-11-06,App_11,Health & Fitness,iOS,Free,Asia,59.02,412.95,51
+SESS001275,2024-10-08,App_1,Health & Fitness,Android,Free,South America,38.99,259.08,82
+SESS001276,2024-02-27,App_13,Entertainment,Android,Free,Europe,116.95,206.06,16
+SESS001277,2024-12-26,App_15,Gaming,iOS,Free,North America,56.99,132.32,59
+SESS001278,2025-06-03,App_13,Productivity,Android,Free,South America,20.41,212.21,98
+SESS001279,2024-03-16,App_4,Health & Fitness,iOS,Free,South America,8.8,329.73,54
+SESS001280,2024-11-13,App_8,Health & Fitness,iOS,Free,Asia,52.41,384.27,4
+SESS001281,2025-04-17,App_7,Entertainment,iOS,Free,North America,37.25,445.33,83
+SESS001282,2025-04-07,App_2,Productivity,Android,Free,Europe,111.11,70.07,57
+SESS001283,2024-02-08,App_4,Productivity,iOS,Premium,Asia,53.74,385.07,23
+SESS001284,2024-02-28,App_8,Health & Fitness,Android,Premium,North America,76.91,147.86,96
+SESS001285,2025-01-12,App_11,Productivity,iOS,Premium,Europe,65.09,343.71,28
+SESS001286,2024-10-20,App_10,Entertainment,Android,Free,North America,22.74,181.06,40
+SESS001287,2024-03-19,App_2,Gaming,Android,Free,Africa,93.68,271.62,72
+SESS001288,2024-04-02,App_9,Social Media,iOS,Free,Asia,91.78,160.91,93
+SESS001289,2025-06-03,App_15,Gaming,Android,Premium,South America,26.37,399.12,30
+SESS001290,2025-01-28,App_1,Entertainment,iOS,Free,Africa,60.71,291.08,67
+SESS001291,2025-04-18,App_6,Gaming,iOS,Free,North America,39.08,87.12,78
+SESS001292,2024-02-12,App_15,Social Media,iOS,Premium,South America,64.12,362.43,29
+SESS001293,2025-04-05,App_6,Gaming,Android,Premium,Europe,13.25,438.13,42
+SESS001294,2024-07-11,App_3,Health & Fitness,iOS,Premium,South America,36.71,319.48,86
+SESS001295,2024-11-25,App_7,Entertainment,iOS,Free,North America,73.53,103.26,85
+SESS001296,2025-05-02,App_14,Productivity,iOS,Premium,North America,68.95,395.08,78
+SESS001297,2025-05-28,App_14,Health & Fitness,Android,Premium,North America,19.4,415.28,47
+SESS001298,2024-06-03,App_10,Health & Fitness,iOS,Free,Africa,19.61,91.95,84
+SESS001299,2024-03-04,App_7,Social Media,Android,Premium,Asia,92.2,323.91,32
+SESS001300,2025-04-06,App_6,Gaming,iOS,Premium,Europe,94.51,248.73,67
+SESS001301,2024-04-15,App_9,Entertainment,Android,Premium,Africa,102.43,123.19,18
+SESS001302,2024-12-17,App_11,Social Media,Android,Free,Africa,73.6,242.43,85
+SESS001303,2024-03-27,App_3,Social Media,iOS,Premium,Europe,19.7,135.73,72
+SESS001304,2025-05-31,App_13,Gaming,Android,Premium,Europe,114.85,284.31,97
+SESS001305,2024-06-25,App_8,Entertainment,Android,Premium,North America,117.76,268.94,3
+SESS001306,2024-02-10,App_13,Health & Fitness,iOS,Premium,North America,78.77,73.6,37
+SESS001307,2024-09-10,App_2,Entertainment,Android,Free,Asia,94.86,303.19,1
+SESS001308,2025-03-24,App_1,Social Media,Android,Premium,Asia,93.79,126.64,45
+SESS001309,2025-03-25,App_10,Social Media,Android,Free,South America,33.06,483.27,53
+SESS001310,2024-06-11,App_2,Productivity,Android,Premium,South America,112.01,406.65,85
+SESS001311,2025-01-07,App_1,Gaming,iOS,Premium,Asia,57.17,491.94,16
+SESS001312,2025-01-16,App_5,Productivity,Android,Free,Africa,102.89,2.13,19
+SESS001313,2024-10-16,App_4,Social Media,Android,Premium,Asia,37.13,94.87,89
+SESS001314,2025-01-31,App_1,Health & Fitness,Android,Free,South America,18.25,467.09,73
+SESS001315,2025-02-22,App_15,Social Media,Android,Free,Asia,40.71,463.94,79
+SESS001316,2024-12-12,App_1,Entertainment,Android,Premium,Asia,43.12,227.65,56
+SESS001317,2024-02-23,App_13,Entertainment,iOS,Premium,South America,89.68,495.43,44
+SESS001318,2024-12-08,App_7,Health & Fitness,iOS,Premium,North America,54.52,292.0,4
+SESS001319,2024-03-08,App_9,Health & Fitness,Android,Premium,Asia,51.61,138.91,71
+SESS001320,2024-12-03,App_5,Productivity,Android,Premium,Asia,47.83,283.94,19
+SESS001321,2024-04-06,App_11,Health & Fitness,Android,Premium,Asia,50.64,100.0,52
+SESS001322,2025-01-30,App_12,Social Media,Android,Premium,Africa,91.7,25.97,76
+SESS001323,2024-10-17,App_9,Gaming,iOS,Premium,Africa,49.09,214.14,98
+SESS001324,2024-09-15,App_13,Entertainment,Android,Free,South America,116.27,490.86,46
+SESS001325,2024-06-02,App_7,Entertainment,Android,Premium,North America,43.08,297.84,70
+SESS001326,2024-12-07,App_7,Social Media,iOS,Free,Asia,96.84,238.45,87
+SESS001327,2024-03-24,App_12,Gaming,iOS,Premium,Africa,117.02,193.75,19
+SESS001328,2024-05-24,App_7,Health & Fitness,iOS,Free,North America,92.28,60.16,56
+SESS001329,2024-12-24,App_2,Productivity,iOS,Free,Europe,3.32,90.96,85
+SESS001330,2024-11-13,App_11,Gaming,Android,Free,South America,84.82,180.99,35
+SESS001331,2025-02-05,App_9,Social Media,Android,Free,Europe,25.82,400.75,12
+SESS001332,2024-05-12,App_9,Health & Fitness,Android,Free,Europe,86.28,27.72,71
+SESS001333,2024-03-27,App_10,Health & Fitness,iOS,Premium,Asia,36.08,423.66,49
+SESS001334,2024-11-13,App_3,Health & Fitness,Android,Premium,South America,45.44,139.04,74
+SESS001335,2025-01-20,App_5,Gaming,iOS,Premium,North America,39.3,274.47,49
+SESS001336,2024-12-02,App_2,Health & Fitness,iOS,Premium,Europe,95.12,134.57,45
+SESS001337,2024-05-10,App_5,Gaming,Android,Premium,Africa,39.76,392.04,53
+SESS001338,2024-04-05,App_2,Social Media,Android,Premium,South America,67.64,462.91,81
+SESS001339,2025-03-09,App_9,Productivity,Android,Premium,Asia,24.73,343.52,10
+SESS001340,2025-06-04,App_15,Gaming,iOS,Premium,Europe,26.58,102.84,28
+SESS001341,2025-01-05,App_4,Social Media,Android,Premium,North America,60.85,445.71,2
+SESS001342,2024-01-19,App_13,Gaming,iOS,Free,Europe,102.91,283.5,72
+SESS001343,2025-01-06,App_3,Social Media,iOS,Premium,South America,13.71,5.42,62
+SESS001344,2024-11-12,App_9,Productivity,iOS,Free,North America,29.93,169.13,55
+SESS001345,2024-07-03,App_6,Entertainment,Android,Free,Asia,39.73,312.37,13
+SESS001346,2024-08-07,App_7,Productivity,Android,Premium,Africa,58.08,138.95,87
+SESS001347,2024-12-15,App_10,Entertainment,Android,Free,South America,86.83,215.19,88
+SESS001348,2025-05-12,App_11,Entertainment,iOS,Free,Africa,56.91,115.63,19
+SESS001349,2024-07-15,App_13,Health & Fitness,Android,Premium,Europe,116.56,309.35,99
+SESS001350,2024-08-19,App_14,Gaming,Android,Premium,Asia,6.47,285.52,25
+SESS001351,2024-05-20,App_11,Health & Fitness,Android,Premium,Asia,79.47,133.73,68
+SESS001352,2024-06-07,App_11,Social Media,Android,Premium,Asia,82.85,276.53,41
+SESS001353,2024-03-20,App_11,Social Media,iOS,Premium,South America,109.16,420.46,74
+SESS001354,2024-10-29,App_2,Social Media,iOS,Free,Africa,58.96,76.28,44
+SESS001355,2024-04-13,App_5,Health & Fitness,iOS,Premium,South America,34.34,277.08,97
+SESS001356,2025-06-03,App_12,Productivity,iOS,Premium,Asia,73.2,158.7,16
+SESS001357,2024-02-08,App_7,Health & Fitness,Android,Free,Asia,45.63,110.33,33
+SESS001358,2024-12-10,App_12,Health & Fitness,Android,Free,Europe,13.07,402.95,25
+SESS001359,2024-05-14,App_14,Productivity,Android,Premium,North America,77.12,412.65,100
+SESS001360,2025-01-20,App_4,Productivity,iOS,Free,Africa,33.85,101.97,35
+SESS001361,2024-06-06,App_1,Productivity,Android,Premium,Africa,44.96,308.34,52
+SESS001362,2024-06-15,App_4,Gaming,Android,Free,Asia,110.91,477.26,70
+SESS001363,2024-07-04,App_2,Health & Fitness,iOS,Free,Africa,14.21,46.04,20
+SESS001364,2024-06-18,App_15,Gaming,Android,Premium,North America,16.98,370.36,31
+SESS001365,2025-03-24,App_7,Entertainment,iOS,Premium,South America,90.23,489.35,76
+SESS001366,2024-02-14,App_2,Entertainment,iOS,Free,South America,39.62,135.23,99
+SESS001367,2025-02-24,App_8,Health & Fitness,iOS,Premium,Africa,93.25,243.39,40
+SESS001368,2025-01-08,App_10,Social Media,Android,Free,Asia,50.24,48.29,66
+SESS001369,2024-08-31,App_10,Productivity,Android,Free,Asia,19.06,422.77,35
+SESS001370,2025-03-30,App_1,Gaming,iOS,Free,North America,18.9,110.88,81
+SESS001371,2024-10-18,App_5,Entertainment,Android,Free,North America,36.56,230.02,6
+SESS001372,2025-04-04,App_11,Health & Fitness,Android,Free,South America,24.8,83.24,4
+SESS001373,2024-08-27,App_12,Social Media,Android,Premium,Europe,11.47,87.18,22
+SESS001374,2024-09-01,App_11,Health & Fitness,Android,Premium,South America,30.18,110.56,62
+SESS001375,2024-11-12,App_12,Social Media,Android,Free,Europe,69.16,54.14,97
+SESS001376,2025-04-25,App_3,Health & Fitness,iOS,Free,Africa,91.77,119.77,29
+SESS001377,2024-07-17,App_2,Productivity,Android,Premium,Asia,32.03,154.59,1
+SESS001378,2025-01-11,App_1,Productivity,iOS,Free,Africa,64.19,290.03,1
+SESS001379,2025-03-27,App_12,Social Media,Android,Premium,Africa,35.68,300.06,86
+SESS001380,2025-04-17,App_3,Health & Fitness,iOS,Premium,Europe,3.6,193.66,66
+SESS001381,2024-10-15,App_12,Productivity,iOS,Premium,Asia,92.88,107.09,56
+SESS001382,2025-01-26,App_1,Health & Fitness,iOS,Premium,South America,9.09,50.63,77
+SESS001383,2025-05-29,App_3,Health & Fitness,Android,Premium,Asia,94.52,41.46,51
+SESS001384,2025-03-04,App_8,Productivity,Android,Premium,North America,85.66,356.36,50
+SESS001385,2024-06-14,App_6,Entertainment,iOS,Free,Asia,38.36,221.54,9
+SESS001386,2024-07-23,App_9,Entertainment,Android,Free,North America,102.56,369.71,8
+SESS001387,2024-05-21,App_9,Health & Fitness,iOS,Premium,South America,108.71,192.55,15
+SESS001388,2024-09-13,App_13,Entertainment,iOS,Free,North America,54.06,307.72,98
+SESS001389,2024-02-23,App_14,Gaming,Android,Premium,Europe,106.27,190.39,50
+SESS001390,2025-05-07,App_12,Productivity,Android,Free,Asia,22.91,270.86,65
+SESS001391,2025-01-15,App_5,Entertainment,Android,Premium,Africa,56.73,136.23,26
+SESS001392,2024-04-15,App_3,Entertainment,Android,Premium,North America,55.84,440.96,10
+SESS001393,2025-06-12,App_6,Health & Fitness,iOS,Free,North America,40.63,246.01,11
+SESS001394,2024-05-07,App_3,Social Media,Android,Free,South America,81.64,394.9,86
+SESS001395,2024-10-18,App_12,Entertainment,Android,Premium,Asia,84.78,262.21,25
+SESS001396,2024-03-26,App_13,Social Media,iOS,Free,North America,31.39,161.38,79
+SESS001397,2024-06-13,App_14,Productivity,iOS,Free,South America,89.97,249.77,43
+SESS001398,2024-10-06,App_5,Social Media,iOS,Free,Asia,3.75,308.01,4
+SESS001399,2025-04-05,App_12,Entertainment,iOS,Premium,North America,15.18,419.19,7
+SESS001400,2025-06-09,App_15,Gaming,iOS,Premium,North America,49.88,303.47,9
+SESS001401,2024-05-30,App_2,Gaming,Android,Premium,Asia,48.16,186.79,49
+SESS001402,2025-03-23,App_13,Productivity,Android,Premium,Europe,58.88,351.88,68
+SESS001403,2024-04-03,App_15,Entertainment,Android,Free,Asia,6.72,300.68,8
+SESS001404,2024-08-15,App_1,Productivity,Android,Free,Asia,63.88,349.61,79
+SESS001405,2025-04-06,App_6,Health & Fitness,Android,Premium,Africa,109.64,189.14,83
+SESS001406,2024-12-23,App_13,Health & Fitness,iOS,Free,Africa,61.96,394.14,36
+SESS001407,2024-01-28,App_7,Social Media,Android,Free,Europe,2.93,103.96,11
+SESS001408,2025-02-28,App_5,Productivity,iOS,Free,North America,53.03,157.45,38
+SESS001409,2024-02-24,App_9,Gaming,iOS,Premium,Asia,4.82,202.85,81
+SESS001410,2025-02-09,App_2,Productivity,iOS,Free,Europe,61.0,124.76,78
+SESS001411,2025-05-29,App_5,Social Media,Android,Free,Europe,96.0,145.69,10
+SESS001412,2025-01-17,App_12,Entertainment,Android,Premium,South America,95.03,115.83,95
+SESS001413,2024-08-29,App_10,Productivity,Android,Free,Africa,59.55,300.42,42
+SESS001414,2025-01-30,App_11,Social Media,Android,Free,North America,69.4,235.12,7
+SESS001415,2024-03-24,App_2,Health & Fitness,Android,Free,Asia,76.49,12.63,59
+SESS001416,2025-01-18,App_8,Gaming,iOS,Free,Europe,88.4,467.67,53
+SESS001417,2024-08-17,App_8,Entertainment,iOS,Free,North America,68.27,122.41,100
+SESS001418,2024-01-29,App_9,Productivity,iOS,Free,South America,116.93,348.94,23
+SESS001419,2024-11-22,App_6,Productivity,iOS,Premium,Asia,93.89,226.4,81
+SESS001420,2024-04-11,App_1,Gaming,iOS,Premium,Europe,64.28,400.15,67
+SESS001421,2024-12-09,App_8,Health & Fitness,iOS,Premium,South America,96.03,194.74,26
+SESS001422,2024-05-29,App_14,Productivity,iOS,Free,South America,101.71,172.92,75
+SESS001423,2024-05-20,App_10,Gaming,Android,Free,South America,11.44,190.79,57
+SESS001424,2024-02-09,App_3,Gaming,Android,Free,North America,110.78,245.73,83
+SESS001425,2024-10-20,App_6,Entertainment,iOS,Premium,Asia,73.59,362.23,53
+SESS001426,2025-04-28,App_3,Gaming,iOS,Free,Asia,119.16,454.64,81
+SESS001427,2024-05-22,App_5,Gaming,iOS,Premium,Africa,90.48,45.19,19
+SESS001428,2025-04-25,App_13,Gaming,iOS,Free,Asia,92.29,127.84,7
+SESS001429,2025-04-04,App_2,Productivity,Android,Premium,Europe,52.28,114.66,94
+SESS001430,2024-01-06,App_15,Gaming,Android,Free,Africa,33.95,183.61,48
+SESS001431,2024-03-22,App_10,Gaming,Android,Premium,South America,54.7,498.55,29
+SESS001432,2024-01-20,App_11,Gaming,Android,Free,Asia,105.78,239.53,82
+SESS001433,2024-09-19,App_12,Gaming,iOS,Free,Africa,88.93,84.69,36
+SESS001434,2024-08-08,App_2,Health & Fitness,Android,Premium,Europe,78.4,426.9,35
+SESS001435,2024-06-02,App_4,Productivity,Android,Premium,Europe,9.69,322.68,3
+SESS001436,2025-03-09,App_12,Gaming,iOS,Free,Asia,78.09,299.75,64
+SESS001437,2024-04-23,App_9,Social Media,Android,Free,Europe,41.44,405.17,57
+SESS001438,2024-10-22,App_1,Social Media,iOS,Free,South America,63.8,423.03,57
+SESS001439,2024-08-31,App_1,Social Media,iOS,Premium,Africa,83.42,489.59,77
+SESS001440,2024-11-04,App_14,Entertainment,iOS,Free,Europe,98.6,182.6,37
+SESS001441,2024-05-04,App_14,Health & Fitness,iOS,Free,Asia,52.46,380.47,51
+SESS001442,2024-02-18,App_1,Social Media,iOS,Free,Asia,3.56,45.44,21
+SESS001443,2024-09-01,App_4,Health & Fitness,iOS,Free,North America,69.39,457.97,8
+SESS001444,2025-03-05,App_1,Social Media,Android,Free,Asia,1.76,46.64,92
+SESS001445,2025-04-13,App_8,Entertainment,iOS,Premium,Africa,99.56,347.81,58
+SESS001446,2024-03-05,App_6,Productivity,iOS,Premium,South America,3.25,25.51,18
+SESS001447,2024-04-23,App_7,Health & Fitness,iOS,Premium,Africa,27.8,40.09,93
+SESS001448,2025-05-26,App_15,Productivity,iOS,Premium,Europe,51.83,466.04,52
+SESS001449,2024-01-17,App_3,Entertainment,Android,Premium,South America,31.8,226.82,98
+SESS001450,2025-06-11,App_3,Health & Fitness,iOS,Premium,South America,27.52,146.93,53
+SESS001451,2024-09-04,App_15,Productivity,iOS,Premium,North America,81.27,429.32,86
+SESS001452,2024-05-27,App_14,Entertainment,iOS,Premium,Europe,39.87,139.62,17
+SESS001453,2024-10-25,App_1,Gaming,Android,Premium,Africa,55.47,458.02,77
+SESS001454,2025-03-15,App_9,Health & Fitness,Android,Premium,South America,80.18,114.93,18
+SESS001455,2024-01-02,App_13,Productivity,iOS,Free,Asia,92.62,156.14,45
+SESS001456,2024-12-27,App_15,Entertainment,iOS,Premium,Africa,69.36,260.49,3
+SESS001457,2024-09-03,App_12,Gaming,iOS,Premium,Asia,43.2,116.29,72
+SESS001458,2025-03-02,App_12,Health & Fitness,iOS,Premium,South America,105.76,46.59,12
+SESS001459,2024-07-10,App_11,Gaming,iOS,Free,Asia,104.2,26.55,96
+SESS001460,2024-03-28,App_7,Social Media,Android,Premium,South America,19.16,327.48,63
+SESS001461,2025-01-04,App_4,Health & Fitness,iOS,Premium,South America,92.99,392.24,93
+SESS001462,2024-03-10,App_6,Entertainment,Android,Free,South America,25.53,476.94,81
+SESS001463,2025-06-03,App_4,Entertainment,iOS,Free,South America,22.61,470.78,61
+SESS001464,2025-06-03,App_7,Health & Fitness,iOS,Premium,South America,4.12,88.38,50
+SESS001465,2024-01-21,App_15,Social Media,Android,Premium,North America,72.63,274.2,7
+SESS001466,2025-02-03,App_12,Health & Fitness,iOS,Free,Africa,101.52,471.04,21
+SESS001467,2025-04-26,App_6,Productivity,iOS,Free,North America,93.76,447.51,73
+SESS001468,2024-02-14,App_5,Entertainment,iOS,Free,South America,65.27,118.5,90
+SESS001469,2025-01-31,App_14,Gaming,iOS,Premium,North America,114.6,403.96,78
+SESS001470,2025-01-17,App_2,Entertainment,iOS,Free,Europe,39.97,98.09,9
+SESS001471,2024-09-16,App_10,Social Media,iOS,Premium,Africa,38.53,356.41,99
+SESS001472,2024-01-17,App_6,Health & Fitness,Android,Premium,Asia,28.38,34.16,100
+SESS001473,2024-12-31,App_2,Entertainment,iOS,Premium,Europe,25.85,51.2,34
+SESS001474,2024-03-10,App_9,Productivity,iOS,Premium,Africa,37.05,408.74,3
+SESS001475,2024-12-19,App_11,Social Media,iOS,Free,Africa,51.49,89.78,51
+SESS001476,2024-09-03,App_15,Social Media,Android,Free,Asia,33.26,62.51,68
+SESS001477,2024-04-16,App_1,Gaming,Android,Premium,Europe,112.42,231.54,87
+SESS001478,2024-12-06,App_3,Entertainment,Android,Free,Africa,26.85,380.55,69
+SESS001479,2024-05-16,App_4,Health & Fitness,iOS,Premium,Africa,43.29,361.74,34
+SESS001480,2024-02-15,App_13,Social Media,iOS,Free,Africa,17.34,76.78,9
+SESS001481,2024-12-26,App_9,Productivity,iOS,Premium,Asia,107.97,466.11,25
+SESS001482,2024-12-12,App_1,Productivity,iOS,Premium,North America,53.32,123.2,26
+SESS001483,2024-06-28,App_7,Health & Fitness,iOS,Free,South America,100.26,4.87,26
+SESS001484,2025-04-20,App_2,Productivity,iOS,Premium,Europe,45.64,427.78,59
+SESS001485,2025-05-05,App_15,Gaming,iOS,Premium,South America,53.83,383.29,30
+SESS001486,2024-07-05,App_8,Health & Fitness,Android,Free,North America,89.53,256.87,12
+SESS001487,2024-05-18,App_14,Productivity,iOS,Premium,South America,89.05,10.85,17
+SESS001488,2024-03-05,App_5,Gaming,iOS,Premium,Africa,46.27,252.5,41
+SESS001489,2025-04-13,App_13,Productivity,iOS,Premium,South America,54.17,28.9,46
+SESS001490,2024-02-07,App_14,Entertainment,iOS,Free,North America,48.5,67.91,92
+SESS001491,2024-10-27,App_5,Health & Fitness,Android,Premium,North America,25.47,24.65,22
+SESS001492,2024-07-25,App_6,Productivity,Android,Premium,North America,46.28,78.38,26
+SESS001493,2024-02-14,App_2,Productivity,iOS,Free,Asia,97.93,66.58,45
+SESS001494,2024-07-23,App_9,Gaming,Android,Free,North America,12.05,430.91,52
+SESS001495,2024-02-12,App_8,Entertainment,iOS,Free,Asia,21.84,417.22,14
+SESS001496,2024-11-19,App_1,Entertainment,iOS,Free,Africa,109.68,287.15,60
+SESS001497,2024-11-13,App_6,Gaming,Android,Premium,North America,87.22,140.0,70
+SESS001498,2025-06-11,App_4,Entertainment,Android,Free,Asia,15.48,123.27,11
+SESS001499,2025-02-11,App_5,Productivity,Android,Premium,Africa,91.04,87.98,60
+SESS001500,2025-04-29,App_10,Productivity,iOS,Premium,South America,15.32,55.38,2
+SESS001501,2024-09-16,App_13,Entertainment,iOS,Free,Asia,59.2,124.48,27
+SESS001502,2024-02-07,App_5,Productivity,Android,Premium,North America,72.98,320.25,22
+SESS001503,2024-07-14,App_12,Entertainment,iOS,Free,North America,90.21,377.38,87
+SESS001504,2024-10-19,App_10,Gaming,Android,Premium,Africa,38.71,34.0,14
+SESS001505,2024-12-31,App_4,Health & Fitness,iOS,Free,Africa,23.73,189.02,11
+SESS001506,2024-02-18,App_8,Gaming,Android,Free,North America,118.23,0.79,78
+SESS001507,2024-12-05,App_6,Health & Fitness,iOS,Free,Europe,96.18,230.66,21
+SESS001508,2024-10-06,App_10,Gaming,iOS,Free,Africa,43.82,399.52,1
+SESS001509,2024-05-07,App_8,Social Media,Android,Free,Europe,31.38,338.92,49
+SESS001510,2025-01-11,App_13,Productivity,Android,Free,Africa,14.33,197.81,15
+SESS001511,2025-03-23,App_13,Gaming,Android,Premium,South America,55.38,270.96,29
+SESS001512,2025-02-13,App_4,Health & Fitness,iOS,Free,Europe,1.86,202.25,97
+SESS001513,2025-03-26,App_12,Entertainment,iOS,Free,Europe,96.61,262.76,55
+SESS001514,2025-01-30,App_15,Entertainment,Android,Premium,Europe,48.64,481.07,31
+SESS001515,2024-12-13,App_9,Gaming,Android,Premium,Asia,103.04,471.67,66
+SESS001516,2024-07-10,App_13,Gaming,iOS,Premium,Asia,43.21,177.29,86
+SESS001517,2025-05-23,App_13,Gaming,Android,Free,North America,113.54,302.96,41
+SESS001518,2025-05-24,App_4,Entertainment,Android,Premium,South America,100.55,359.32,17
+SESS001519,2025-01-11,App_3,Social Media,Android,Premium,Africa,52.66,374.8,60
+SESS001520,2024-09-30,App_1,Gaming,Android,Free,Europe,101.89,375.94,64
+SESS001521,2024-03-25,App_15,Entertainment,Android,Free,North America,36.78,261.97,70
+SESS001522,2025-03-10,App_7,Entertainment,iOS,Premium,North America,119.97,204.14,74
+SESS001523,2024-03-21,App_1,Gaming,Android,Free,North America,11.05,251.82,45
+SESS001524,2025-03-16,App_4,Health & Fitness,Android,Premium,Europe,77.59,250.11,49
+SESS001525,2024-07-03,App_9,Health & Fitness,Android,Free,Africa,47.37,402.52,16
+SESS001526,2024-10-27,App_6,Productivity,iOS,Free,North America,57.09,103.84,25
+SESS001527,2024-11-24,App_11,Entertainment,iOS,Premium,Africa,114.21,300.1,28
+SESS001528,2024-04-15,App_14,Productivity,Android,Premium,North America,33.69,184.07,58
+SESS001529,2024-03-22,App_12,Productivity,Android,Premium,Europe,78.04,149.57,10
+SESS001530,2024-12-01,App_15,Health & Fitness,iOS,Premium,Europe,39.47,302.4,86
+SESS001531,2024-10-29,App_1,Health & Fitness,iOS,Free,North America,17.75,206.5,70
+SESS001532,2024-11-09,App_6,Social Media,Android,Free,South America,30.63,188.28,38
+SESS001533,2025-04-01,App_1,Entertainment,iOS,Premium,North America,68.18,187.12,40
+SESS001534,2025-03-12,App_13,Social Media,Android,Free,Africa,16.23,157.62,34
+SESS001535,2024-06-19,App_11,Gaming,Android,Premium,South America,19.54,99.75,76
+SESS001536,2025-03-30,App_7,Social Media,iOS,Free,South America,83.71,8.51,7
+SESS001537,2024-12-25,App_14,Gaming,iOS,Free,North America,91.71,218.05,93
+SESS001538,2025-04-02,App_12,Productivity,iOS,Free,North America,8.28,319.41,22
+SESS001539,2024-02-13,App_12,Entertainment,Android,Premium,Asia,96.48,74.01,75
+SESS001540,2024-12-27,App_5,Social Media,Android,Free,South America,104.1,432.67,42
+SESS001541,2025-03-21,App_2,Entertainment,iOS,Free,South America,79.65,395.37,7
+SESS001542,2024-10-08,App_4,Productivity,iOS,Premium,Europe,45.23,374.74,19
+SESS001543,2024-02-28,App_9,Productivity,iOS,Free,Europe,50.37,324.71,51
+SESS001544,2024-03-17,App_4,Productivity,Android,Premium,Africa,19.74,151.34,38
+SESS001545,2025-02-19,App_7,Productivity,iOS,Premium,Asia,21.52,122.62,66
+SESS001546,2025-01-07,App_8,Health & Fitness,Android,Free,Africa,112.42,8.68,6
+SESS001547,2025-06-09,App_1,Health & Fitness,iOS,Premium,South America,115.87,113.92,13
+SESS001548,2024-06-12,App_3,Productivity,Android,Free,Africa,89.29,219.79,56
+SESS001549,2024-02-01,App_12,Productivity,iOS,Free,North America,97.43,243.64,36
+SESS001550,2024-05-26,App_5,Social Media,iOS,Premium,South America,22.61,233.44,37
+SESS001551,2025-03-24,App_2,Entertainment,Android,Premium,Europe,105.61,232.87,7
+SESS001552,2024-02-05,App_1,Social Media,Android,Premium,North America,14.02,441.25,31
+SESS001553,2024-05-09,App_15,Productivity,Android,Premium,Europe,20.32,231.92,58
+SESS001554,2024-03-09,App_4,Health & Fitness,Android,Free,Europe,60.21,208.19,27
+SESS001555,2024-08-29,App_15,Gaming,Android,Free,Europe,37.42,26.15,88
+SESS001556,2025-01-10,App_14,Health & Fitness,Android,Free,Europe,75.41,473.89,33
+SESS001557,2025-01-05,App_9,Health & Fitness,Android,Premium,Africa,109.17,448.57,14
+SESS001558,2025-01-27,App_7,Health & Fitness,Android,Free,Africa,32.56,461.41,51
+SESS001559,2024-02-03,App_12,Gaming,Android,Premium,Europe,39.21,148.06,61
+SESS001560,2024-06-06,App_15,Productivity,Android,Premium,South America,94.21,27.03,69
+SESS001561,2025-04-05,App_6,Productivity,iOS,Free,South America,40.46,232.81,14
+SESS001562,2025-01-14,App_8,Productivity,Android,Premium,Asia,106.77,193.59,19
+SESS001563,2025-01-15,App_12,Health & Fitness,iOS,Free,Asia,5.07,326.89,60
+SESS001564,2025-03-30,App_2,Entertainment,iOS,Premium,North America,104.77,216.97,95
+SESS001565,2024-03-19,App_10,Entertainment,Android,Premium,Africa,109.72,299.32,64
+SESS001566,2024-05-20,App_2,Social Media,Android,Free,South America,6.53,177.71,86
+SESS001567,2025-01-10,App_9,Entertainment,Android,Premium,Asia,45.87,256.52,66
+SESS001568,2025-02-11,App_3,Health & Fitness,iOS,Free,Asia,72.22,238.82,22
+SESS001569,2024-11-17,App_11,Productivity,iOS,Free,South America,63.5,467.02,24
+SESS001570,2024-10-12,App_14,Entertainment,iOS,Premium,South America,19.82,434.38,10
+SESS001571,2024-09-12,App_7,Gaming,iOS,Premium,North America,2.78,239.99,2
+SESS001572,2024-04-26,App_2,Gaming,iOS,Free,South America,107.77,176.56,21
+SESS001573,2024-01-27,App_10,Productivity,iOS,Premium,South America,11.96,97.14,82
+SESS001574,2024-07-09,App_10,Entertainment,Android,Premium,South America,118.59,461.03,12
+SESS001575,2025-05-26,App_1,Health & Fitness,iOS,Free,Europe,14.38,83.39,63
+SESS001576,2025-06-14,App_7,Health & Fitness,iOS,Premium,North America,57.61,496.05,76
+SESS001577,2025-01-31,App_11,Entertainment,Android,Premium,Asia,118.02,73.4,69
+SESS001578,2024-04-30,App_3,Social Media,Android,Premium,South America,102.88,355.7,24
+SESS001579,2024-09-25,App_4,Social Media,iOS,Free,North America,64.87,135.17,14
+SESS001580,2024-09-23,App_5,Gaming,Android,Premium,Africa,16.99,12.83,81
+SESS001581,2025-04-01,App_5,Productivity,iOS,Free,South America,72.79,109.74,25
+SESS001582,2024-08-07,App_14,Gaming,iOS,Free,North America,76.79,260.78,34
+SESS001583,2024-10-19,App_6,Productivity,Android,Free,Africa,38.06,12.56,67
+SESS001584,2025-05-17,App_15,Productivity,Android,Free,Asia,56.87,202.0,54
+SESS001585,2024-07-23,App_13,Productivity,iOS,Free,North America,108.44,399.36,22
+SESS001586,2024-05-05,App_7,Productivity,Android,Premium,Africa,16.26,230.42,74
+SESS001587,2024-05-18,App_12,Health & Fitness,Android,Premium,South America,79.11,311.08,70
+SESS001588,2024-03-16,App_14,Entertainment,Android,Premium,North America,44.5,142.82,44
+SESS001589,2025-04-07,App_12,Productivity,Android,Free,Asia,74.02,25.93,95
+SESS001590,2024-06-25,App_6,Entertainment,Android,Free,Europe,86.24,258.74,63
+SESS001591,2025-03-31,App_6,Productivity,iOS,Premium,South America,57.86,62.09,94
+SESS001592,2024-03-30,App_8,Health & Fitness,iOS,Premium,South America,90.1,219.48,88
+SESS001593,2024-11-23,App_5,Health & Fitness,Android,Premium,Asia,102.38,244.01,78
+SESS001594,2024-12-21,App_4,Entertainment,iOS,Premium,North America,24.36,381.94,57
+SESS001595,2024-03-07,App_2,Entertainment,Android,Premium,Europe,27.1,18.56,30
+SESS001596,2024-10-24,App_4,Gaming,Android,Premium,Asia,16.45,389.76,98
+SESS001597,2024-11-03,App_3,Gaming,Android,Premium,Africa,113.13,364.47,55
+SESS001598,2024-06-10,App_13,Social Media,Android,Free,Africa,27.84,283.39,30
+SESS001599,2024-06-27,App_13,Gaming,Android,Premium,Europe,10.78,34.11,70
+SESS001600,2025-01-05,App_10,Gaming,Android,Premium,Asia,12.28,484.08,32
+SESS001601,2025-06-04,App_2,Productivity,iOS,Free,Africa,49.06,466.51,15
+SESS001602,2024-08-17,App_3,Social Media,iOS,Premium,South America,106.54,189.27,66
+SESS001603,2024-05-04,App_2,Gaming,iOS,Free,Africa,13.52,330.48,23
+SESS001604,2024-07-24,App_3,Gaming,Android,Free,North America,27.92,220.21,70
+SESS001605,2024-05-22,App_8,Entertainment,iOS,Premium,Europe,22.97,361.41,88
+SESS001606,2024-08-30,App_8,Social Media,Android,Free,Europe,79.46,133.92,41
+SESS001607,2025-05-20,App_6,Social Media,Android,Premium,Asia,40.11,71.53,53
+SESS001608,2024-01-27,App_7,Social Media,iOS,Premium,Africa,116.9,457.54,4
+SESS001609,2025-01-04,App_2,Entertainment,Android,Free,Asia,80.53,47.05,44
+SESS001610,2025-01-12,App_9,Health & Fitness,Android,Free,South America,62.87,192.25,30
+SESS001611,2025-04-23,App_6,Social Media,Android,Premium,Europe,69.68,197.5,74
+SESS001612,2024-05-12,App_13,Social Media,iOS,Premium,Asia,106.15,21.42,97
+SESS001613,2024-03-29,App_4,Entertainment,Android,Premium,Asia,91.43,151.8,58
+SESS001614,2024-03-08,App_8,Health & Fitness,Android,Free,South America,16.67,476.8,95
+SESS001615,2024-11-12,App_5,Social Media,Android,Free,North America,51.22,97.65,3
+SESS001616,2025-02-11,App_8,Social Media,iOS,Free,South America,79.68,284.86,64
+SESS001617,2025-05-05,App_5,Productivity,iOS,Free,South America,69.94,209.09,90
+SESS001618,2025-02-24,App_14,Health & Fitness,Android,Free,South America,112.22,413.05,76
+SESS001619,2025-02-23,App_2,Gaming,Android,Premium,Africa,5.07,76.25,70
+SESS001620,2024-03-16,App_2,Social Media,Android,Free,Europe,108.82,273.75,93
+SESS001621,2024-05-08,App_3,Entertainment,Android,Free,Africa,46.82,127.95,82
+SESS001622,2024-11-20,App_13,Productivity,Android,Premium,Africa,6.71,458.08,55
+SESS001623,2024-03-16,App_11,Gaming,Android,Premium,Africa,24.55,0.78,52
+SESS001624,2025-04-05,App_5,Gaming,Android,Free,Asia,22.68,33.58,88
+SESS001625,2025-04-22,App_14,Productivity,iOS,Free,Europe,18.01,429.49,16
+SESS001626,2025-06-13,App_12,Entertainment,iOS,Free,Asia,5.06,133.12,59
+SESS001627,2024-12-18,App_12,Gaming,iOS,Premium,Africa,95.58,241.59,62
+SESS001628,2024-05-11,App_10,Gaming,iOS,Premium,Africa,20.26,33.51,90
+SESS001629,2024-07-05,App_1,Health & Fitness,Android,Free,Asia,39.38,234.42,8
+SESS001630,2024-05-12,App_4,Gaming,Android,Free,Africa,69.08,490.61,52
+SESS001631,2025-03-19,App_14,Social Media,iOS,Free,Africa,58.58,462.45,64
+SESS001632,2025-05-29,App_14,Social Media,Android,Premium,South America,41.92,246.99,31
+SESS001633,2024-02-26,App_6,Productivity,Android,Premium,North America,75.82,40.44,52
+SESS001634,2024-05-07,App_3,Productivity,iOS,Free,North America,98.22,230.07,67
+SESS001635,2025-06-14,App_2,Entertainment,Android,Premium,North America,69.69,449.75,100
+SESS001636,2024-06-05,App_12,Entertainment,Android,Free,Europe,54.8,308.59,19
+SESS001637,2024-11-07,App_4,Health & Fitness,Android,Free,Europe,26.57,489.74,2
+SESS001638,2024-06-17,App_6,Productivity,Android,Free,North America,74.94,425.37,47
+SESS001639,2024-06-14,App_7,Health & Fitness,Android,Free,North America,65.96,477.86,98
+SESS001640,2024-11-26,App_9,Entertainment,iOS,Premium,South America,15.02,129.41,1
+SESS001641,2024-08-18,App_1,Gaming,iOS,Premium,South America,34.24,279.51,49
+SESS001642,2024-12-20,App_11,Health & Fitness,iOS,Premium,Asia,92.45,444.64,70
+SESS001643,2024-10-17,App_5,Gaming,iOS,Free,Europe,110.94,407.28,19
+SESS001644,2024-03-21,App_5,Health & Fitness,Android,Premium,Europe,41.13,165.63,11
+SESS001645,2024-09-13,App_14,Health & Fitness,iOS,Free,North America,107.21,332.64,85
+SESS001646,2024-07-20,App_3,Entertainment,iOS,Premium,Europe,31.38,263.59,22
+SESS001647,2024-10-08,App_1,Health & Fitness,Android,Premium,South America,97.03,334.04,24
+SESS001648,2024-05-08,App_7,Entertainment,iOS,Premium,South America,59.0,417.76,29
+SESS001649,2024-11-06,App_14,Health & Fitness,Android,Premium,North America,66.32,295.09,81
+SESS001650,2024-04-05,App_8,Health & Fitness,iOS,Premium,North America,79.93,341.46,45
+SESS001651,2025-05-29,App_9,Productivity,iOS,Free,Africa,80.49,403.19,42
+SESS001652,2024-06-21,App_12,Productivity,Android,Free,Asia,41.74,389.26,87
+SESS001653,2024-06-06,App_9,Entertainment,iOS,Free,North America,62.77,123.03,21
+SESS001654,2024-06-24,App_4,Health & Fitness,Android,Free,North America,8.51,407.56,12
+SESS001655,2024-12-11,App_2,Gaming,Android,Free,North America,44.49,217.22,51
+SESS001656,2024-02-12,App_8,Social Media,Android,Premium,South America,77.43,136.46,87
+SESS001657,2024-01-30,App_2,Entertainment,Android,Free,Asia,115.81,470.0,85
+SESS001658,2024-03-24,App_13,Productivity,iOS,Free,Africa,16.02,150.63,47
+SESS001659,2024-02-16,App_13,Productivity,Android,Premium,North America,28.03,486.39,2
+SESS001660,2024-09-28,App_3,Entertainment,iOS,Premium,Europe,55.43,495.66,100
+SESS001661,2024-08-03,App_2,Productivity,Android,Free,Asia,14.23,26.12,43
+SESS001662,2025-03-02,App_1,Gaming,Android,Free,North America,66.51,296.05,70
+SESS001663,2024-02-01,App_1,Productivity,Android,Premium,South America,36.19,400.94,58
+SESS001664,2025-05-24,App_14,Social Media,Android,Premium,South America,104.92,129.19,14
+SESS001665,2024-10-23,App_13,Social Media,iOS,Premium,Europe,37.54,412.12,88
+SESS001666,2024-11-05,App_4,Health & Fitness,Android,Premium,Africa,52.9,277.73,34
+SESS001667,2025-05-09,App_3,Gaming,iOS,Free,Africa,118.13,422.32,52
+SESS001668,2024-09-07,App_4,Productivity,iOS,Free,Europe,10.87,109.87,73
+SESS001669,2025-02-19,App_14,Productivity,Android,Premium,Europe,104.17,478.11,20
+SESS001670,2024-10-31,App_7,Entertainment,Android,Free,Asia,61.06,232.44,94
+SESS001671,2025-04-09,App_6,Health & Fitness,Android,Free,South America,48.31,77.05,10
+SESS001672,2024-03-15,App_11,Social Media,iOS,Premium,South America,113.01,49.75,67
+SESS001673,2024-03-02,App_11,Entertainment,Android,Free,Asia,119.83,271.33,84
+SESS001674,2024-06-10,App_11,Entertainment,Android,Premium,Europe,24.19,181.81,99
+SESS001675,2025-03-26,App_2,Productivity,Android,Premium,Europe,100.96,371.39,23
+SESS001676,2025-03-01,App_10,Social Media,iOS,Free,Europe,27.4,209.94,10
+SESS001677,2025-05-10,App_10,Entertainment,Android,Free,South America,2.99,165.94,74
+SESS001678,2025-04-20,App_5,Productivity,iOS,Free,Africa,88.28,41.02,18
+SESS001679,2024-07-27,App_15,Health & Fitness,iOS,Free,Europe,43.12,81.64,42
+SESS001680,2024-12-14,App_14,Gaming,Android,Free,North America,72.51,240.85,73
+SESS001681,2024-05-27,App_2,Social Media,Android,Free,Africa,19.06,464.24,51
+SESS001682,2024-11-16,App_1,Health & Fitness,iOS,Free,North America,103.33,33.63,59
+SESS001683,2024-11-22,App_2,Productivity,Android,Premium,North America,63.48,157.32,97
+SESS001684,2024-12-19,App_4,Gaming,Android,Premium,Europe,96.23,444.71,77
+SESS001685,2025-02-12,App_15,Entertainment,iOS,Free,North America,44.16,218.09,6
+SESS001686,2024-05-13,App_11,Health & Fitness,iOS,Free,Europe,28.42,407.62,72
+SESS001687,2025-01-14,App_8,Entertainment,iOS,Free,North America,113.71,77.45,76
+SESS001688,2025-06-11,App_13,Entertainment,Android,Free,Asia,64.17,236.85,69
+SESS001689,2024-04-18,App_3,Gaming,Android,Free,South America,45.56,15.78,99
+SESS001690,2024-11-22,App_2,Gaming,iOS,Free,Africa,12.92,468.83,88
+SESS001691,2024-09-04,App_15,Entertainment,Android,Premium,Africa,20.71,59.55,35
+SESS001692,2025-04-22,App_14,Entertainment,Android,Free,North America,76.48,118.22,31
+SESS001693,2024-05-05,App_14,Gaming,iOS,Free,Asia,74.56,439.61,56
+SESS001694,2024-09-30,App_13,Productivity,Android,Free,Europe,101.35,246.18,80
+SESS001695,2025-04-05,App_6,Social Media,iOS,Premium,Africa,90.38,479.16,78
+SESS001696,2024-09-10,App_2,Entertainment,Android,Premium,South America,19.09,294.42,70
+SESS001697,2024-05-24,App_1,Gaming,Android,Free,Europe,113.12,202.96,37
+SESS001698,2024-04-09,App_8,Health & Fitness,Android,Premium,Europe,73.55,424.8,70
+SESS001699,2024-02-21,App_1,Health & Fitness,Android,Free,Africa,103.14,143.59,3
+SESS001700,2024-10-24,App_3,Productivity,iOS,Free,South America,34.13,305.48,21
+SESS001701,2025-01-28,App_15,Productivity,Android,Premium,Africa,115.13,82.86,17
+SESS001702,2025-03-04,App_10,Health & Fitness,Android,Free,Asia,113.92,80.02,5
+SESS001703,2024-09-11,App_7,Productivity,Android,Premium,Asia,36.28,163.91,43
+SESS001704,2024-06-12,App_14,Entertainment,Android,Premium,Africa,108.21,188.74,5
+SESS001705,2024-12-01,App_12,Gaming,iOS,Free,Africa,116.67,41.9,78
+SESS001706,2024-11-16,App_7,Social Media,iOS,Premium,Europe,107.36,41.51,89
+SESS001707,2024-07-13,App_8,Gaming,iOS,Premium,North America,56.69,398.2,94
+SESS001708,2024-06-12,App_1,Gaming,Android,Premium,South America,17.2,4.74,30
+SESS001709,2025-05-25,App_7,Productivity,iOS,Free,South America,112.64,270.42,85
+SESS001710,2025-06-11,App_11,Social Media,Android,Free,South America,1.04,246.58,70
+SESS001711,2025-04-23,App_7,Entertainment,Android,Free,North America,30.91,46.61,56
+SESS001712,2025-05-25,App_3,Health & Fitness,Android,Free,Africa,67.14,485.05,93
+SESS001713,2024-11-11,App_6,Entertainment,iOS,Free,North America,38.08,404.15,77
+SESS001714,2025-05-24,App_4,Productivity,iOS,Free,Europe,110.84,324.16,92
+SESS001715,2024-01-24,App_15,Health & Fitness,Android,Free,Africa,73.96,495.92,89
+SESS001716,2024-04-02,App_3,Entertainment,Android,Premium,Asia,115.15,1.54,33
+SESS001717,2025-02-06,App_5,Gaming,iOS,Free,North America,8.05,89.2,65
+SESS001718,2025-06-01,App_5,Productivity,iOS,Free,North America,49.83,67.17,38
+SESS001719,2025-04-13,App_8,Social Media,iOS,Free,South America,18.11,491.86,83
+SESS001720,2024-09-03,App_15,Gaming,Android,Premium,Europe,98.87,183.7,17
+SESS001721,2024-08-08,App_3,Social Media,Android,Premium,North America,91.99,342.99,39
+SESS001722,2024-12-27,App_1,Health & Fitness,Android,Free,Africa,97.03,413.47,78
+SESS001723,2024-02-19,App_10,Social Media,Android,Premium,Africa,114.16,178.95,44
+SESS001724,2024-02-21,App_10,Gaming,iOS,Free,Asia,29.85,286.21,95
+SESS001725,2024-10-15,App_10,Social Media,iOS,Premium,North America,94.57,20.69,79
+SESS001726,2025-05-21,App_4,Productivity,Android,Premium,Europe,77.88,446.49,66
+SESS001727,2025-04-26,App_11,Productivity,Android,Premium,Asia,47.53,165.41,71
+SESS001728,2024-10-19,App_5,Gaming,Android,Free,Asia,24.01,19.95,81
+SESS001729,2024-01-09,App_8,Entertainment,iOS,Premium,South America,100.29,291.64,9
+SESS001730,2024-04-20,App_7,Social Media,Android,Premium,Asia,9.39,494.1,83
+SESS001731,2025-03-17,App_15,Gaming,iOS,Free,North America,115.64,307.37,11
+SESS001732,2024-05-17,App_9,Social Media,Android,Premium,Europe,33.87,410.8,37
+SESS001733,2024-09-27,App_8,Gaming,iOS,Premium,Asia,107.22,96.53,45
+SESS001734,2025-01-09,App_1,Social Media,iOS,Free,North America,15.69,85.38,58
+SESS001735,2025-02-16,App_2,Entertainment,iOS,Free,Africa,89.02,195.74,81
+SESS001736,2025-01-09,App_5,Gaming,iOS,Free,Africa,113.38,496.74,70
+SESS001737,2024-02-16,App_7,Productivity,iOS,Premium,Europe,19.07,54.22,65
+SESS001738,2025-02-14,App_3,Entertainment,iOS,Free,Africa,53.76,296.89,59
+SESS001739,2024-02-22,App_7,Productivity,Android,Premium,Africa,81.0,307.91,97
+SESS001740,2024-07-18,App_4,Entertainment,Android,Free,Africa,91.51,263.28,5
+SESS001741,2025-01-06,App_11,Productivity,Android,Premium,Asia,2.28,415.99,89
+SESS001742,2024-10-22,App_15,Entertainment,Android,Free,South America,14.96,142.58,84
+SESS001743,2024-03-16,App_13,Social Media,Android,Premium,Africa,38.03,32.94,57
+SESS001744,2025-01-30,App_9,Productivity,iOS,Premium,North America,13.21,303.28,12
+SESS001745,2025-05-31,App_4,Social Media,iOS,Premium,Africa,75.8,130.36,46
+SESS001746,2025-04-06,App_11,Gaming,iOS,Free,North America,57.06,321.91,23
+SESS001747,2024-10-13,App_13,Social Media,Android,Free,Africa,79.59,350.12,31
+SESS001748,2024-05-01,App_9,Productivity,iOS,Free,South America,36.56,48.51,70
+SESS001749,2024-05-11,App_13,Entertainment,iOS,Premium,Asia,15.86,303.44,52
+SESS001750,2024-04-09,App_1,Social Media,Android,Free,North America,89.41,344.67,58
+SESS001751,2025-02-07,App_7,Health & Fitness,Android,Free,North America,55.07,16.5,50
+SESS001752,2025-01-17,App_13,Entertainment,iOS,Premium,Asia,9.38,426.15,62
+SESS001753,2024-12-13,App_12,Gaming,iOS,Free,South America,117.5,332.67,26
+SESS001754,2025-01-09,App_6,Gaming,Android,Premium,Asia,109.35,347.61,70
+SESS001755,2024-05-27,App_8,Productivity,iOS,Free,Europe,41.62,405.23,99
+SESS001756,2024-07-22,App_9,Entertainment,iOS,Premium,Asia,33.38,179.7,85
+SESS001757,2025-06-05,App_13,Social Media,iOS,Premium,North America,118.57,254.68,24
+SESS001758,2025-02-15,App_8,Social Media,Android,Premium,Europe,46.4,147.18,4
+SESS001759,2025-05-27,App_6,Gaming,Android,Free,Europe,107.04,352.98,79
+SESS001760,2024-02-11,App_15,Entertainment,iOS,Free,Africa,14.43,200.85,58
+SESS001761,2024-02-16,App_10,Entertainment,Android,Premium,Asia,56.52,403.58,36
+SESS001762,2024-02-09,App_9,Gaming,Android,Free,North America,70.61,117.94,49
+SESS001763,2024-05-20,App_6,Social Media,iOS,Free,Europe,105.27,492.31,100
+SESS001764,2024-12-07,App_7,Gaming,Android,Premium,South America,83.28,155.01,10
+SESS001765,2025-04-30,App_5,Entertainment,iOS,Free,North America,95.54,163.64,79
+SESS001766,2025-04-12,App_3,Social Media,iOS,Premium,Africa,91.26,120.72,9
+SESS001767,2024-06-01,App_1,Health & Fitness,iOS,Free,Africa,27.73,74.79,93
+SESS001768,2025-06-11,App_6,Gaming,iOS,Free,North America,13.26,78.03,81
+SESS001769,2024-05-23,App_10,Entertainment,Android,Free,Asia,119.72,40.19,85
+SESS001770,2024-12-01,App_4,Entertainment,Android,Premium,North America,72.79,294.05,60
+SESS001771,2024-11-22,App_1,Productivity,iOS,Premium,South America,72.29,59.3,64
+SESS001772,2024-06-15,App_15,Productivity,iOS,Free,Africa,44.14,54.28,79
+SESS001773,2025-02-06,App_13,Gaming,iOS,Premium,Africa,104.45,224.74,69
+SESS001774,2024-11-02,App_13,Social Media,Android,Premium,North America,80.12,75.09,64
+SESS001775,2024-12-10,App_5,Health & Fitness,Android,Premium,Africa,100.57,37.18,50
+SESS001776,2025-06-03,App_1,Health & Fitness,Android,Free,South America,115.63,385.3,70
+SESS001777,2025-06-05,App_13,Social Media,iOS,Free,Europe,51.18,344.02,20
+SESS001778,2025-05-16,App_8,Productivity,Android,Free,Asia,76.93,289.85,80
+SESS001779,2024-11-02,App_9,Entertainment,iOS,Premium,North America,103.95,359.46,74
+SESS001780,2025-05-01,App_6,Productivity,iOS,Premium,North America,34.34,217.95,56
+SESS001781,2024-01-18,App_13,Gaming,iOS,Free,North America,87.16,61.75,65
+SESS001782,2025-01-12,App_10,Productivity,iOS,Premium,South America,33.83,322.33,64
+SESS001783,2024-12-05,App_4,Social Media,iOS,Premium,Africa,30.95,471.32,92
+SESS001784,2024-04-22,App_3,Gaming,Android,Premium,Europe,61.43,276.28,20
+SESS001785,2025-03-02,App_2,Social Media,Android,Free,Asia,50.94,294.04,17
+SESS001786,2024-11-11,App_4,Gaming,Android,Premium,South America,100.52,468.75,41
+SESS001787,2024-01-28,App_11,Entertainment,Android,Free,South America,117.99,105.28,67
+SESS001788,2025-04-30,App_4,Productivity,iOS,Free,Asia,10.89,236.88,74
+SESS001789,2024-09-28,App_5,Social Media,Android,Free,Europe,13.03,17.4,26
+SESS001790,2024-08-21,App_9,Gaming,Android,Free,North America,96.91,78.69,64
+SESS001791,2024-02-22,App_14,Productivity,iOS,Premium,North America,29.89,96.15,96
+SESS001792,2025-05-06,App_13,Health & Fitness,Android,Premium,North America,59.9,33.49,5
+SESS001793,2024-06-23,App_15,Social Media,Android,Free,Europe,71.34,16.17,83
+SESS001794,2025-01-24,App_12,Entertainment,Android,Premium,Africa,80.21,426.61,69
+SESS001795,2024-05-31,App_1,Gaming,iOS,Free,Africa,13.37,126.46,41
+SESS001796,2024-09-05,App_13,Social Media,Android,Premium,South America,93.93,93.69,88
+SESS001797,2024-02-02,App_4,Social Media,iOS,Premium,North America,85.31,249.06,68
+SESS001798,2024-04-22,App_10,Health & Fitness,Android,Free,Africa,67.72,329.34,1
+SESS001799,2024-07-14,App_14,Entertainment,Android,Premium,South America,100.65,199.05,52
+SESS001800,2024-01-20,App_13,Health & Fitness,Android,Premium,North America,45.72,354.72,83
+SESS001801,2025-03-27,App_7,Gaming,Android,Premium,South America,62.76,162.13,24
+SESS001802,2024-11-17,App_6,Productivity,iOS,Premium,South America,111.1,66.89,88
+SESS001803,2025-03-04,App_15,Social Media,iOS,Premium,Europe,46.53,163.79,81
+SESS001804,2024-06-04,App_14,Gaming,iOS,Premium,South America,72.6,483.37,31
+SESS001805,2025-02-26,App_14,Gaming,iOS,Free,South America,71.25,211.46,48
+SESS001806,2024-07-27,App_3,Entertainment,Android,Premium,Africa,95.44,157.74,7
+SESS001807,2025-02-24,App_3,Social Media,Android,Free,Europe,114.53,457.79,90
+SESS001808,2025-05-28,App_4,Health & Fitness,Android,Premium,North America,69.5,283.5,35
+SESS001809,2025-04-27,App_10,Productivity,Android,Premium,South America,14.98,350.08,4
+SESS001810,2024-03-04,App_6,Social Media,iOS,Premium,North America,91.92,4.22,85
+SESS001811,2024-05-21,App_13,Social Media,iOS,Free,Africa,43.92,391.71,47
+SESS001812,2024-07-31,App_12,Productivity,Android,Free,Asia,81.04,477.17,97
+SESS001813,2024-11-28,App_12,Gaming,Android,Free,Asia,108.55,208.19,50
+SESS001814,2025-05-04,App_6,Health & Fitness,iOS,Free,Europe,51.2,243.7,49
+SESS001815,2025-01-20,App_15,Social Media,Android,Free,Asia,47.86,494.19,94
+SESS001816,2024-11-17,App_10,Gaming,Android,Free,South America,89.57,74.51,80
+SESS001817,2024-06-26,App_1,Entertainment,Android,Free,North America,42.33,442.17,43
+SESS001818,2025-04-15,App_12,Gaming,iOS,Free,Europe,94.79,120.39,88
+SESS001819,2024-12-16,App_12,Productivity,iOS,Premium,Europe,102.42,302.16,59
+SESS001820,2024-12-28,App_6,Health & Fitness,Android,Premium,North America,69.23,478.55,73
+SESS001821,2024-09-27,App_10,Productivity,iOS,Free,Africa,63.21,453.7,5
+SESS001822,2025-05-10,App_10,Entertainment,iOS,Premium,North America,112.88,360.53,4
+SESS001823,2024-07-15,App_3,Gaming,Android,Free,Europe,97.77,209.23,87
+SESS001824,2024-09-09,App_10,Social Media,Android,Premium,South America,75.75,385.54,16
+SESS001825,2024-10-12,App_4,Entertainment,Android,Premium,Africa,93.54,315.95,22
+SESS001826,2024-11-01,App_14,Productivity,iOS,Free,Africa,80.62,355.83,36
+SESS001827,2024-08-18,App_13,Gaming,Android,Premium,North America,4.05,400.2,70
+SESS001828,2024-10-31,App_15,Productivity,iOS,Free,North America,68.46,186.83,23
+SESS001829,2024-10-22,App_8,Social Media,Android,Free,Europe,3.87,1.87,100
+SESS001830,2024-07-31,App_9,Entertainment,Android,Free,North America,113.57,241.66,96
+SESS001831,2025-05-15,App_5,Entertainment,Android,Premium,North America,12.76,412.25,44
+SESS001832,2024-11-20,App_3,Health & Fitness,Android,Premium,North America,110.56,250.79,48
+SESS001833,2025-05-06,App_8,Productivity,Android,Free,Europe,96.43,105.93,35
+SESS001834,2024-12-23,App_1,Health & Fitness,iOS,Free,South America,87.76,166.59,33
+SESS001835,2024-10-07,App_2,Entertainment,iOS,Premium,Europe,102.08,329.5,24
+SESS001836,2024-10-21,App_1,Gaming,Android,Free,Asia,31.17,368.4,68
+SESS001837,2024-05-04,App_4,Health & Fitness,iOS,Free,North America,98.39,252.74,51
+SESS001838,2025-01-23,App_10,Gaming,Android,Free,Asia,41.94,265.67,59
+SESS001839,2025-02-08,App_4,Health & Fitness,Android,Free,Asia,116.86,444.85,76
+SESS001840,2024-12-19,App_1,Productivity,Android,Premium,Africa,30.6,496.82,51
+SESS001841,2024-05-29,App_9,Productivity,Android,Free,Europe,54.07,306.43,26
+SESS001842,2024-10-24,App_8,Entertainment,iOS,Premium,Asia,6.69,306.31,18
+SESS001843,2024-02-13,App_1,Productivity,iOS,Free,Europe,55.53,217.75,46
+SESS001844,2024-10-21,App_6,Health & Fitness,iOS,Premium,Africa,118.93,474.93,79
+SESS001845,2024-03-21,App_15,Health & Fitness,Android,Premium,South America,32.32,400.24,38
+SESS001846,2024-12-20,App_10,Gaming,iOS,Premium,South America,95.44,227.75,24
+SESS001847,2025-03-28,App_4,Social Media,iOS,Free,North America,25.92,359.69,82
+SESS001848,2024-09-19,App_13,Health & Fitness,Android,Premium,North America,92.73,273.79,32
+SESS001849,2025-05-05,App_3,Gaming,iOS,Free,North America,66.13,269.63,82
+SESS001850,2024-08-07,App_6,Entertainment,Android,Premium,Asia,39.3,378.01,18
+SESS001851,2024-07-25,App_12,Productivity,Android,Free,Africa,48.76,22.73,88
+SESS001852,2024-10-04,App_3,Productivity,iOS,Free,Europe,42.48,166.64,69
+SESS001853,2024-10-05,App_15,Health & Fitness,iOS,Premium,South America,98.04,203.96,95
+SESS001854,2024-05-20,App_13,Productivity,iOS,Premium,Asia,101.52,313.71,74
+SESS001855,2024-04-21,App_14,Entertainment,iOS,Premium,Europe,102.94,396.02,35
+SESS001856,2024-09-02,App_14,Social Media,iOS,Premium,South America,40.72,237.52,51
+SESS001857,2024-09-05,App_6,Health & Fitness,Android,Premium,Asia,74.35,439.18,29
+SESS001858,2024-02-21,App_1,Entertainment,Android,Free,Asia,89.04,464.56,25
+SESS001859,2024-08-19,App_1,Gaming,Android,Free,Africa,100.51,457.1,70
+SESS001860,2024-08-26,App_3,Social Media,Android,Premium,Asia,28.08,304.58,74
+SESS001861,2024-02-23,App_10,Health & Fitness,iOS,Free,Europe,99.61,115.86,14
+SESS001862,2024-04-12,App_12,Productivity,Android,Premium,Africa,13.05,157.93,44
+SESS001863,2025-02-27,App_15,Health & Fitness,iOS,Free,Asia,86.91,295.65,52
+SESS001864,2024-12-04,App_3,Gaming,Android,Premium,Asia,77.09,224.91,22
+SESS001865,2025-04-28,App_13,Productivity,Android,Premium,Africa,38.24,150.49,34
+SESS001866,2024-04-12,App_2,Social Media,iOS,Free,Africa,60.17,326.2,11
+SESS001867,2024-05-20,App_14,Health & Fitness,iOS,Premium,North America,23.16,19.84,88
+SESS001868,2024-01-06,App_9,Entertainment,Android,Free,North America,46.54,115.12,88
+SESS001869,2024-06-10,App_14,Gaming,Android,Premium,Asia,32.5,452.24,42
+SESS001870,2025-02-20,App_6,Health & Fitness,iOS,Premium,South America,85.18,127.44,24
+SESS001871,2025-05-02,App_2,Entertainment,Android,Premium,Africa,42.72,133.05,69
+SESS001872,2025-05-03,App_6,Health & Fitness,Android,Premium,South America,96.9,265.61,98
+SESS001873,2024-07-23,App_12,Gaming,iOS,Free,Asia,107.6,20.75,44
+SESS001874,2024-10-21,App_11,Health & Fitness,iOS,Free,North America,90.82,476.03,93
+SESS001875,2024-11-24,App_7,Productivity,iOS,Premium,Europe,115.16,224.9,62
+SESS001876,2024-10-19,App_10,Productivity,iOS,Free,Europe,39.41,198.79,23
+SESS001877,2024-03-01,App_2,Entertainment,iOS,Premium,Africa,14.27,215.29,44
+SESS001878,2024-04-01,App_6,Productivity,Android,Premium,Europe,70.24,479.34,50
+SESS001879,2024-08-25,App_5,Social Media,iOS,Free,Asia,109.15,401.29,22
+SESS001880,2024-02-08,App_6,Social Media,Android,Free,Africa,84.33,137.18,74
+SESS001881,2024-06-28,App_3,Health & Fitness,iOS,Premium,Europe,67.7,407.31,22
+SESS001882,2025-03-03,App_3,Social Media,iOS,Premium,North America,91.06,273.5,52
+SESS001883,2024-06-29,App_12,Social Media,Android,Free,Asia,65.05,208.67,76
+SESS001884,2024-02-07,App_7,Gaming,Android,Free,Europe,48.36,251.13,29
+SESS001885,2025-02-10,App_13,Gaming,Android,Free,North America,83.78,476.32,89
+SESS001886,2025-05-22,App_11,Social Media,iOS,Premium,Europe,24.64,397.42,29
+SESS001887,2024-07-09,App_8,Gaming,iOS,Free,South America,11.77,320.19,44
+SESS001888,2024-10-23,App_11,Social Media,Android,Premium,South America,72.16,153.45,68
+SESS001889,2024-02-08,App_6,Entertainment,iOS,Free,North America,105.36,300.32,78
+SESS001890,2024-01-10,App_3,Gaming,iOS,Free,North America,49.15,26.07,88
+SESS001891,2024-11-01,App_12,Social Media,iOS,Premium,South America,32.34,494.44,48
+SESS001892,2024-04-19,App_9,Social Media,Android,Free,North America,86.19,107.1,14
+SESS001893,2024-12-09,App_12,Health & Fitness,Android,Premium,Asia,64.41,330.81,29
+SESS001894,2024-10-18,App_15,Entertainment,Android,Premium,Asia,48.21,144.13,65
+SESS001895,2025-04-10,App_15,Entertainment,iOS,Premium,Africa,110.63,58.38,14
+SESS001896,2025-05-20,App_10,Health & Fitness,iOS,Premium,South America,13.33,117.8,72
+SESS001897,2024-05-17,App_13,Health & Fitness,iOS,Premium,Asia,114.77,494.64,91
+SESS001898,2025-05-31,App_6,Health & Fitness,iOS,Premium,North America,97.93,280.6,51
+SESS001899,2025-04-24,App_4,Productivity,Android,Free,North America,106.61,164.63,48
+SESS001900,2024-10-06,App_11,Social Media,Android,Premium,Asia,35.98,272.76,47
+SESS001901,2024-07-16,App_10,Productivity,Android,Free,Africa,68.84,100.53,4
+SESS001902,2024-04-25,App_14,Gaming,Android,Premium,South America,10.78,342.7,83
+SESS001903,2024-12-04,App_3,Health & Fitness,iOS,Premium,South America,119.93,40.3,63
+SESS001904,2024-06-15,App_7,Social Media,Android,Free,North America,53.66,323.6,67
+SESS001905,2025-04-14,App_5,Social Media,iOS,Free,South America,5.85,473.32,34
+SESS001906,2024-09-20,App_12,Gaming,iOS,Premium,South America,66.21,10.84,50
+SESS001907,2024-07-09,App_12,Entertainment,Android,Premium,South America,80.44,65.37,72
+SESS001908,2024-01-15,App_5,Social Media,iOS,Free,North America,33.58,374.83,42
+SESS001909,2024-12-11,App_3,Entertainment,Android,Premium,Europe,59.84,129.47,3
+SESS001910,2024-10-29,App_3,Social Media,iOS,Free,Europe,100.16,328.9,79
+SESS001911,2024-07-16,App_12,Productivity,Android,Free,South America,118.01,336.07,42
+SESS001912,2024-06-28,App_1,Health & Fitness,iOS,Free,Europe,30.2,208.08,97
+SESS001913,2025-02-19,App_12,Entertainment,iOS,Premium,South America,27.87,453.02,63
+SESS001914,2025-03-13,App_10,Productivity,Android,Free,Africa,78.1,102.44,99
+SESS001915,2025-06-11,App_7,Social Media,Android,Free,North America,26.7,82.37,88
+SESS001916,2024-12-01,App_14,Health & Fitness,iOS,Premium,Asia,2.48,49.25,37
+SESS001917,2024-03-29,App_13,Productivity,Android,Premium,North America,30.0,465.9,34
+SESS001918,2025-02-14,App_10,Health & Fitness,iOS,Premium,Africa,3.47,155.09,29
+SESS001919,2024-04-07,App_1,Social Media,Android,Free,Asia,73.85,271.39,1
+SESS001920,2024-07-08,App_3,Social Media,Android,Free,North America,100.71,274.57,25
+SESS001921,2024-05-23,App_10,Productivity,iOS,Free,Africa,50.33,34.76,40
+SESS001922,2025-05-03,App_6,Social Media,iOS,Premium,Asia,66.6,491.42,81
+SESS001923,2024-11-27,App_15,Gaming,Android,Premium,Asia,68.6,436.67,80
+SESS001924,2024-09-11,App_13,Health & Fitness,iOS,Free,Africa,50.07,426.59,16
+SESS001925,2024-01-07,App_10,Social Media,Android,Premium,Europe,101.9,2.16,87
+SESS001926,2024-09-24,App_4,Social Media,Android,Premium,North America,70.13,120.16,66
+SESS001927,2025-01-27,App_11,Gaming,iOS,Premium,Asia,75.64,389.44,74
+SESS001928,2024-08-29,App_10,Health & Fitness,Android,Free,Africa,106.74,397.32,10
+SESS001929,2025-04-02,App_2,Entertainment,Android,Premium,South America,117.52,472.21,15
+SESS001930,2024-09-30,App_15,Gaming,Android,Premium,South America,89.87,482.59,62
+SESS001931,2024-12-03,App_8,Gaming,iOS,Premium,North America,85.1,57.13,77
+SESS001932,2024-11-05,App_3,Health & Fitness,iOS,Free,North America,117.85,225.92,62
+SESS001933,2024-01-12,App_6,Gaming,iOS,Free,Africa,96.61,61.16,22
+SESS001934,2024-09-24,App_12,Health & Fitness,iOS,Free,South America,32.36,383.12,7
+SESS001935,2025-01-03,App_2,Gaming,Android,Free,Asia,45.06,389.88,26
+SESS001936,2024-08-29,App_4,Health & Fitness,iOS,Free,Africa,108.11,232.92,67
+SESS001937,2024-03-04,App_6,Health & Fitness,Android,Free,South America,112.49,61.49,91
+SESS001938,2024-05-01,App_6,Entertainment,Android,Premium,South America,39.1,334.17,43
+SESS001939,2025-04-21,App_3,Social Media,iOS,Free,Africa,43.49,139.51,75
+SESS001940,2024-11-10,App_11,Health & Fitness,iOS,Free,Africa,115.01,42.09,31
+SESS001941,2024-06-12,App_15,Productivity,Android,Free,Africa,17.0,394.61,35
+SESS001942,2025-02-19,App_2,Entertainment,Android,Premium,Asia,103.33,176.94,5
+SESS001943,2025-05-29,App_14,Entertainment,Android,Premium,Europe,118.36,194.25,12
+SESS001944,2024-11-14,App_12,Social Media,Android,Free,South America,30.38,95.06,47
+SESS001945,2024-04-30,App_11,Gaming,Android,Premium,South America,65.05,472.5,27
+SESS001946,2024-10-29,App_11,Gaming,iOS,Premium,Europe,16.32,362.79,51
+SESS001947,2025-01-11,App_12,Health & Fitness,iOS,Premium,Europe,117.74,455.5,40
+SESS001948,2024-08-14,App_15,Entertainment,iOS,Premium,North America,94.32,310.36,12
+SESS001949,2024-08-12,App_6,Health & Fitness,Android,Premium,Asia,61.39,484.73,42
+SESS001950,2024-05-16,App_8,Productivity,iOS,Free,Asia,57.61,383.36,38
+SESS001951,2025-05-04,App_1,Gaming,Android,Premium,North America,38.3,496.07,59
+SESS001952,2024-06-05,App_5,Health & Fitness,Android,Free,Europe,97.06,81.56,14
+SESS001953,2025-04-10,App_4,Health & Fitness,Android,Free,Africa,72.89,171.38,42
+SESS001954,2025-01-17,App_4,Entertainment,iOS,Free,Asia,86.69,261.28,42
+SESS001955,2025-03-01,App_12,Productivity,iOS,Free,Asia,86.39,344.92,26
+SESS001956,2025-04-27,App_2,Productivity,Android,Premium,Africa,77.75,97.49,14
+SESS001957,2024-08-11,App_6,Health & Fitness,Android,Free,South America,66.93,495.56,28
+SESS001958,2024-09-10,App_5,Productivity,iOS,Premium,North America,118.22,378.78,94
+SESS001959,2024-03-24,App_13,Productivity,Android,Free,Africa,56.37,176.02,23
+SESS001960,2025-04-02,App_2,Entertainment,iOS,Premium,Asia,69.34,170.42,47
+SESS001961,2025-01-05,App_12,Entertainment,Android,Free,Asia,7.33,194.94,80
+SESS001962,2024-03-20,App_1,Productivity,iOS,Premium,Asia,74.64,378.5,28
+SESS001963,2024-04-24,App_1,Health & Fitness,iOS,Free,Asia,60.16,52.23,54
+SESS001964,2024-03-04,App_7,Gaming,Android,Free,Africa,52.91,256.45,61
+SESS001965,2025-06-01,App_8,Health & Fitness,Android,Free,North America,114.43,406.0,94
+SESS001966,2024-07-26,App_12,Health & Fitness,Android,Free,North America,21.39,106.57,68
+SESS001967,2024-06-02,App_7,Gaming,Android,Free,Asia,67.64,95.48,13
+SESS001968,2024-06-17,App_3,Entertainment,Android,Free,Africa,67.52,318.93,31
+SESS001969,2024-12-01,App_15,Health & Fitness,Android,Free,Asia,7.85,386.84,55
+SESS001970,2025-03-28,App_7,Productivity,Android,Premium,Asia,42.36,373.99,58
+SESS001971,2024-04-29,App_8,Productivity,Android,Free,Europe,104.24,33.92,41
+SESS001972,2024-07-29,App_15,Entertainment,Android,Premium,South America,18.6,496.51,6
+SESS001973,2025-05-15,App_7,Entertainment,iOS,Free,South America,82.16,113.76,3
+SESS001974,2024-04-03,App_6,Entertainment,Android,Free,North America,8.78,328.68,80
+SESS001975,2025-06-06,App_9,Social Media,Android,Premium,South America,86.55,456.48,35
+SESS001976,2025-04-01,App_7,Social Media,iOS,Free,North America,68.8,247.44,20
+SESS001977,2024-02-26,App_2,Productivity,Android,Free,South America,113.73,385.53,90
+SESS001978,2025-04-09,App_14,Health & Fitness,iOS,Free,North America,87.6,193.94,83
+SESS001979,2024-05-15,App_8,Social Media,iOS,Free,Asia,85.92,321.44,14
+SESS001980,2025-06-09,App_13,Health & Fitness,iOS,Premium,South America,59.41,99.96,37
+SESS001981,2025-03-01,App_14,Gaming,iOS,Premium,Africa,84.8,21.46,99
+SESS001982,2025-04-12,App_10,Productivity,iOS,Premium,Europe,113.19,226.73,12
+SESS001983,2024-02-29,App_11,Social Media,iOS,Free,South America,118.36,2.36,5
+SESS001984,2025-04-18,App_13,Productivity,iOS,Free,North America,26.61,178.03,100
+SESS001985,2024-11-11,App_11,Gaming,Android,Premium,Africa,54.8,493.84,46
+SESS001986,2024-01-23,App_4,Gaming,Android,Premium,North America,65.07,466.99,23
+SESS001987,2025-02-09,App_3,Productivity,iOS,Premium,Asia,81.29,324.53,59
+SESS001988,2024-09-17,App_8,Social Media,Android,Free,Africa,40.33,208.06,50
+SESS001989,2024-01-04,App_2,Productivity,Android,Premium,Africa,68.81,418.84,79
+SESS001990,2024-08-11,App_13,Health & Fitness,iOS,Free,Asia,105.24,484.81,68
+SESS001991,2024-03-15,App_14,Health & Fitness,Android,Premium,North America,113.61,431.07,16
+SESS001992,2024-02-16,App_1,Health & Fitness,iOS,Free,South America,18.16,43.07,90
+SESS001993,2025-03-09,App_5,Health & Fitness,Android,Premium,Europe,65.21,421.59,76
+SESS001994,2024-12-18,App_1,Health & Fitness,Android,Premium,Asia,82.08,297.53,68
+SESS001995,2024-03-06,App_6,Gaming,Android,Premium,Asia,38.42,280.93,61
+SESS001996,2024-03-02,App_5,Social Media,Android,Premium,Asia,1.81,58.69,72
+SESS001997,2024-03-11,App_2,Social Media,Android,Premium,South America,73.54,68.32,8
+SESS001998,2025-04-28,App_2,Entertainment,iOS,Free,Europe,85.74,247.43,78
+SESS001999,2024-02-02,App_6,Productivity,iOS,Premium,Europe,43.64,498.07,94
+SESS002000,2024-10-20,App_3,Gaming,iOS,Free,Europe,15.24,363.09,17
