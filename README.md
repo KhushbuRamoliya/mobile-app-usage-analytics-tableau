@@ -16,7 +16,7 @@ To help product and business teams understand:
 
 ## 📊 Dashboard Preview
 🔗 **Live Tableau Dashboard**  
-👉 https://public.tableau.com/app/profile/your-profile/viz/mobile-app-usage-dashboard
+👉 https://public.tableau.com/app/profile/khushbu.ramoliya/viz/mobile_app_usage_dashboard/MobileAppUsageInsights?publish=yes&showOnboarding=true
 
 ---
 
@@ -78,4 +78,4 @@ Synthetic dataset with **2,000+ mobile app sessions**, including:
 **Khushbu Ramoliya**  
 📍 Windsor, Ontario  
 🎓 MEng – Electrical & Computer Engineering  
-🔗 LinkedIn: https://linkedin.com/in/your-profile
+🔗 LinkedIn: https://www.linkedin.com/in/khushbu-ramoliya-740042115/
